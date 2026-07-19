@@ -1,0 +1,3557 @@
+Starting NanoGPT (OpenWebText)
+Loading TinyShakespeare data (using mmap)...
+Step Loss:
+39.614295959472656
+[ CPUFloatType{} ]
+Saving checkpoint...
+Step Loss:
+38.904815673828125
+[ CPUFloatType{} ]
+Step Loss:
+39.847801208496094
+[ CPUFloatType{} ]
+Step Loss:
+37.492286682128906
+[ CPUFloatType{} ]
+Step Loss:
+37.41090393066406
+[ CPUFloatType{} ]
+Step Loss:
+36.509517669677734
+[ CPUFloatType{} ]
+Step Loss:
+36.477088928222656
+[ CPUFloatType{} ]
+Step Loss:
+36.775062561035156
+[ CPUFloatType{} ]
+Step Loss:
+34.652008056640625
+[ CPUFloatType{} ]
+Step Loss:
+34.15739822387695
+[ CPUFloatType{} ]
+Step Loss:
+33.6739387512207
+[ CPUFloatType{} ]
+Step Loss:
+32.40263748168945
+[ CPUFloatType{} ]
+Step Loss:
+31.979246139526367
+[ CPUFloatType{} ]
+Step Loss:
+31.420482635498047
+[ CPUFloatType{} ]
+Step Loss:
+30.633298873901367
+[ CPUFloatType{} ]
+Step Loss:
+32.76266098022461
+[ CPUFloatType{} ]
+Step Loss:
+32.09738540649414
+[ CPUFloatType{} ]
+Step Loss:
+31.635517120361328
+[ CPUFloatType{} ]
+Step Loss:
+30.83622169494629
+[ CPUFloatType{} ]
+Step Loss:
+30.470766067504883
+[ CPUFloatType{} ]
+Step Loss:
+30.431930541992188
+[ CPUFloatType{} ]
+Step Loss:
+30.043264389038086
+[ CPUFloatType{} ]
+Step Loss:
+28.788339614868164
+[ CPUFloatType{} ]
+Step Loss:
+27.615219116210938
+[ CPUFloatType{} ]
+Step Loss:
+28.04866600036621
+[ CPUFloatType{} ]
+Step Loss:
+27.97714614868164
+[ CPUFloatType{} ]
+Step Loss:
+26.91826629638672
+[ CPUFloatType{} ]
+Step Loss:
+27.371049880981445
+[ CPUFloatType{} ]
+Step Loss:
+27.28521728515625
+[ CPUFloatType{} ]
+Step Loss:
+25.95911407470703
+[ CPUFloatType{} ]
+Step Loss:
+26.639801025390625
+[ CPUFloatType{} ]
+Step Loss:
+25.66619873046875
+[ CPUFloatType{} ]
+Step Loss:
+25.894432067871094
+[ CPUFloatType{} ]
+Step Loss:
+25.496068954467773
+[ CPUFloatType{} ]
+Step Loss:
+25.55633544921875
+[ CPUFloatType{} ]
+Step Loss:
+25.51148796081543
+[ CPUFloatType{} ]
+Step Loss:
+25.625139236450195
+[ CPUFloatType{} ]
+Step Loss:
+24.565292358398438
+[ CPUFloatType{} ]
+Step Loss:
+23.393512725830078
+[ CPUFloatType{} ]
+Step Loss:
+23.530855178833008
+[ CPUFloatType{} ]
+Step Loss:
+23.791263580322266
+[ CPUFloatType{} ]
+Step Loss:
+22.31763458251953
+[ CPUFloatType{} ]
+Step Loss:
+21.658262252807617
+[ CPUFloatType{} ]
+Step Loss:
+22.636518478393555
+[ CPUFloatType{} ]
+Step Loss:
+22.811138153076172
+[ CPUFloatType{} ]
+Step Loss:
+22.671127319335938
+[ CPUFloatType{} ]
+Step Loss:
+22.76387596130371
+[ CPUFloatType{} ]
+Step Loss:
+21.678878784179688
+[ CPUFloatType{} ]
+Step Loss:
+21.631677627563477
+[ CPUFloatType{} ]
+Step Loss:
+21.175758361816406
+[ CPUFloatType{} ]
+Step Loss:
+20.524658203125
+[ CPUFloatType{} ]
+Step Loss:
+20.62468910217285
+[ CPUFloatType{} ]
+Step Loss:
+20.75408363342285
+[ CPUFloatType{} ]
+Step Loss:
+20.615293502807617
+[ CPUFloatType{} ]
+Step Loss:
+20.394935607910156
+[ CPUFloatType{} ]
+Step Loss:
+20.293508529663086
+[ CPUFloatType{} ]
+Step Loss:
+20.145780563354492
+[ CPUFloatType{} ]
+Step Loss:
+20.891788482666016
+[ CPUFloatType{} ]
+Step Loss:
+19.264938354492188
+[ CPUFloatType{} ]
+Step Loss:
+19.14699935913086
+[ CPUFloatType{} ]
+Step Loss:
+19.10041046142578
+[ CPUFloatType{} ]
+Step Loss:
+19.250024795532227
+[ CPUFloatType{} ]
+Step Loss:
+19.043489456176758
+[ CPUFloatType{} ]
+Step Loss:
+17.953857421875
+[ CPUFloatType{} ]
+Step Loss:
+18.51621437072754
+[ CPUFloatType{} ]
+Step Loss:
+20.048686981201172
+[ CPUFloatType{} ]
+Step Loss:
+18.712499618530273
+[ CPUFloatType{} ]
+Step Loss:
+18.205671310424805
+[ CPUFloatType{} ]
+Step Loss:
+17.03502082824707
+[ CPUFloatType{} ]
+Step Loss:
+17.719602584838867
+[ CPUFloatType{} ]
+Step Loss:
+18.199087142944336
+[ CPUFloatType{} ]
+Step Loss:
+17.350725173950195
+[ CPUFloatType{} ]
+Step Loss:
+16.749967575073242
+[ CPUFloatType{} ]
+Step Loss:
+16.72528076171875
+[ CPUFloatType{} ]
+Step Loss:
+17.052494049072266
+[ CPUFloatType{} ]
+Step Loss:
+17.293378829956055
+[ CPUFloatType{} ]
+Step Loss:
+16.721994400024414
+[ CPUFloatType{} ]
+Step Loss:
+17.091779708862305
+[ CPUFloatType{} ]
+Step Loss:
+16.012990951538086
+[ CPUFloatType{} ]
+Step Loss:
+15.621822357177734
+[ CPUFloatType{} ]
+Step Loss:
+15.02394962310791
+[ CPUFloatType{} ]
+Step Loss:
+15.309946060180664
+[ CPUFloatType{} ]
+Step Loss:
+15.548759460449219
+[ CPUFloatType{} ]
+Step Loss:
+15.842880249023438
+[ CPUFloatType{} ]
+Step Loss:
+15.830142974853516
+[ CPUFloatType{} ]
+Step Loss:
+16.142250061035156
+[ CPUFloatType{} ]
+Step Loss:
+15.565271377563477
+[ CPUFloatType{} ]
+Step Loss:
+15.554319381713867
+[ CPUFloatType{} ]
+Step Loss:
+15.171529769897461
+[ CPUFloatType{} ]
+Step Loss:
+15.02202033996582
+[ CPUFloatType{} ]
+Step Loss:
+14.81271743774414
+[ CPUFloatType{} ]
+Step Loss:
+14.96056842803955
+[ CPUFloatType{} ]
+Step Loss:
+14.728507995605469
+[ CPUFloatType{} ]
+Step Loss:
+14.431707382202148
+[ CPUFloatType{} ]
+Step Loss:
+14.286714553833008
+[ CPUFloatType{} ]
+Step Loss:
+13.558551788330078
+[ CPUFloatType{} ]
+Step Loss:
+14.767109870910645
+[ CPUFloatType{} ]
+Step Loss:
+13.929378509521484
+[ CPUFloatType{} ]
+Step Loss:
+13.972103118896484
+[ CPUFloatType{} ]
+Step Loss:
+14.090001106262207
+[ CPUFloatType{} ]
+Step Loss:
+13.651914596557617
+[ CPUFloatType{} ]
+Step Loss:
+13.67182731628418
+[ CPUFloatType{} ]
+Step Loss:
+14.508892059326172
+[ CPUFloatType{} ]
+Step Loss:
+14.707536697387695
+[ CPUFloatType{} ]
+Step Loss:
+13.470932006835938
+[ CPUFloatType{} ]
+Step Loss:
+14.607691764831543
+[ CPUFloatType{} ]
+Step Loss:
+14.148463249206543
+[ CPUFloatType{} ]
+Step Loss:
+13.039297103881836
+[ CPUFloatType{} ]
+Step Loss:
+13.452481269836426
+[ CPUFloatType{} ]
+Step Loss:
+12.899972915649414
+[ CPUFloatType{} ]
+Step Loss:
+13.017666816711426
+[ CPUFloatType{} ]
+Step Loss:
+13.000812530517578
+[ CPUFloatType{} ]
+Step Loss:
+12.790210723876953
+[ CPUFloatType{} ]
+Step Loss:
+13.20067310333252
+[ CPUFloatType{} ]
+Step Loss:
+13.58624267578125
+[ CPUFloatType{} ]
+Step Loss:
+13.53164291381836
+[ CPUFloatType{} ]
+Step Loss:
+13.50971508026123
+[ CPUFloatType{} ]
+Step Loss:
+13.042494773864746
+[ CPUFloatType{} ]
+Step Loss:
+12.622090339660645
+[ CPUFloatType{} ]
+Step Loss:
+12.513343811035156
+[ CPUFloatType{} ]
+Step Loss:
+12.087055206298828
+[ CPUFloatType{} ]
+Step Loss:
+12.601646423339844
+[ CPUFloatType{} ]
+Step Loss:
+12.470705032348633
+[ CPUFloatType{} ]
+Step Loss:
+12.516387939453125
+[ CPUFloatType{} ]
+Step Loss:
+12.336394309997559
+[ CPUFloatType{} ]
+Step Loss:
+12.030538558959961
+[ CPUFloatType{} ]
+Step Loss:
+11.296936988830566
+[ CPUFloatType{} ]
+Step Loss:
+11.459094047546387
+[ CPUFloatType{} ]
+Step Loss:
+12.171632766723633
+[ CPUFloatType{} ]
+Step Loss:
+12.273964881896973
+[ CPUFloatType{} ]
+Step Loss:
+12.930883407592773
+[ CPUFloatType{} ]
+Step Loss:
+13.140181541442871
+[ CPUFloatType{} ]
+Step Loss:
+12.81502914428711
+[ CPUFloatType{} ]
+Step Loss:
+12.152283668518066
+[ CPUFloatType{} ]
+Step Loss:
+11.295184135437012
+[ CPUFloatType{} ]
+Step Loss:
+11.468029975891113
+[ CPUFloatType{} ]
+Step Loss:
+12.225174903869629
+[ CPUFloatType{} ]
+Step Loss:
+12.11967658996582
+[ CPUFloatType{} ]
+Step Loss:
+12.013745307922363
+[ CPUFloatType{} ]
+Step Loss:
+10.371377944946289
+[ CPUFloatType{} ]
+Step Loss:
+10.595319747924805
+[ CPUFloatType{} ]
+Step Loss:
+11.330033302307129
+[ CPUFloatType{} ]
+Step Loss:
+11.321151733398438
+[ CPUFloatType{} ]
+Step Loss:
+11.218595504760742
+[ CPUFloatType{} ]
+Step Loss:
+11.188163757324219
+[ CPUFloatType{} ]
+Step Loss:
+11.171329498291016
+[ CPUFloatType{} ]
+Step Loss:
+11.622403144836426
+[ CPUFloatType{} ]
+Step Loss:
+10.702667236328125
+[ CPUFloatType{} ]
+Step Loss:
+11.225533485412598
+[ CPUFloatType{} ]
+Step Loss:
+11.6344575881958
+[ CPUFloatType{} ]
+Step Loss:
+11.435057640075684
+[ CPUFloatType{} ]
+Step Loss:
+11.2953462600708
+[ CPUFloatType{} ]
+Step Loss:
+10.784896850585938
+[ CPUFloatType{} ]
+Step Loss:
+11.113564491271973
+[ CPUFloatType{} ]
+Step Loss:
+11.147284507751465
+[ CPUFloatType{} ]
+Step Loss:
+10.572738647460938
+[ CPUFloatType{} ]
+Step Loss:
+10.834972381591797
+[ CPUFloatType{} ]
+Step Loss:
+10.828876495361328
+[ CPUFloatType{} ]
+Step Loss:
+11.166481971740723
+[ CPUFloatType{} ]
+Step Loss:
+10.514196395874023
+[ CPUFloatType{} ]
+Step Loss:
+10.774513244628906
+[ CPUFloatType{} ]
+Step Loss:
+10.981260299682617
+[ CPUFloatType{} ]
+Step Loss:
+11.18696117401123
+[ CPUFloatType{} ]
+Step Loss:
+11.199732780456543
+[ CPUFloatType{} ]
+Step Loss:
+10.88235092163086
+[ CPUFloatType{} ]
+Step Loss:
+10.670905113220215
+[ CPUFloatType{} ]
+Step Loss:
+10.813366889953613
+[ CPUFloatType{} ]
+Step Loss:
+10.574586868286133
+[ CPUFloatType{} ]
+Step Loss:
+11.327178955078125
+[ CPUFloatType{} ]
+Step Loss:
+11.562346458435059
+[ CPUFloatType{} ]
+Step Loss:
+10.405216217041016
+[ CPUFloatType{} ]
+Step Loss:
+10.741111755371094
+[ CPUFloatType{} ]
+Step Loss:
+10.799696922302246
+[ CPUFloatType{} ]
+Step Loss:
+10.061652183532715
+[ CPUFloatType{} ]
+Step Loss:
+10.449395179748535
+[ CPUFloatType{} ]
+Step Loss:
+9.978704452514648
+[ CPUFloatType{} ]
+Step Loss:
+10.134293556213379
+[ CPUFloatType{} ]
+Step Loss:
+10.485345840454102
+[ CPUFloatType{} ]
+Step Loss:
+9.828845024108887
+[ CPUFloatType{} ]
+Step Loss:
+10.157028198242188
+[ CPUFloatType{} ]
+Step Loss:
+9.878898620605469
+[ CPUFloatType{} ]
+Step Loss:
+10.201961517333984
+[ CPUFloatType{} ]
+Step Loss:
+10.297490119934082
+[ CPUFloatType{} ]
+Step Loss:
+10.072139739990234
+[ CPUFloatType{} ]
+Step Loss:
+11.160463333129883
+[ CPUFloatType{} ]
+Step Loss:
+10.461480140686035
+[ CPUFloatType{} ]
+Step Loss:
+10.468795776367188
+[ CPUFloatType{} ]
+Step Loss:
+10.57296085357666
+[ CPUFloatType{} ]
+Step Loss:
+10.824263572692871
+[ CPUFloatType{} ]
+Step Loss:
+10.141782760620117
+[ CPUFloatType{} ]
+Step Loss:
+10.055991172790527
+[ CPUFloatType{} ]
+Step Loss:
+10.145230293273926
+[ CPUFloatType{} ]
+Step Loss:
+10.78309154510498
+[ CPUFloatType{} ]
+Step Loss:
+10.162687301635742
+[ CPUFloatType{} ]
+Step Loss:
+9.947430610656738
+[ CPUFloatType{} ]
+Step Loss:
+10.410347938537598
+[ CPUFloatType{} ]
+Step Loss:
+9.956005096435547
+[ CPUFloatType{} ]
+Step Loss:
+10.370668411254883
+[ CPUFloatType{} ]
+Step Loss:
+9.661067008972168
+[ CPUFloatType{} ]
+Step Loss:
+10.170587539672852
+[ CPUFloatType{} ]
+Step Loss:
+9.651976585388184
+[ CPUFloatType{} ]
+Step Loss:
+10.286114692687988
+[ CPUFloatType{} ]
+Step Loss:
+10.263825416564941
+[ CPUFloatType{} ]
+Step Loss:
+9.282244682312012
+[ CPUFloatType{} ]
+Step Loss:
+10.05093002319336
+[ CPUFloatType{} ]
+Step Loss:
+9.663942337036133
+[ CPUFloatType{} ]
+Step Loss:
+10.219057083129883
+[ CPUFloatType{} ]
+Step Loss:
+9.885903358459473
+[ CPUFloatType{} ]
+Step Loss:
+9.590057373046875
+[ CPUFloatType{} ]
+Step Loss:
+10.034210205078125
+[ CPUFloatType{} ]
+Step Loss:
+9.823789596557617
+[ CPUFloatType{} ]
+Step Loss:
+10.131446838378906
+[ CPUFloatType{} ]
+Step Loss:
+9.900493621826172
+[ CPUFloatType{} ]
+Step Loss:
+9.637144088745117
+[ CPUFloatType{} ]
+Step Loss:
+9.37271499633789
+[ CPUFloatType{} ]
+Step Loss:
+9.794788360595703
+[ CPUFloatType{} ]
+Step Loss:
+9.65968132019043
+[ CPUFloatType{} ]
+Step Loss:
+9.693419456481934
+[ CPUFloatType{} ]
+Step Loss:
+9.878538131713867
+[ CPUFloatType{} ]
+Step Loss:
+9.699127197265625
+[ CPUFloatType{} ]
+Step Loss:
+9.627623558044434
+[ CPUFloatType{} ]
+Step Loss:
+9.409358024597168
+[ CPUFloatType{} ]
+Step Loss:
+9.587234497070312
+[ CPUFloatType{} ]
+Step Loss:
+9.258065223693848
+[ CPUFloatType{} ]
+Step Loss:
+9.364229202270508
+[ CPUFloatType{} ]
+Step Loss:
+9.245549201965332
+[ CPUFloatType{} ]
+Step Loss:
+9.271657943725586
+[ CPUFloatType{} ]
+Step Loss:
+9.354548454284668
+[ CPUFloatType{} ]
+Step Loss:
+9.328437805175781
+[ CPUFloatType{} ]
+Step Loss:
+9.771944999694824
+[ CPUFloatType{} ]
+Step Loss:
+9.041179656982422
+[ CPUFloatType{} ]
+Step Loss:
+8.559173583984375
+[ CPUFloatType{} ]
+Step Loss:
+9.262791633605957
+[ CPUFloatType{} ]
+Step Loss:
+9.170482635498047
+[ CPUFloatType{} ]
+Step Loss:
+9.06314754486084
+[ CPUFloatType{} ]
+Step Loss:
+8.145865440368652
+[ CPUFloatType{} ]
+Step Loss:
+9.436249732971191
+[ CPUFloatType{} ]
+Step Loss:
+9.257087707519531
+[ CPUFloatType{} ]
+Step Loss:
+8.586616516113281
+[ CPUFloatType{} ]
+Step Loss:
+8.799590110778809
+[ CPUFloatType{} ]
+Step Loss:
+8.593384742736816
+[ CPUFloatType{} ]
+Step Loss:
+8.667414665222168
+[ CPUFloatType{} ]
+Step Loss:
+8.909884452819824
+[ CPUFloatType{} ]
+Step Loss:
+9.20698356628418
+[ CPUFloatType{} ]
+Step Loss:
+8.7210054397583
+[ CPUFloatType{} ]
+Step Loss:
+9.03618335723877
+[ CPUFloatType{} ]
+Step Loss:
+9.125025749206543
+[ CPUFloatType{} ]
+Step Loss:
+9.061689376831055
+[ CPUFloatType{} ]
+Step Loss:
+8.565773010253906
+[ CPUFloatType{} ]
+Step Loss:
+8.811871528625488
+[ CPUFloatType{} ]
+Step Loss:
+9.153801918029785
+[ CPUFloatType{} ]
+Step Loss:
+9.076224327087402
+[ CPUFloatType{} ]
+Step Loss:
+8.910886764526367
+[ CPUFloatType{} ]
+Step Loss:
+8.892552375793457
+[ CPUFloatType{} ]
+Step Loss:
+9.161747932434082
+[ CPUFloatType{} ]
+Step Loss:
+8.717275619506836
+[ CPUFloatType{} ]
+Step Loss:
+8.372800827026367
+[ CPUFloatType{} ]
+Step Loss:
+8.03864574432373
+[ CPUFloatType{} ]
+Step Loss:
+8.497715950012207
+[ CPUFloatType{} ]
+Step Loss:
+8.586732864379883
+[ CPUFloatType{} ]
+Step Loss:
+8.545852661132812
+[ CPUFloatType{} ]
+Step Loss:
+8.665624618530273
+[ CPUFloatType{} ]
+Step Loss:
+8.800227165222168
+[ CPUFloatType{} ]
+Step Loss:
+8.5755615234375
+[ CPUFloatType{} ]
+Step Loss:
+8.85352611541748
+[ CPUFloatType{} ]
+Step Loss:
+8.647682189941406
+[ CPUFloatType{} ]
+Step Loss:
+8.766650199890137
+[ CPUFloatType{} ]
+Step Loss:
+8.599271774291992
+[ CPUFloatType{} ]
+Step Loss:
+8.696471214294434
+[ CPUFloatType{} ]
+Step Loss:
+8.29898738861084
+[ CPUFloatType{} ]
+Step Loss:
+8.006380081176758
+[ CPUFloatType{} ]
+Step Loss:
+8.170967102050781
+[ CPUFloatType{} ]
+Step Loss:
+8.72767162322998
+[ CPUFloatType{} ]
+Step Loss:
+8.388313293457031
+[ CPUFloatType{} ]
+Step Loss:
+8.173055648803711
+[ CPUFloatType{} ]
+Step Loss:
+8.31237506866455
+[ CPUFloatType{} ]
+Step Loss:
+8.455143928527832
+[ CPUFloatType{} ]
+Step Loss:
+8.125646591186523
+[ CPUFloatType{} ]
+Step Loss:
+8.179499626159668
+[ CPUFloatType{} ]
+Step Loss:
+8.292634010314941
+[ CPUFloatType{} ]
+Step Loss:
+8.153779029846191
+[ CPUFloatType{} ]
+Step Loss:
+8.213794708251953
+[ CPUFloatType{} ]
+Step Loss:
+8.60230827331543
+[ CPUFloatType{} ]
+Step Loss:
+8.106306076049805
+[ CPUFloatType{} ]
+Step Loss:
+8.0347261428833
+[ CPUFloatType{} ]
+Step Loss:
+8.29573917388916
+[ CPUFloatType{} ]
+Step Loss:
+8.169048309326172
+[ CPUFloatType{} ]
+Step Loss:
+8.581920623779297
+[ CPUFloatType{} ]
+Step Loss:
+8.398999214172363
+[ CPUFloatType{} ]
+Step Loss:
+8.158841133117676
+[ CPUFloatType{} ]
+Step Loss:
+8.21615982055664
+[ CPUFloatType{} ]
+Step Loss:
+7.943387985229492
+[ CPUFloatType{} ]
+Step Loss:
+8.289419174194336
+[ CPUFloatType{} ]
+Step Loss:
+8.466146469116211
+[ CPUFloatType{} ]
+Step Loss:
+8.910541534423828
+[ CPUFloatType{} ]
+Step Loss:
+8.262828826904297
+[ CPUFloatType{} ]
+Step Loss:
+8.295304298400879
+[ CPUFloatType{} ]
+Step Loss:
+8.382903099060059
+[ CPUFloatType{} ]
+Step Loss:
+8.150223731994629
+[ CPUFloatType{} ]
+Step Loss:
+8.18411922454834
+[ CPUFloatType{} ]
+Step Loss:
+8.249322891235352
+[ CPUFloatType{} ]
+Step Loss:
+8.544928550720215
+[ CPUFloatType{} ]
+Step Loss:
+8.349271774291992
+[ CPUFloatType{} ]
+Step Loss:
+8.555798530578613
+[ CPUFloatType{} ]
+Step Loss:
+8.574397087097168
+[ CPUFloatType{} ]
+Step Loss:
+7.826313018798828
+[ CPUFloatType{} ]
+Step Loss:
+8.108846664428711
+[ CPUFloatType{} ]
+Step Loss:
+7.875225067138672
+[ CPUFloatType{} ]
+Step Loss:
+7.9881720542907715
+[ CPUFloatType{} ]
+Step Loss:
+8.246280670166016
+[ CPUFloatType{} ]
+Step Loss:
+8.434481620788574
+[ CPUFloatType{} ]
+Step Loss:
+8.128568649291992
+[ CPUFloatType{} ]
+Step Loss:
+8.65058708190918
+[ CPUFloatType{} ]
+Step Loss:
+8.155238151550293
+[ CPUFloatType{} ]
+Step Loss:
+8.4996919631958
+[ CPUFloatType{} ]
+Step Loss:
+8.295681953430176
+[ CPUFloatType{} ]
+Step Loss:
+8.58049201965332
+[ CPUFloatType{} ]
+Step Loss:
+8.098116874694824
+[ CPUFloatType{} ]
+Step Loss:
+8.393501281738281
+[ CPUFloatType{} ]
+Step Loss:
+8.227166175842285
+[ CPUFloatType{} ]
+Step Loss:
+8.95921802520752
+[ CPUFloatType{} ]
+Step Loss:
+8.222517013549805
+[ CPUFloatType{} ]
+Step Loss:
+8.596640586853027
+[ CPUFloatType{} ]
+Step Loss:
+8.436132431030273
+[ CPUFloatType{} ]
+Step Loss:
+8.588147163391113
+[ CPUFloatType{} ]
+Step Loss:
+8.601608276367188
+[ CPUFloatType{} ]
+Step Loss:
+8.16165542602539
+[ CPUFloatType{} ]
+Step Loss:
+8.335603713989258
+[ CPUFloatType{} ]
+Step Loss:
+8.087681770324707
+[ CPUFloatType{} ]
+Step Loss:
+8.518974304199219
+[ CPUFloatType{} ]
+Step Loss:
+8.159462928771973
+[ CPUFloatType{} ]
+Step Loss:
+8.238938331604004
+[ CPUFloatType{} ]
+Step Loss:
+8.095002174377441
+[ CPUFloatType{} ]
+Step Loss:
+8.169363021850586
+[ CPUFloatType{} ]
+Step Loss:
+8.501032829284668
+[ CPUFloatType{} ]
+Step Loss:
+8.662480354309082
+[ CPUFloatType{} ]
+Step Loss:
+8.197282791137695
+[ CPUFloatType{} ]
+Step Loss:
+8.266788482666016
+[ CPUFloatType{} ]
+Step Loss:
+8.199146270751953
+[ CPUFloatType{} ]
+Step Loss:
+8.360603332519531
+[ CPUFloatType{} ]
+Step Loss:
+8.285501480102539
+[ CPUFloatType{} ]
+Step Loss:
+8.50687026977539
+[ CPUFloatType{} ]
+Step Loss:
+8.440829277038574
+[ CPUFloatType{} ]
+Step Loss:
+8.139291763305664
+[ CPUFloatType{} ]
+Step Loss:
+8.259954452514648
+[ CPUFloatType{} ]
+Step Loss:
+8.198084831237793
+[ CPUFloatType{} ]
+Step Loss:
+7.916061878204346
+[ CPUFloatType{} ]
+Step Loss:
+8.159931182861328
+[ CPUFloatType{} ]
+Step Loss:
+8.054769515991211
+[ CPUFloatType{} ]
+Step Loss:
+7.83366584777832
+[ CPUFloatType{} ]
+Step Loss:
+7.864372253417969
+[ CPUFloatType{} ]
+Step Loss:
+7.867203712463379
+[ CPUFloatType{} ]
+Step Loss:
+7.920355796813965
+[ CPUFloatType{} ]
+Step Loss:
+8.046690940856934
+[ CPUFloatType{} ]
+Step Loss:
+8.260608673095703
+[ CPUFloatType{} ]
+Step Loss:
+8.025477409362793
+[ CPUFloatType{} ]
+Step Loss:
+8.2158842086792
+[ CPUFloatType{} ]
+Step Loss:
+7.972488880157471
+[ CPUFloatType{} ]
+Step Loss:
+8.38035774230957
+[ CPUFloatType{} ]
+Step Loss:
+7.852579593658447
+[ CPUFloatType{} ]
+Step Loss:
+8.087976455688477
+[ CPUFloatType{} ]
+Step Loss:
+8.019394874572754
+[ CPUFloatType{} ]
+Step Loss:
+7.8112053871154785
+[ CPUFloatType{} ]
+Step Loss:
+8.043575286865234
+[ CPUFloatType{} ]
+Step Loss:
+7.904135704040527
+[ CPUFloatType{} ]
+Step Loss:
+7.675007343292236
+[ CPUFloatType{} ]
+Step Loss:
+7.886034965515137
+[ CPUFloatType{} ]
+Step Loss:
+7.620101451873779
+[ CPUFloatType{} ]
+Step Loss:
+7.988344192504883
+[ CPUFloatType{} ]
+Step Loss:
+7.940881252288818
+[ CPUFloatType{} ]
+Step Loss:
+8.099418640136719
+[ CPUFloatType{} ]
+Step Loss:
+7.659509181976318
+[ CPUFloatType{} ]
+Step Loss:
+7.84412145614624
+[ CPUFloatType{} ]
+Step Loss:
+7.843019008636475
+[ CPUFloatType{} ]
+Step Loss:
+8.11711311340332
+[ CPUFloatType{} ]
+Step Loss:
+8.013437271118164
+[ CPUFloatType{} ]
+Step Loss:
+8.240655899047852
+[ CPUFloatType{} ]
+Step Loss:
+8.308974266052246
+[ CPUFloatType{} ]
+Step Loss:
+8.383980751037598
+[ CPUFloatType{} ]
+Step Loss:
+8.205815315246582
+[ CPUFloatType{} ]
+Step Loss:
+8.080941200256348
+[ CPUFloatType{} ]
+Step Loss:
+7.965358734130859
+[ CPUFloatType{} ]
+Step Loss:
+8.191143989562988
+[ CPUFloatType{} ]
+Step Loss:
+8.216833114624023
+[ CPUFloatType{} ]
+Step Loss:
+8.198732376098633
+[ CPUFloatType{} ]
+Step Loss:
+7.848783016204834
+[ CPUFloatType{} ]
+Step Loss:
+8.199119567871094
+[ CPUFloatType{} ]
+Step Loss:
+8.044239044189453
+[ CPUFloatType{} ]
+Step Loss:
+7.847602367401123
+[ CPUFloatType{} ]
+Step Loss:
+7.787961959838867
+[ CPUFloatType{} ]
+Step Loss:
+7.970355987548828
+[ CPUFloatType{} ]
+Step Loss:
+8.154539108276367
+[ CPUFloatType{} ]
+Step Loss:
+8.355242729187012
+[ CPUFloatType{} ]
+Step Loss:
+7.790683269500732
+[ CPUFloatType{} ]
+Step Loss:
+8.44654369354248
+[ CPUFloatType{} ]
+Step Loss:
+8.142502784729004
+[ CPUFloatType{} ]
+Step Loss:
+8.16177749633789
+[ CPUFloatType{} ]
+Step Loss:
+7.8347554206848145
+[ CPUFloatType{} ]
+Step Loss:
+8.03769302368164
+[ CPUFloatType{} ]
+Step Loss:
+7.709928512573242
+[ CPUFloatType{} ]
+Step Loss:
+7.737022876739502
+[ CPUFloatType{} ]
+Step Loss:
+8.013669967651367
+[ CPUFloatType{} ]
+Step Loss:
+8.005147933959961
+[ CPUFloatType{} ]
+Step Loss:
+7.935734272003174
+[ CPUFloatType{} ]
+Step Loss:
+7.901946067810059
+[ CPUFloatType{} ]
+Step Loss:
+7.9688520431518555
+[ CPUFloatType{} ]
+Step Loss:
+7.660243511199951
+[ CPUFloatType{} ]
+Step Loss:
+8.144495964050293
+[ CPUFloatType{} ]
+Step Loss:
+8.049663543701172
+[ CPUFloatType{} ]
+Step Loss:
+8.085672378540039
+[ CPUFloatType{} ]
+Step Loss:
+7.877201557159424
+[ CPUFloatType{} ]
+Step Loss:
+7.787904739379883
+[ CPUFloatType{} ]
+Step Loss:
+7.818274021148682
+[ CPUFloatType{} ]
+Step Loss:
+7.624168872833252
+[ CPUFloatType{} ]
+Step Loss:
+8.154447555541992
+[ CPUFloatType{} ]
+Step Loss:
+7.982253074645996
+[ CPUFloatType{} ]
+Step Loss:
+7.990711212158203
+[ CPUFloatType{} ]
+Step Loss:
+7.70658016204834
+[ CPUFloatType{} ]
+Step Loss:
+7.815623760223389
+[ CPUFloatType{} ]
+Step Loss:
+8.145027160644531
+[ CPUFloatType{} ]
+Step Loss:
+7.892186164855957
+[ CPUFloatType{} ]
+Step Loss:
+8.378053665161133
+[ CPUFloatType{} ]
+Step Loss:
+7.927670955657959
+[ CPUFloatType{} ]
+Step Loss:
+7.67472505569458
+[ CPUFloatType{} ]
+Step Loss:
+7.519744873046875
+[ CPUFloatType{} ]
+Step Loss:
+7.790354251861572
+[ CPUFloatType{} ]
+Step Loss:
+7.231478214263916
+[ CPUFloatType{} ]
+Step Loss:
+7.495864391326904
+[ CPUFloatType{} ]
+Step Loss:
+7.463844299316406
+[ CPUFloatType{} ]
+Step Loss:
+7.715029716491699
+[ CPUFloatType{} ]
+Step Loss:
+7.951338291168213
+[ CPUFloatType{} ]
+Step Loss:
+7.680073261260986
+[ CPUFloatType{} ]
+Step Loss:
+7.721379280090332
+[ CPUFloatType{} ]
+Step Loss:
+7.729085445404053
+[ CPUFloatType{} ]
+Step Loss:
+7.749751091003418
+[ CPUFloatType{} ]
+Step Loss:
+7.396561145782471
+[ CPUFloatType{} ]
+Step Loss:
+7.822218418121338
+[ CPUFloatType{} ]
+Step Loss:
+7.577632427215576
+[ CPUFloatType{} ]
+Step Loss:
+7.4792799949646
+[ CPUFloatType{} ]
+Step Loss:
+7.90155553817749
+[ CPUFloatType{} ]
+Step Loss:
+7.748656749725342
+[ CPUFloatType{} ]
+Step Loss:
+7.618699550628662
+[ CPUFloatType{} ]
+Step Loss:
+7.774199962615967
+[ CPUFloatType{} ]
+Step Loss:
+7.8677544593811035
+[ CPUFloatType{} ]
+Step Loss:
+8.029531478881836
+[ CPUFloatType{} ]
+Step Loss:
+7.656578540802002
+[ CPUFloatType{} ]
+Step Loss:
+7.665717601776123
+[ CPUFloatType{} ]
+Step Loss:
+8.200263023376465
+[ CPUFloatType{} ]
+Step Loss:
+7.9218430519104
+[ CPUFloatType{} ]
+Step Loss:
+7.660000801086426
+[ CPUFloatType{} ]
+Step Loss:
+7.822819709777832
+[ CPUFloatType{} ]
+Step Loss:
+7.721412658691406
+[ CPUFloatType{} ]
+Step Loss:
+7.583821773529053
+[ CPUFloatType{} ]
+Step Loss:
+7.717650413513184
+[ CPUFloatType{} ]
+Step Loss:
+7.468365669250488
+[ CPUFloatType{} ]
+Step Loss:
+7.851709842681885
+[ CPUFloatType{} ]
+Step Loss:
+7.619549751281738
+[ CPUFloatType{} ]
+Step Loss:
+7.905255317687988
+[ CPUFloatType{} ]
+Step Loss:
+7.772458553314209
+[ CPUFloatType{} ]
+Step Loss:
+7.420232772827148
+[ CPUFloatType{} ]
+Step Loss:
+7.921566486358643
+[ CPUFloatType{} ]
+Step Loss:
+7.688486576080322
+[ CPUFloatType{} ]
+Step Loss:
+7.475623607635498
+[ CPUFloatType{} ]
+Step Loss:
+7.100358486175537
+[ CPUFloatType{} ]
+Step Loss:
+6.807015419006348
+[ CPUFloatType{} ]
+Step Loss:
+8.04875373840332
+[ CPUFloatType{} ]
+Step Loss:
+7.782142162322998
+[ CPUFloatType{} ]
+Step Loss:
+7.361344337463379
+[ CPUFloatType{} ]
+Step Loss:
+7.43476676940918
+[ CPUFloatType{} ]
+Step Loss:
+7.403585433959961
+[ CPUFloatType{} ]
+Step Loss:
+7.464511394500732
+[ CPUFloatType{} ]
+Step Loss:
+7.366799354553223
+[ CPUFloatType{} ]
+Step Loss:
+7.578590393066406
+[ CPUFloatType{} ]
+Step Loss:
+7.643254280090332
+[ CPUFloatType{} ]
+Step Loss:
+7.610152721405029
+[ CPUFloatType{} ]
+Step Loss:
+7.66189432144165
+[ CPUFloatType{} ]
+Step Loss:
+7.538502216339111
+[ CPUFloatType{} ]
+Step Loss:
+7.373861789703369
+[ CPUFloatType{} ]
+Step Loss:
+7.394455432891846
+[ CPUFloatType{} ]
+Step Loss:
+7.383919715881348
+[ CPUFloatType{} ]
+Step Loss:
+7.564055919647217
+[ CPUFloatType{} ]
+Step Loss:
+7.6606574058532715
+[ CPUFloatType{} ]
+Step Loss:
+7.148014068603516
+[ CPUFloatType{} ]
+Step Loss:
+7.518932342529297
+[ CPUFloatType{} ]
+Step Loss:
+7.343753337860107
+[ CPUFloatType{} ]
+Step Loss:
+6.989187240600586
+[ CPUFloatType{} ]
+Step Loss:
+7.666375160217285
+[ CPUFloatType{} ]
+Step Loss:
+7.353552341461182
+[ CPUFloatType{} ]
+Step Loss:
+7.5744733810424805
+[ CPUFloatType{} ]
+Step Loss:
+7.6877055168151855
+[ CPUFloatType{} ]
+Step Loss:
+7.543510437011719
+[ CPUFloatType{} ]
+Step Loss:
+7.120052337646484
+[ CPUFloatType{} ]
+Step Loss:
+7.670833110809326
+[ CPUFloatType{} ]
+Step Loss:
+7.475791931152344
+[ CPUFloatType{} ]
+Step Loss:
+7.44471549987793
+[ CPUFloatType{} ]
+Step Loss:
+7.012906551361084
+[ CPUFloatType{} ]
+Step Loss:
+6.975792407989502
+[ CPUFloatType{} ]
+Step Loss:
+7.344719409942627
+[ CPUFloatType{} ]
+Step Loss:
+7.01057767868042
+[ CPUFloatType{} ]
+Step Loss:
+7.275458335876465
+[ CPUFloatType{} ]
+Step Loss:
+7.278291702270508
+[ CPUFloatType{} ]
+Saving checkpoint...
+Step Loss:
+7.13358211517334
+[ CPUFloatType{} ]
+Step Loss:
+7.565461158752441
+[ CPUFloatType{} ]
+Step Loss:
+7.264642715454102
+[ CPUFloatType{} ]
+Step Loss:
+7.314606189727783
+[ CPUFloatType{} ]
+Step Loss:
+7.383713722229004
+[ CPUFloatType{} ]
+Step Loss:
+7.383647441864014
+[ CPUFloatType{} ]
+Step Loss:
+7.032144546508789
+[ CPUFloatType{} ]
+Step Loss:
+7.301627159118652
+[ CPUFloatType{} ]
+Step Loss:
+7.371575355529785
+[ CPUFloatType{} ]
+Step Loss:
+7.556007385253906
+[ CPUFloatType{} ]
+Step Loss:
+7.4736833572387695
+[ CPUFloatType{} ]
+Step Loss:
+7.337044715881348
+[ CPUFloatType{} ]
+Step Loss:
+7.239319324493408
+[ CPUFloatType{} ]
+Step Loss:
+7.38717794418335
+[ CPUFloatType{} ]
+Step Loss:
+7.370701313018799
+[ CPUFloatType{} ]
+Step Loss:
+7.460000991821289
+[ CPUFloatType{} ]
+Step Loss:
+7.424782752990723
+[ CPUFloatType{} ]
+Step Loss:
+7.390105724334717
+[ CPUFloatType{} ]
+Step Loss:
+7.110083103179932
+[ CPUFloatType{} ]
+Step Loss:
+7.324390411376953
+[ CPUFloatType{} ]
+Step Loss:
+7.801095008850098
+[ CPUFloatType{} ]
+Step Loss:
+7.38543701171875
+[ CPUFloatType{} ]
+Step Loss:
+7.75105094909668
+[ CPUFloatType{} ]
+Step Loss:
+7.418056011199951
+[ CPUFloatType{} ]
+Step Loss:
+7.0660295486450195
+[ CPUFloatType{} ]
+Step Loss:
+7.444742202758789
+[ CPUFloatType{} ]
+Step Loss:
+6.982448101043701
+[ CPUFloatType{} ]
+Step Loss:
+7.456389427185059
+[ CPUFloatType{} ]
+Step Loss:
+7.38692045211792
+[ CPUFloatType{} ]
+Step Loss:
+7.688552379608154
+[ CPUFloatType{} ]
+Step Loss:
+7.504025459289551
+[ CPUFloatType{} ]
+Step Loss:
+7.132872581481934
+[ CPUFloatType{} ]
+Step Loss:
+7.943571090698242
+[ CPUFloatType{} ]
+Step Loss:
+7.473859786987305
+[ CPUFloatType{} ]
+Step Loss:
+7.026838779449463
+[ CPUFloatType{} ]
+Step Loss:
+7.397738456726074
+[ CPUFloatType{} ]
+Step Loss:
+7.300849437713623
+[ CPUFloatType{} ]
+Step Loss:
+7.191784858703613
+[ CPUFloatType{} ]
+Step Loss:
+7.141184329986572
+[ CPUFloatType{} ]
+Step Loss:
+7.188270568847656
+[ CPUFloatType{} ]
+Step Loss:
+7.667131423950195
+[ CPUFloatType{} ]
+Step Loss:
+7.416446685791016
+[ CPUFloatType{} ]
+Step Loss:
+7.177862644195557
+[ CPUFloatType{} ]
+Step Loss:
+8.262154579162598
+[ CPUFloatType{} ]
+Step Loss:
+7.828085899353027
+[ CPUFloatType{} ]
+Step Loss:
+7.469808101654053
+[ CPUFloatType{} ]
+Step Loss:
+7.480835914611816
+[ CPUFloatType{} ]
+Step Loss:
+7.176703929901123
+[ CPUFloatType{} ]
+Step Loss:
+7.4515814781188965
+[ CPUFloatType{} ]
+Step Loss:
+7.057085990905762
+[ CPUFloatType{} ]
+Step Loss:
+7.11745548248291
+[ CPUFloatType{} ]
+Step Loss:
+7.053513526916504
+[ CPUFloatType{} ]
+Step Loss:
+6.810784339904785
+[ CPUFloatType{} ]
+Step Loss:
+6.94352912902832
+[ CPUFloatType{} ]
+Step Loss:
+7.306000709533691
+[ CPUFloatType{} ]
+Step Loss:
+7.878276348114014
+[ CPUFloatType{} ]
+Step Loss:
+7.35821533203125
+[ CPUFloatType{} ]
+Step Loss:
+7.325148105621338
+[ CPUFloatType{} ]
+Step Loss:
+7.176599502563477
+[ CPUFloatType{} ]
+Step Loss:
+7.159839630126953
+[ CPUFloatType{} ]
+Step Loss:
+7.012639999389648
+[ CPUFloatType{} ]
+Step Loss:
+7.271828651428223
+[ CPUFloatType{} ]
+Step Loss:
+7.226403713226318
+[ CPUFloatType{} ]
+Step Loss:
+6.873953342437744
+[ CPUFloatType{} ]
+Step Loss:
+6.792966365814209
+[ CPUFloatType{} ]
+Step Loss:
+7.365739822387695
+[ CPUFloatType{} ]
+Step Loss:
+6.893495559692383
+[ CPUFloatType{} ]
+Step Loss:
+7.764902114868164
+[ CPUFloatType{} ]
+Step Loss:
+8.073433876037598
+[ CPUFloatType{} ]
+Step Loss:
+7.18698263168335
+[ CPUFloatType{} ]
+Step Loss:
+7.441163539886475
+[ CPUFloatType{} ]
+Step Loss:
+7.16033411026001
+[ CPUFloatType{} ]
+Step Loss:
+7.225770473480225
+[ CPUFloatType{} ]
+Step Loss:
+7.6385369300842285
+[ CPUFloatType{} ]
+Step Loss:
+7.975449085235596
+[ CPUFloatType{} ]
+Step Loss:
+7.342375755310059
+[ CPUFloatType{} ]
+Step Loss:
+7.1689276695251465
+[ CPUFloatType{} ]
+Step Loss:
+7.156771183013916
+[ CPUFloatType{} ]
+Step Loss:
+6.728764533996582
+[ CPUFloatType{} ]
+Step Loss:
+6.91088342666626
+[ CPUFloatType{} ]
+Step Loss:
+7.121469497680664
+[ CPUFloatType{} ]
+Step Loss:
+7.0320329666137695
+[ CPUFloatType{} ]
+Step Loss:
+6.750983715057373
+[ CPUFloatType{} ]
+Step Loss:
+6.986471176147461
+[ CPUFloatType{} ]
+Step Loss:
+7.231614112854004
+[ CPUFloatType{} ]
+Step Loss:
+6.5073113441467285
+[ CPUFloatType{} ]
+Step Loss:
+6.7523674964904785
+[ CPUFloatType{} ]
+Step Loss:
+7.034423828125
+[ CPUFloatType{} ]
+Step Loss:
+7.313501358032227
+[ CPUFloatType{} ]
+Step Loss:
+7.347835063934326
+[ CPUFloatType{} ]
+Step Loss:
+6.992587089538574
+[ CPUFloatType{} ]
+Step Loss:
+7.5467329025268555
+[ CPUFloatType{} ]
+Step Loss:
+7.208631992340088
+[ CPUFloatType{} ]
+Step Loss:
+6.814191818237305
+[ CPUFloatType{} ]
+Step Loss:
+7.192430019378662
+[ CPUFloatType{} ]
+Step Loss:
+7.1915740966796875
+[ CPUFloatType{} ]
+Step Loss:
+7.374947547912598
+[ CPUFloatType{} ]
+Step Loss:
+6.969318866729736
+[ CPUFloatType{} ]
+Step Loss:
+7.273458480834961
+[ CPUFloatType{} ]
+Step Loss:
+7.684528827667236
+[ CPUFloatType{} ]
+Step Loss:
+7.536083698272705
+[ CPUFloatType{} ]
+Step Loss:
+7.580902576446533
+[ CPUFloatType{} ]
+Step Loss:
+6.692714691162109
+[ CPUFloatType{} ]
+Step Loss:
+6.915776252746582
+[ CPUFloatType{} ]
+Step Loss:
+7.063773155212402
+[ CPUFloatType{} ]
+Step Loss:
+7.524840831756592
+[ CPUFloatType{} ]
+Step Loss:
+7.1170854568481445
+[ CPUFloatType{} ]
+Step Loss:
+7.467330455780029
+[ CPUFloatType{} ]
+Step Loss:
+6.931022644042969
+[ CPUFloatType{} ]
+Step Loss:
+7.10589075088501
+[ CPUFloatType{} ]
+Step Loss:
+7.183475494384766
+[ CPUFloatType{} ]
+Step Loss:
+7.3069257736206055
+[ CPUFloatType{} ]
+Step Loss:
+7.027346611022949
+[ CPUFloatType{} ]
+Step Loss:
+6.82440185546875
+[ CPUFloatType{} ]
+Step Loss:
+7.2666120529174805
+[ CPUFloatType{} ]
+Step Loss:
+7.157310962677002
+[ CPUFloatType{} ]
+Step Loss:
+7.162172317504883
+[ CPUFloatType{} ]
+Step Loss:
+6.604257106781006
+[ CPUFloatType{} ]
+Step Loss:
+7.025515079498291
+[ CPUFloatType{} ]
+Step Loss:
+7.024768829345703
+[ CPUFloatType{} ]
+Step Loss:
+7.2335381507873535
+[ CPUFloatType{} ]
+Step Loss:
+7.037424564361572
+[ CPUFloatType{} ]
+Step Loss:
+6.459467887878418
+[ CPUFloatType{} ]
+Step Loss:
+6.65900182723999
+[ CPUFloatType{} ]
+Step Loss:
+6.609891414642334
+[ CPUFloatType{} ]
+Step Loss:
+6.938226222991943
+[ CPUFloatType{} ]
+Step Loss:
+6.758961200714111
+[ CPUFloatType{} ]
+Step Loss:
+6.879008769989014
+[ CPUFloatType{} ]
+Step Loss:
+7.071403503417969
+[ CPUFloatType{} ]
+Step Loss:
+6.995307445526123
+[ CPUFloatType{} ]
+Step Loss:
+6.59417724609375
+[ CPUFloatType{} ]
+Step Loss:
+6.671900749206543
+[ CPUFloatType{} ]
+Step Loss:
+6.5493693351745605
+[ CPUFloatType{} ]
+Step Loss:
+7.29646635055542
+[ CPUFloatType{} ]
+Step Loss:
+6.798257350921631
+[ CPUFloatType{} ]
+Step Loss:
+6.5582499504089355
+[ CPUFloatType{} ]
+Step Loss:
+6.825250148773193
+[ CPUFloatType{} ]
+Step Loss:
+7.0930891036987305
+[ CPUFloatType{} ]
+Step Loss:
+7.358901023864746
+[ CPUFloatType{} ]
+Step Loss:
+7.210097312927246
+[ CPUFloatType{} ]
+Step Loss:
+7.101565361022949
+[ CPUFloatType{} ]
+Step Loss:
+7.093847274780273
+[ CPUFloatType{} ]
+Step Loss:
+6.801948070526123
+[ CPUFloatType{} ]
+Step Loss:
+6.696407794952393
+[ CPUFloatType{} ]
+Step Loss:
+6.830776691436768
+[ CPUFloatType{} ]
+Step Loss:
+7.239773750305176
+[ CPUFloatType{} ]
+Step Loss:
+6.777392864227295
+[ CPUFloatType{} ]
+Step Loss:
+6.943175315856934
+[ CPUFloatType{} ]
+Step Loss:
+6.542917728424072
+[ CPUFloatType{} ]
+Step Loss:
+6.931598663330078
+[ CPUFloatType{} ]
+Step Loss:
+6.825384616851807
+[ CPUFloatType{} ]
+Step Loss:
+6.880277156829834
+[ CPUFloatType{} ]
+Step Loss:
+7.2976603507995605
+[ CPUFloatType{} ]
+Step Loss:
+7.191259384155273
+[ CPUFloatType{} ]
+Step Loss:
+7.66069221496582
+[ CPUFloatType{} ]
+Step Loss:
+7.220686435699463
+[ CPUFloatType{} ]
+Step Loss:
+6.717900276184082
+[ CPUFloatType{} ]
+Step Loss:
+7.730324745178223
+[ CPUFloatType{} ]
+Step Loss:
+7.22160530090332
+[ CPUFloatType{} ]
+Step Loss:
+6.9113593101501465
+[ CPUFloatType{} ]
+Step Loss:
+7.121912002563477
+[ CPUFloatType{} ]
+Step Loss:
+7.244887351989746
+[ CPUFloatType{} ]
+Step Loss:
+7.196640491485596
+[ CPUFloatType{} ]
+Step Loss:
+6.831178665161133
+[ CPUFloatType{} ]
+Step Loss:
+6.803718090057373
+[ CPUFloatType{} ]
+Step Loss:
+6.790153980255127
+[ CPUFloatType{} ]
+Step Loss:
+7.261833190917969
+[ CPUFloatType{} ]
+Step Loss:
+6.902239799499512
+[ CPUFloatType{} ]
+Step Loss:
+7.063427448272705
+[ CPUFloatType{} ]
+Step Loss:
+6.679355621337891
+[ CPUFloatType{} ]
+Step Loss:
+7.0992326736450195
+[ CPUFloatType{} ]
+Step Loss:
+7.1756510734558105
+[ CPUFloatType{} ]
+Step Loss:
+7.073936462402344
+[ CPUFloatType{} ]
+Step Loss:
+7.176037788391113
+[ CPUFloatType{} ]
+Step Loss:
+7.2408037185668945
+[ CPUFloatType{} ]
+Step Loss:
+6.8704376220703125
+[ CPUFloatType{} ]
+Step Loss:
+7.005009174346924
+[ CPUFloatType{} ]
+Step Loss:
+7.12736177444458
+[ CPUFloatType{} ]
+Step Loss:
+6.72202730178833
+[ CPUFloatType{} ]
+Step Loss:
+7.062142848968506
+[ CPUFloatType{} ]
+Step Loss:
+7.0490007400512695
+[ CPUFloatType{} ]
+Step Loss:
+6.836043834686279
+[ CPUFloatType{} ]
+Step Loss:
+6.829509735107422
+[ CPUFloatType{} ]
+Step Loss:
+6.866423606872559
+[ CPUFloatType{} ]
+Step Loss:
+6.831625461578369
+[ CPUFloatType{} ]
+Step Loss:
+7.045088291168213
+[ CPUFloatType{} ]
+Step Loss:
+6.85990047454834
+[ CPUFloatType{} ]
+Step Loss:
+7.183540344238281
+[ CPUFloatType{} ]
+Step Loss:
+6.645147800445557
+[ CPUFloatType{} ]
+Step Loss:
+6.708526611328125
+[ CPUFloatType{} ]
+Step Loss:
+7.213760852813721
+[ CPUFloatType{} ]
+Step Loss:
+6.803741455078125
+[ CPUFloatType{} ]
+Step Loss:
+6.6835432052612305
+[ CPUFloatType{} ]
+Step Loss:
+6.518370151519775
+[ CPUFloatType{} ]
+Step Loss:
+6.8093180656433105
+[ CPUFloatType{} ]
+Step Loss:
+6.953579425811768
+[ CPUFloatType{} ]
+Step Loss:
+6.588165760040283
+[ CPUFloatType{} ]
+Step Loss:
+6.626938819885254
+[ CPUFloatType{} ]
+Step Loss:
+6.727834224700928
+[ CPUFloatType{} ]
+Step Loss:
+7.545804500579834
+[ CPUFloatType{} ]
+Step Loss:
+7.2200446128845215
+[ CPUFloatType{} ]
+Step Loss:
+6.993244647979736
+[ CPUFloatType{} ]
+Step Loss:
+7.2917656898498535
+[ CPUFloatType{} ]
+Step Loss:
+6.943728923797607
+[ CPUFloatType{} ]
+Step Loss:
+6.538468837738037
+[ CPUFloatType{} ]
+Step Loss:
+7.3550920486450195
+[ CPUFloatType{} ]
+Step Loss:
+7.2469072341918945
+[ CPUFloatType{} ]
+Step Loss:
+6.8521342277526855
+[ CPUFloatType{} ]
+Step Loss:
+6.918952941894531
+[ CPUFloatType{} ]
+Step Loss:
+7.2215986251831055
+[ CPUFloatType{} ]
+Step Loss:
+7.0716471672058105
+[ CPUFloatType{} ]
+Step Loss:
+7.04750919342041
+[ CPUFloatType{} ]
+Step Loss:
+7.205566883087158
+[ CPUFloatType{} ]
+Step Loss:
+6.946497917175293
+[ CPUFloatType{} ]
+Step Loss:
+7.286046028137207
+[ CPUFloatType{} ]
+Step Loss:
+6.787114143371582
+[ CPUFloatType{} ]
+Step Loss:
+7.0958356857299805
+[ CPUFloatType{} ]
+Step Loss:
+7.095893859863281
+[ CPUFloatType{} ]
+Step Loss:
+6.880772113800049
+[ CPUFloatType{} ]
+Step Loss:
+7.189316272735596
+[ CPUFloatType{} ]
+Step Loss:
+7.064761638641357
+[ CPUFloatType{} ]
+Step Loss:
+7.1908721923828125
+[ CPUFloatType{} ]
+Step Loss:
+6.647718906402588
+[ CPUFloatType{} ]
+Step Loss:
+6.656336307525635
+[ CPUFloatType{} ]
+Step Loss:
+6.732154369354248
+[ CPUFloatType{} ]
+Step Loss:
+6.701941013336182
+[ CPUFloatType{} ]
+Step Loss:
+7.035991668701172
+[ CPUFloatType{} ]
+Step Loss:
+7.095292568206787
+[ CPUFloatType{} ]
+Step Loss:
+7.0003814697265625
+[ CPUFloatType{} ]
+Step Loss:
+7.07904052734375
+[ CPUFloatType{} ]
+Step Loss:
+6.697600364685059
+[ CPUFloatType{} ]
+Step Loss:
+6.719306468963623
+[ CPUFloatType{} ]
+Step Loss:
+7.017550468444824
+[ CPUFloatType{} ]
+Step Loss:
+7.254467487335205
+[ CPUFloatType{} ]
+Step Loss:
+7.133304595947266
+[ CPUFloatType{} ]
+Step Loss:
+6.722754955291748
+[ CPUFloatType{} ]
+Step Loss:
+6.91001558303833
+[ CPUFloatType{} ]
+Step Loss:
+6.824428558349609
+[ CPUFloatType{} ]
+Step Loss:
+7.0152907371521
+[ CPUFloatType{} ]
+Step Loss:
+7.217040538787842
+[ CPUFloatType{} ]
+Step Loss:
+6.8808135986328125
+[ CPUFloatType{} ]
+Step Loss:
+6.965567111968994
+[ CPUFloatType{} ]
+Step Loss:
+6.992205619812012
+[ CPUFloatType{} ]
+Step Loss:
+6.8459882736206055
+[ CPUFloatType{} ]
+Step Loss:
+7.024852752685547
+[ CPUFloatType{} ]
+Step Loss:
+6.77371072769165
+[ CPUFloatType{} ]
+Step Loss:
+6.798409461975098
+[ CPUFloatType{} ]
+Step Loss:
+6.531677722930908
+[ CPUFloatType{} ]
+Step Loss:
+6.660332679748535
+[ CPUFloatType{} ]
+Step Loss:
+6.302814960479736
+[ CPUFloatType{} ]
+Step Loss:
+6.890861988067627
+[ CPUFloatType{} ]
+Step Loss:
+6.567440032958984
+[ CPUFloatType{} ]
+Step Loss:
+6.490707874298096
+[ CPUFloatType{} ]
+Step Loss:
+6.4149298667907715
+[ CPUFloatType{} ]
+Step Loss:
+6.638758182525635
+[ CPUFloatType{} ]
+Step Loss:
+6.458179950714111
+[ CPUFloatType{} ]
+Step Loss:
+6.574361324310303
+[ CPUFloatType{} ]
+Step Loss:
+6.910569190979004
+[ CPUFloatType{} ]
+Step Loss:
+6.958683490753174
+[ CPUFloatType{} ]
+Step Loss:
+7.073465347290039
+[ CPUFloatType{} ]
+Step Loss:
+7.256904125213623
+[ CPUFloatType{} ]
+Step Loss:
+6.906661033630371
+[ CPUFloatType{} ]
+Step Loss:
+7.089720726013184
+[ CPUFloatType{} ]
+Step Loss:
+7.04681921005249
+[ CPUFloatType{} ]
+Step Loss:
+7.1630353927612305
+[ CPUFloatType{} ]
+Step Loss:
+6.8299641609191895
+[ CPUFloatType{} ]
+Step Loss:
+7.225857257843018
+[ CPUFloatType{} ]
+Step Loss:
+7.041259288787842
+[ CPUFloatType{} ]
+Step Loss:
+7.018486022949219
+[ CPUFloatType{} ]
+Step Loss:
+6.721545219421387
+[ CPUFloatType{} ]
+Step Loss:
+7.035521507263184
+[ CPUFloatType{} ]
+Step Loss:
+6.897037506103516
+[ CPUFloatType{} ]
+Step Loss:
+6.808929920196533
+[ CPUFloatType{} ]
+Step Loss:
+6.860504627227783
+[ CPUFloatType{} ]
+Step Loss:
+6.624415397644043
+[ CPUFloatType{} ]
+Step Loss:
+7.080338478088379
+[ CPUFloatType{} ]
+Step Loss:
+6.8596625328063965
+[ CPUFloatType{} ]
+Step Loss:
+6.636157035827637
+[ CPUFloatType{} ]
+Step Loss:
+6.7032904624938965
+[ CPUFloatType{} ]
+Step Loss:
+6.843875885009766
+[ CPUFloatType{} ]
+Step Loss:
+6.701580047607422
+[ CPUFloatType{} ]
+Step Loss:
+6.604968070983887
+[ CPUFloatType{} ]
+Step Loss:
+7.08174991607666
+[ CPUFloatType{} ]
+Step Loss:
+6.711063385009766
+[ CPUFloatType{} ]
+Step Loss:
+6.697872638702393
+[ CPUFloatType{} ]
+Step Loss:
+6.602407455444336
+[ CPUFloatType{} ]
+Step Loss:
+6.635270118713379
+[ CPUFloatType{} ]
+Step Loss:
+6.661016464233398
+[ CPUFloatType{} ]
+Step Loss:
+6.956628799438477
+[ CPUFloatType{} ]
+Step Loss:
+6.740447998046875
+[ CPUFloatType{} ]
+Step Loss:
+6.8550825119018555
+[ CPUFloatType{} ]
+Step Loss:
+6.7881975173950195
+[ CPUFloatType{} ]
+Step Loss:
+6.552738666534424
+[ CPUFloatType{} ]
+Step Loss:
+6.793469429016113
+[ CPUFloatType{} ]
+Step Loss:
+6.826226234436035
+[ CPUFloatType{} ]
+Step Loss:
+6.77601957321167
+[ CPUFloatType{} ]
+Step Loss:
+6.399008750915527
+[ CPUFloatType{} ]
+Step Loss:
+6.6535325050354
+[ CPUFloatType{} ]
+Step Loss:
+6.818724632263184
+[ CPUFloatType{} ]
+Step Loss:
+6.929251670837402
+[ CPUFloatType{} ]
+Step Loss:
+6.920854568481445
+[ CPUFloatType{} ]
+Step Loss:
+6.78957986831665
+[ CPUFloatType{} ]
+Step Loss:
+7.237354755401611
+[ CPUFloatType{} ]
+Step Loss:
+6.861623764038086
+[ CPUFloatType{} ]
+Step Loss:
+6.650965690612793
+[ CPUFloatType{} ]
+Step Loss:
+6.313375949859619
+[ CPUFloatType{} ]
+Step Loss:
+6.773310661315918
+[ CPUFloatType{} ]
+Step Loss:
+6.8125457763671875
+[ CPUFloatType{} ]
+Step Loss:
+6.732934951782227
+[ CPUFloatType{} ]
+Step Loss:
+6.561954021453857
+[ CPUFloatType{} ]
+Step Loss:
+6.996874809265137
+[ CPUFloatType{} ]
+Step Loss:
+6.712858200073242
+[ CPUFloatType{} ]
+Step Loss:
+6.958047389984131
+[ CPUFloatType{} ]
+Step Loss:
+7.12926721572876
+[ CPUFloatType{} ]
+Step Loss:
+6.997556209564209
+[ CPUFloatType{} ]
+Step Loss:
+6.946838855743408
+[ CPUFloatType{} ]
+Step Loss:
+6.696348190307617
+[ CPUFloatType{} ]
+Step Loss:
+6.509783744812012
+[ CPUFloatType{} ]
+Step Loss:
+6.7533979415893555
+[ CPUFloatType{} ]
+Step Loss:
+6.810074806213379
+[ CPUFloatType{} ]
+Step Loss:
+6.380544185638428
+[ CPUFloatType{} ]
+Step Loss:
+6.298330307006836
+[ CPUFloatType{} ]
+Step Loss:
+6.3677473068237305
+[ CPUFloatType{} ]
+Step Loss:
+6.9977521896362305
+[ CPUFloatType{} ]
+Step Loss:
+6.901333808898926
+[ CPUFloatType{} ]
+Step Loss:
+7.349764823913574
+[ CPUFloatType{} ]
+Step Loss:
+6.437081336975098
+[ CPUFloatType{} ]
+Step Loss:
+6.689932823181152
+[ CPUFloatType{} ]
+Step Loss:
+7.228760719299316
+[ CPUFloatType{} ]
+Step Loss:
+6.608325481414795
+[ CPUFloatType{} ]
+Step Loss:
+7.427792549133301
+[ CPUFloatType{} ]
+Step Loss:
+7.576177597045898
+[ CPUFloatType{} ]
+Step Loss:
+7.099435806274414
+[ CPUFloatType{} ]
+Step Loss:
+6.83890438079834
+[ CPUFloatType{} ]
+Step Loss:
+6.731166839599609
+[ CPUFloatType{} ]
+Step Loss:
+6.9202799797058105
+[ CPUFloatType{} ]
+Step Loss:
+7.173793315887451
+[ CPUFloatType{} ]
+Step Loss:
+7.024410724639893
+[ CPUFloatType{} ]
+Step Loss:
+6.812180519104004
+[ CPUFloatType{} ]
+Step Loss:
+7.289368152618408
+[ CPUFloatType{} ]
+Step Loss:
+7.204062461853027
+[ CPUFloatType{} ]
+Step Loss:
+6.7589874267578125
+[ CPUFloatType{} ]
+Step Loss:
+6.676862716674805
+[ CPUFloatType{} ]
+Step Loss:
+7.027827262878418
+[ CPUFloatType{} ]
+Step Loss:
+7.187228679656982
+[ CPUFloatType{} ]
+Step Loss:
+7.287662982940674
+[ CPUFloatType{} ]
+Step Loss:
+6.85016393661499
+[ CPUFloatType{} ]
+Step Loss:
+7.439762592315674
+[ CPUFloatType{} ]
+Step Loss:
+7.1974334716796875
+[ CPUFloatType{} ]
+Step Loss:
+7.130525588989258
+[ CPUFloatType{} ]
+Step Loss:
+6.979271411895752
+[ CPUFloatType{} ]
+Step Loss:
+6.968164443969727
+[ CPUFloatType{} ]
+Step Loss:
+6.982296466827393
+[ CPUFloatType{} ]
+Step Loss:
+7.055126190185547
+[ CPUFloatType{} ]
+Step Loss:
+6.8610453605651855
+[ CPUFloatType{} ]
+Step Loss:
+7.181948184967041
+[ CPUFloatType{} ]
+Step Loss:
+6.861088752746582
+[ CPUFloatType{} ]
+Step Loss:
+6.600838661193848
+[ CPUFloatType{} ]
+Step Loss:
+6.842174530029297
+[ CPUFloatType{} ]
+Step Loss:
+6.757579803466797
+[ CPUFloatType{} ]
+Step Loss:
+6.989289283752441
+[ CPUFloatType{} ]
+Step Loss:
+6.942984580993652
+[ CPUFloatType{} ]
+Step Loss:
+7.054993629455566
+[ CPUFloatType{} ]
+Step Loss:
+7.017096519470215
+[ CPUFloatType{} ]
+Step Loss:
+6.503998279571533
+[ CPUFloatType{} ]
+Step Loss:
+6.731324195861816
+[ CPUFloatType{} ]
+Step Loss:
+6.917942047119141
+[ CPUFloatType{} ]
+Step Loss:
+7.116281986236572
+[ CPUFloatType{} ]
+Step Loss:
+6.6165385246276855
+[ CPUFloatType{} ]
+Step Loss:
+6.910343647003174
+[ CPUFloatType{} ]
+Step Loss:
+7.188697338104248
+[ CPUFloatType{} ]
+Step Loss:
+6.537079334259033
+[ CPUFloatType{} ]
+Step Loss:
+6.760585784912109
+[ CPUFloatType{} ]
+Step Loss:
+6.937989234924316
+[ CPUFloatType{} ]
+Step Loss:
+6.639339923858643
+[ CPUFloatType{} ]
+Step Loss:
+6.752961158752441
+[ CPUFloatType{} ]
+Step Loss:
+6.86794376373291
+[ CPUFloatType{} ]
+Step Loss:
+6.9048380851745605
+[ CPUFloatType{} ]
+Step Loss:
+6.843006610870361
+[ CPUFloatType{} ]
+Step Loss:
+6.595527172088623
+[ CPUFloatType{} ]
+Step Loss:
+6.768641471862793
+[ CPUFloatType{} ]
+Step Loss:
+6.88716459274292
+[ CPUFloatType{} ]
+Step Loss:
+7.186779975891113
+[ CPUFloatType{} ]
+Step Loss:
+6.931286811828613
+[ CPUFloatType{} ]
+Step Loss:
+7.014138221740723
+[ CPUFloatType{} ]
+Step Loss:
+6.7755231857299805
+[ CPUFloatType{} ]
+Step Loss:
+6.91196870803833
+[ CPUFloatType{} ]
+Step Loss:
+6.511619567871094
+[ CPUFloatType{} ]
+Step Loss:
+7.0027337074279785
+[ CPUFloatType{} ]
+Step Loss:
+6.781842231750488
+[ CPUFloatType{} ]
+Step Loss:
+6.323676586151123
+[ CPUFloatType{} ]
+Step Loss:
+7.190378665924072
+[ CPUFloatType{} ]
+Step Loss:
+7.342864036560059
+[ CPUFloatType{} ]
+Step Loss:
+6.90438175201416
+[ CPUFloatType{} ]
+Step Loss:
+6.688752174377441
+[ CPUFloatType{} ]
+Step Loss:
+6.711940765380859
+[ CPUFloatType{} ]
+Step Loss:
+6.876632213592529
+[ CPUFloatType{} ]
+Step Loss:
+7.388833045959473
+[ CPUFloatType{} ]
+Step Loss:
+7.03818941116333
+[ CPUFloatType{} ]
+Step Loss:
+7.426791667938232
+[ CPUFloatType{} ]
+Step Loss:
+6.900873184204102
+[ CPUFloatType{} ]
+Step Loss:
+6.947141647338867
+[ CPUFloatType{} ]
+Step Loss:
+6.61209774017334
+[ CPUFloatType{} ]
+Step Loss:
+6.996546745300293
+[ CPUFloatType{} ]
+Step Loss:
+7.106571197509766
+[ CPUFloatType{} ]
+Step Loss:
+7.276838779449463
+[ CPUFloatType{} ]
+Step Loss:
+7.024852752685547
+[ CPUFloatType{} ]
+Step Loss:
+7.204236030578613
+[ CPUFloatType{} ]
+Step Loss:
+7.33575439453125
+[ CPUFloatType{} ]
+Step Loss:
+7.5046892166137695
+[ CPUFloatType{} ]
+Step Loss:
+6.696070671081543
+[ CPUFloatType{} ]
+Step Loss:
+6.721296310424805
+[ CPUFloatType{} ]
+Step Loss:
+7.321898937225342
+[ CPUFloatType{} ]
+Step Loss:
+6.859747409820557
+[ CPUFloatType{} ]
+Step Loss:
+7.003443241119385
+[ CPUFloatType{} ]
+Step Loss:
+7.005337715148926
+[ CPUFloatType{} ]
+Step Loss:
+6.932082176208496
+[ CPUFloatType{} ]
+Step Loss:
+6.945607662200928
+[ CPUFloatType{} ]
+Step Loss:
+6.999382495880127
+[ CPUFloatType{} ]
+Step Loss:
+7.054085731506348
+[ CPUFloatType{} ]
+Step Loss:
+7.214128494262695
+[ CPUFloatType{} ]
+Step Loss:
+6.68230676651001
+[ CPUFloatType{} ]
+Step Loss:
+6.796186923980713
+[ CPUFloatType{} ]
+Step Loss:
+7.048759937286377
+[ CPUFloatType{} ]
+Step Loss:
+7.382801055908203
+[ CPUFloatType{} ]
+Step Loss:
+7.351572513580322
+[ CPUFloatType{} ]
+Step Loss:
+7.192765235900879
+[ CPUFloatType{} ]
+Step Loss:
+6.970857620239258
+[ CPUFloatType{} ]
+Step Loss:
+7.052969932556152
+[ CPUFloatType{} ]
+Step Loss:
+6.76549768447876
+[ CPUFloatType{} ]
+Step Loss:
+6.8003034591674805
+[ CPUFloatType{} ]
+Step Loss:
+7.056872844696045
+[ CPUFloatType{} ]
+Step Loss:
+6.880640983581543
+[ CPUFloatType{} ]
+Step Loss:
+6.560970306396484
+[ CPUFloatType{} ]
+Step Loss:
+6.404850006103516
+[ CPUFloatType{} ]
+Step Loss:
+6.8977484703063965
+[ CPUFloatType{} ]
+Step Loss:
+6.749966621398926
+[ CPUFloatType{} ]
+Step Loss:
+6.924191951751709
+[ CPUFloatType{} ]
+Step Loss:
+6.610104560852051
+[ CPUFloatType{} ]
+Step Loss:
+6.831558704376221
+[ CPUFloatType{} ]
+Step Loss:
+6.76646614074707
+[ CPUFloatType{} ]
+Step Loss:
+6.809210300445557
+[ CPUFloatType{} ]
+Step Loss:
+6.8175201416015625
+[ CPUFloatType{} ]
+Step Loss:
+7.063788414001465
+[ CPUFloatType{} ]
+Step Loss:
+6.787243366241455
+[ CPUFloatType{} ]
+Step Loss:
+6.767394065856934
+[ CPUFloatType{} ]
+Step Loss:
+7.514449596405029
+[ CPUFloatType{} ]
+Step Loss:
+6.879504680633545
+[ CPUFloatType{} ]
+Step Loss:
+7.093145847320557
+[ CPUFloatType{} ]
+Step Loss:
+6.7681050300598145
+[ CPUFloatType{} ]
+Step Loss:
+6.998447895050049
+[ CPUFloatType{} ]
+Step Loss:
+6.3965373039245605
+[ CPUFloatType{} ]
+Step Loss:
+6.710025787353516
+[ CPUFloatType{} ]
+Step Loss:
+6.710454940795898
+[ CPUFloatType{} ]
+Step Loss:
+6.817533493041992
+[ CPUFloatType{} ]
+Step Loss:
+6.937366008758545
+[ CPUFloatType{} ]
+Step Loss:
+7.089765548706055
+[ CPUFloatType{} ]
+Step Loss:
+6.434147834777832
+[ CPUFloatType{} ]
+Step Loss:
+6.736032962799072
+[ CPUFloatType{} ]
+Step Loss:
+6.449604034423828
+[ CPUFloatType{} ]
+Step Loss:
+6.808398723602295
+[ CPUFloatType{} ]
+Step Loss:
+6.643388748168945
+[ CPUFloatType{} ]
+Step Loss:
+6.619202136993408
+[ CPUFloatType{} ]
+Step Loss:
+6.54811954498291
+[ CPUFloatType{} ]
+Step Loss:
+6.917299270629883
+[ CPUFloatType{} ]
+Step Loss:
+6.744571685791016
+[ CPUFloatType{} ]
+Step Loss:
+6.881493091583252
+[ CPUFloatType{} ]
+Step Loss:
+6.920632839202881
+[ CPUFloatType{} ]
+Step Loss:
+6.61383581161499
+[ CPUFloatType{} ]
+Step Loss:
+6.51005744934082
+[ CPUFloatType{} ]
+Step Loss:
+6.778323650360107
+[ CPUFloatType{} ]
+Step Loss:
+6.966381072998047
+[ CPUFloatType{} ]
+Step Loss:
+7.190783500671387
+[ CPUFloatType{} ]
+Step Loss:
+7.193959712982178
+[ CPUFloatType{} ]
+Step Loss:
+7.398304462432861
+[ CPUFloatType{} ]
+Step Loss:
+7.05641508102417
+[ CPUFloatType{} ]
+Step Loss:
+7.30117654800415
+[ CPUFloatType{} ]
+Step Loss:
+6.758297443389893
+[ CPUFloatType{} ]
+Step Loss:
+6.305798530578613
+[ CPUFloatType{} ]
+Step Loss:
+6.373500823974609
+[ CPUFloatType{} ]
+Step Loss:
+6.615964889526367
+[ CPUFloatType{} ]
+Step Loss:
+6.693886756896973
+[ CPUFloatType{} ]
+Step Loss:
+6.722841739654541
+[ CPUFloatType{} ]
+Step Loss:
+6.442567348480225
+[ CPUFloatType{} ]
+Step Loss:
+6.972391128540039
+[ CPUFloatType{} ]
+Step Loss:
+6.637805938720703
+[ CPUFloatType{} ]
+Step Loss:
+6.843061923980713
+[ CPUFloatType{} ]
+Step Loss:
+6.6862382888793945
+[ CPUFloatType{} ]
+Step Loss:
+7.082601547241211
+[ CPUFloatType{} ]
+Step Loss:
+6.998659610748291
+[ CPUFloatType{} ]
+Step Loss:
+7.077513217926025
+[ CPUFloatType{} ]
+Step Loss:
+6.838700771331787
+[ CPUFloatType{} ]
+Step Loss:
+6.738327980041504
+[ CPUFloatType{} ]
+Step Loss:
+6.697098255157471
+[ CPUFloatType{} ]
+Step Loss:
+6.917285442352295
+[ CPUFloatType{} ]
+Step Loss:
+7.171428203582764
+[ CPUFloatType{} ]
+Step Loss:
+7.087093830108643
+[ CPUFloatType{} ]
+Step Loss:
+7.338979721069336
+[ CPUFloatType{} ]
+Step Loss:
+7.141149044036865
+[ CPUFloatType{} ]
+Step Loss:
+7.0413360595703125
+[ CPUFloatType{} ]
+Saving checkpoint...
+Step Loss:
+6.980868816375732
+[ CPUFloatType{} ]
+Step Loss:
+6.860989093780518
+[ CPUFloatType{} ]
+Step Loss:
+7.159481525421143
+[ CPUFloatType{} ]
+Step Loss:
+7.283262729644775
+[ CPUFloatType{} ]
+Step Loss:
+6.752652645111084
+[ CPUFloatType{} ]
+Step Loss:
+6.939065933227539
+[ CPUFloatType{} ]
+Step Loss:
+6.866673946380615
+[ CPUFloatType{} ]
+Step Loss:
+7.010336399078369
+[ CPUFloatType{} ]
+Step Loss:
+7.046538352966309
+[ CPUFloatType{} ]
+Step Loss:
+6.7715840339660645
+[ CPUFloatType{} ]
+Step Loss:
+6.880229949951172
+[ CPUFloatType{} ]
+Step Loss:
+6.543473243713379
+[ CPUFloatType{} ]
+Step Loss:
+7.078260898590088
+[ CPUFloatType{} ]
+Step Loss:
+6.406093120574951
+[ CPUFloatType{} ]
+Step Loss:
+6.659169673919678
+[ CPUFloatType{} ]
+Step Loss:
+6.591146945953369
+[ CPUFloatType{} ]
+Step Loss:
+6.827760696411133
+[ CPUFloatType{} ]
+Step Loss:
+6.569840431213379
+[ CPUFloatType{} ]
+Step Loss:
+6.466928005218506
+[ CPUFloatType{} ]
+Step Loss:
+6.82304573059082
+[ CPUFloatType{} ]
+Step Loss:
+6.961730480194092
+[ CPUFloatType{} ]
+Step Loss:
+6.780177116394043
+[ CPUFloatType{} ]
+Step Loss:
+6.968414306640625
+[ CPUFloatType{} ]
+Step Loss:
+6.80258846282959
+[ CPUFloatType{} ]
+Step Loss:
+6.285955429077148
+[ CPUFloatType{} ]
+Step Loss:
+6.611483573913574
+[ CPUFloatType{} ]
+Step Loss:
+6.310487270355225
+[ CPUFloatType{} ]
+Step Loss:
+6.393424034118652
+[ CPUFloatType{} ]
+Step Loss:
+6.361170291900635
+[ CPUFloatType{} ]
+Step Loss:
+6.151338577270508
+[ CPUFloatType{} ]
+Step Loss:
+6.83311653137207
+[ CPUFloatType{} ]
+Step Loss:
+6.977034568786621
+[ CPUFloatType{} ]
+Step Loss:
+6.664037704467773
+[ CPUFloatType{} ]
+Step Loss:
+6.757196426391602
+[ CPUFloatType{} ]
+Step Loss:
+6.975060939788818
+[ CPUFloatType{} ]
+Step Loss:
+6.709212303161621
+[ CPUFloatType{} ]
+Step Loss:
+6.620668411254883
+[ CPUFloatType{} ]
+Step Loss:
+6.575219631195068
+[ CPUFloatType{} ]
+Step Loss:
+6.965615272521973
+[ CPUFloatType{} ]
+Step Loss:
+6.620365142822266
+[ CPUFloatType{} ]
+Step Loss:
+6.574779033660889
+[ CPUFloatType{} ]
+Step Loss:
+6.451982021331787
+[ CPUFloatType{} ]
+Step Loss:
+6.584753036499023
+[ CPUFloatType{} ]
+Step Loss:
+6.474287986755371
+[ CPUFloatType{} ]
+Step Loss:
+6.730175018310547
+[ CPUFloatType{} ]
+Step Loss:
+6.594460964202881
+[ CPUFloatType{} ]
+Step Loss:
+6.84654426574707
+[ CPUFloatType{} ]
+Step Loss:
+6.8982086181640625
+[ CPUFloatType{} ]
+Step Loss:
+7.037102699279785
+[ CPUFloatType{} ]
+Step Loss:
+6.713838577270508
+[ CPUFloatType{} ]
+Step Loss:
+6.658146381378174
+[ CPUFloatType{} ]
+Step Loss:
+6.74949836730957
+[ CPUFloatType{} ]
+Step Loss:
+7.078752040863037
+[ CPUFloatType{} ]
+Step Loss:
+6.76008415222168
+[ CPUFloatType{} ]
+Step Loss:
+7.152690410614014
+[ CPUFloatType{} ]
+Step Loss:
+6.899444580078125
+[ CPUFloatType{} ]
+Step Loss:
+6.963717937469482
+[ CPUFloatType{} ]
+Step Loss:
+6.987774848937988
+[ CPUFloatType{} ]
+Step Loss:
+7.324800491333008
+[ CPUFloatType{} ]
+Step Loss:
+7.06087589263916
+[ CPUFloatType{} ]
+Step Loss:
+7.170454025268555
+[ CPUFloatType{} ]
+Step Loss:
+6.971339225769043
+[ CPUFloatType{} ]
+Step Loss:
+6.904643535614014
+[ CPUFloatType{} ]
+Step Loss:
+6.876240253448486
+[ CPUFloatType{} ]
+Step Loss:
+7.021047592163086
+[ CPUFloatType{} ]
+Step Loss:
+6.769508361816406
+[ CPUFloatType{} ]
+Step Loss:
+6.687166213989258
+[ CPUFloatType{} ]
+Step Loss:
+7.157680988311768
+[ CPUFloatType{} ]
+Step Loss:
+6.883275032043457
+[ CPUFloatType{} ]
+Step Loss:
+6.864326477050781
+[ CPUFloatType{} ]
+Step Loss:
+6.714323043823242
+[ CPUFloatType{} ]
+Step Loss:
+7.041252136230469
+[ CPUFloatType{} ]
+Step Loss:
+7.097484588623047
+[ CPUFloatType{} ]
+Step Loss:
+6.894742488861084
+[ CPUFloatType{} ]
+Step Loss:
+6.893552780151367
+[ CPUFloatType{} ]
+Step Loss:
+7.130114555358887
+[ CPUFloatType{} ]
+Step Loss:
+7.2370219230651855
+[ CPUFloatType{} ]
+Step Loss:
+6.707162857055664
+[ CPUFloatType{} ]
+Step Loss:
+6.977433204650879
+[ CPUFloatType{} ]
+Step Loss:
+6.72742223739624
+[ CPUFloatType{} ]
+Step Loss:
+6.271604061126709
+[ CPUFloatType{} ]
+Step Loss:
+6.824999809265137
+[ CPUFloatType{} ]
+Step Loss:
+6.726099967956543
+[ CPUFloatType{} ]
+Step Loss:
+6.732285022735596
+[ CPUFloatType{} ]
+Step Loss:
+6.70419454574585
+[ CPUFloatType{} ]
+Step Loss:
+6.644779682159424
+[ CPUFloatType{} ]
+Step Loss:
+6.714436054229736
+[ CPUFloatType{} ]
+Step Loss:
+6.7248616218566895
+[ CPUFloatType{} ]
+Step Loss:
+6.824163436889648
+[ CPUFloatType{} ]
+Step Loss:
+6.4313645362854
+[ CPUFloatType{} ]
+Step Loss:
+6.648489952087402
+[ CPUFloatType{} ]
+Step Loss:
+7.5176262855529785
+[ CPUFloatType{} ]
+Step Loss:
+7.1358184814453125
+[ CPUFloatType{} ]
+Step Loss:
+6.461304664611816
+[ CPUFloatType{} ]
+Step Loss:
+6.4554057121276855
+[ CPUFloatType{} ]
+Step Loss:
+7.052738189697266
+[ CPUFloatType{} ]
+Step Loss:
+6.784961700439453
+[ CPUFloatType{} ]
+Step Loss:
+6.554624557495117
+[ CPUFloatType{} ]
+Step Loss:
+6.554335117340088
+[ CPUFloatType{} ]
+Step Loss:
+6.934340000152588
+[ CPUFloatType{} ]
+Step Loss:
+6.501659393310547
+[ CPUFloatType{} ]
+Step Loss:
+6.903622627258301
+[ CPUFloatType{} ]
+Step Loss:
+6.946579456329346
+[ CPUFloatType{} ]
+Step Loss:
+6.743906497955322
+[ CPUFloatType{} ]
+Step Loss:
+6.624597072601318
+[ CPUFloatType{} ]
+Step Loss:
+6.754328727722168
+[ CPUFloatType{} ]
+Step Loss:
+6.460565090179443
+[ CPUFloatType{} ]
+Step Loss:
+6.720282554626465
+[ CPUFloatType{} ]
+Step Loss:
+6.514850616455078
+[ CPUFloatType{} ]
+Step Loss:
+6.4420623779296875
+[ CPUFloatType{} ]
+Step Loss:
+6.991994857788086
+[ CPUFloatType{} ]
+Step Loss:
+6.835747718811035
+[ CPUFloatType{} ]
+Step Loss:
+6.782182216644287
+[ CPUFloatType{} ]
+Step Loss:
+6.710884094238281
+[ CPUFloatType{} ]
+Step Loss:
+6.2980194091796875
+[ CPUFloatType{} ]
+Step Loss:
+6.33418083190918
+[ CPUFloatType{} ]
+Step Loss:
+6.7973737716674805
+[ CPUFloatType{} ]
+Step Loss:
+6.82817268371582
+[ CPUFloatType{} ]
+Step Loss:
+6.911289691925049
+[ CPUFloatType{} ]
+Step Loss:
+6.401122570037842
+[ CPUFloatType{} ]
+Step Loss:
+6.335544109344482
+[ CPUFloatType{} ]
+Step Loss:
+6.709756374359131
+[ CPUFloatType{} ]
+Step Loss:
+6.28720235824585
+[ CPUFloatType{} ]
+Step Loss:
+6.79360294342041
+[ CPUFloatType{} ]
+Step Loss:
+6.642747402191162
+[ CPUFloatType{} ]
+Step Loss:
+6.692619323730469
+[ CPUFloatType{} ]
+Step Loss:
+7.174246788024902
+[ CPUFloatType{} ]
+Step Loss:
+6.3394269943237305
+[ CPUFloatType{} ]
+Step Loss:
+6.429046630859375
+[ CPUFloatType{} ]
+Step Loss:
+6.452845096588135
+[ CPUFloatType{} ]
+Step Loss:
+6.409232139587402
+[ CPUFloatType{} ]
+Step Loss:
+6.637394905090332
+[ CPUFloatType{} ]
+Step Loss:
+6.920168876647949
+[ CPUFloatType{} ]
+Step Loss:
+6.834722518920898
+[ CPUFloatType{} ]
+Step Loss:
+6.662421226501465
+[ CPUFloatType{} ]
+Step Loss:
+7.016630172729492
+[ CPUFloatType{} ]
+Step Loss:
+6.731370449066162
+[ CPUFloatType{} ]
+Step Loss:
+6.405818939208984
+[ CPUFloatType{} ]
+Step Loss:
+6.799099445343018
+[ CPUFloatType{} ]
+Step Loss:
+7.0604400634765625
+[ CPUFloatType{} ]
+Step Loss:
+7.326226711273193
+[ CPUFloatType{} ]
+Step Loss:
+7.303219795227051
+[ CPUFloatType{} ]
+Step Loss:
+7.552708148956299
+[ CPUFloatType{} ]
+Step Loss:
+6.579375267028809
+[ CPUFloatType{} ]
+Step Loss:
+6.8215203285217285
+[ CPUFloatType{} ]
+Step Loss:
+6.200328350067139
+[ CPUFloatType{} ]
+Step Loss:
+6.706209659576416
+[ CPUFloatType{} ]
+Step Loss:
+7.116703987121582
+[ CPUFloatType{} ]
+Step Loss:
+7.437872886657715
+[ CPUFloatType{} ]
+Step Loss:
+6.698703289031982
+[ CPUFloatType{} ]
+Step Loss:
+6.874659538269043
+[ CPUFloatType{} ]
+Step Loss:
+7.186763763427734
+[ CPUFloatType{} ]
+Step Loss:
+6.783352375030518
+[ CPUFloatType{} ]
+Step Loss:
+6.769352436065674
+[ CPUFloatType{} ]
+Step Loss:
+7.051968097686768
+[ CPUFloatType{} ]
+Step Loss:
+6.869250297546387
+[ CPUFloatType{} ]
+Step Loss:
+6.841779708862305
+[ CPUFloatType{} ]
+Step Loss:
+6.672574996948242
+[ CPUFloatType{} ]
+Step Loss:
+6.8938679695129395
+[ CPUFloatType{} ]
+Step Loss:
+6.644887447357178
+[ CPUFloatType{} ]
+Step Loss:
+6.72735595703125
+[ CPUFloatType{} ]
+Step Loss:
+6.478393077850342
+[ CPUFloatType{} ]
+Step Loss:
+7.5406174659729
+[ CPUFloatType{} ]
+Step Loss:
+7.113417148590088
+[ CPUFloatType{} ]
+Step Loss:
+7.160630226135254
+[ CPUFloatType{} ]
+Step Loss:
+7.07152795791626
+[ CPUFloatType{} ]
+Step Loss:
+6.982140064239502
+[ CPUFloatType{} ]
+Step Loss:
+7.268613815307617
+[ CPUFloatType{} ]
+Step Loss:
+6.919381141662598
+[ CPUFloatType{} ]
+Step Loss:
+7.001865386962891
+[ CPUFloatType{} ]
+Step Loss:
+6.679226398468018
+[ CPUFloatType{} ]
+Step Loss:
+6.759450912475586
+[ CPUFloatType{} ]
+Step Loss:
+6.620212078094482
+[ CPUFloatType{} ]
+Step Loss:
+6.346654891967773
+[ CPUFloatType{} ]
+Step Loss:
+6.644622325897217
+[ CPUFloatType{} ]
+Step Loss:
+6.4556708335876465
+[ CPUFloatType{} ]
+Step Loss:
+6.866479873657227
+[ CPUFloatType{} ]
+Step Loss:
+6.717895984649658
+[ CPUFloatType{} ]
+libc++abi: terminating due to uncaught exception of type c10::Error: shape '[8, 32]' is invalid for input of size 142
+Exception raised from infer_size_impl at /Users/runner/work/pytorch/pytorch/aten/src/ATen/InferSize.h:104 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char>>) + 52 (0x105010b10 in libc10.dylib)
+frame #1: c10::detail::torchCheckFail(char const*, char const*, unsigned int, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char>> const&) + 120 (0x10500df44 in libc10.dylib)
+frame #2: void at::infer_size_impl<c10::ArrayRef<long long>, long long, c10::SmallVector<long long, 5u>>(c10::ArrayRef<long long>, long long, c10::SmallVector<long long, 5u>&) + 372 (0x119a247b0 in libtorch_cpu.dylib)
+frame #3: at::native::view_impl(at::Tensor const&, c10::ArrayRef<long long>) + 204 (0x119a38864 in libtorch_cpu.dylib)
+frame #4: c10::impl::wrap_kernel_functor_unboxed_<c10::impl::detail::WrapFunctionIntoFunctor_<c10::CompileTimeFunctionPointer<at::Tensor (c10::DispatchKeySet, at::Tensor const&, c10::ArrayRef<c10::SymInt>), &torch::ADInplaceOrView::(anonymous namespace)::view(c10::DispatchKeySet, at::Tensor const&, c10::ArrayRef<c10::SymInt>)>, at::Tensor, c10::guts::typelist::typelist<c10::DispatchKeySet, at::Tensor const&, c10::ArrayRef<c10::SymInt>>>, at::Tensor (c10::DispatchKeySet, at::Tensor const&, c10::ArrayRef<c10::SymInt>)>::call(c10::OperatorKernel*, c10::DispatchKeySet, at::Tensor const&, c10::ArrayRef<c10::SymInt>) + 108 (0x11ce1e7a0 in libtorch_cpu.dylib)
+frame #5: c10::impl::wrap_kernel_functor_unboxed_<c10::impl::detail::WrapFunctionIntoFunctor_<c10::CompileTimeFunctionPointer<at::Tensor (c10::DispatchKeySet, at::Tensor const&, c10::ArrayRef<c10::SymInt>), &torch::autograd::VariableType::(anonymous namespace)::view(c10::DispatchKeySet, at::Tensor const&, c10::ArrayRef<c10::SymInt>)>, at::Tensor, c10::guts::typelist::typelist<c10::DispatchKeySet, at::Tensor const&, c10::ArrayRef<c10::SymInt>>>, at::Tensor (c10::DispatchKeySet, at::Tensor const&, c10::ArrayRef<c10::SymInt>)>::call(c10::OperatorKernel*, c10::DispatchKeySet, at::Tensor const&, c10::ArrayRef<c10::SymInt>) + 752 (0x11c510e10 in libtorch_cpu.dylib)
+frame #6: at::_ops::view::call(at::Tensor const&, c10::ArrayRef<c10::SymInt>) + 316 (0x11a34e610 in libtorch_cpu.dylib)
+frame #7: at::Tensor::view(c10::ArrayRef<long long>) const + 92 (0x104caf090 in libmlcc_runtime.dylib)
+frame #8: torch_tensor_view2 + 140 (0x104caf44c in libmlcc_runtime.dylib)
+frame #9: TRAIN + 476 (0x104be8eb8 in ngt_test)
+frame #10: main + 736 (0x104be9390 in ngt_test)
+frame #11: start + 6992 (0x18e70be00 in dyld)
+

@@ -1,0 +1,4597 @@
+Starting NanoGPT (OpenWebText)
+Loading OpenWebText data (using mmap)...
+[Runtime] live_tensors_ size: 57
+[Runtime] live_tensors_ size: 56
+[Runtime] live_tensors_ size: 55
+[Runtime] live_tensors_ size: 54
+[Runtime] live_tensors_ size: 53
+[Runtime] live_tensors_ size: 52
+[Runtime] live_tensors_ size: 51
+[Runtime] live_tensors_ size: 50
+[Runtime] live_tensors_ size: 49
+[Runtime] live_tensors_ size: 48
+[Runtime] live_tensors_ size: 47
+[Runtime] live_tensors_ size: 48
+[Runtime] live_tensors_ size: 47
+[Runtime] live_tensors_ size: 46
+[Runtime] live_tensors_ size: 45
+[Runtime] live_tensors_ size: 44
+Step Loss:
+33.2751579284668
+[ CPUFloatType{} ]
+Saving checkpoint...
+[Runtime] live_tensors_ size: 48
+[Runtime] live_tensors_ size: 47
+[Runtime] live_tensors_ size: 46
+[Runtime] live_tensors_ size: 45
+[Runtime] live_tensors_ size: 44
+[Runtime] live_tensors_ size: 43
+[Runtime] live_tensors_ size: 63
+[Runtime] live_tensors_ size: 62
+[Runtime] live_tensors_ size: 61
+[Runtime] live_tensors_ size: 60
+[Runtime] live_tensors_ size: 59
+[Runtime] live_tensors_ size: 58
+[Runtime] live_tensors_ size: 57
+[Runtime] live_tensors_ size: 56
+[Runtime] live_tensors_ size: 55
+[Runtime] live_tensors_ size: 54
+[Runtime] live_tensors_ size: 53
+[Runtime] live_tensors_ size: 54
+[Runtime] live_tensors_ size: 53
+[Runtime] live_tensors_ size: 52
+[Runtime] live_tensors_ size: 51
+[Runtime] live_tensors_ size: 50
+Step Loss:
+33.93916320800781
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 54
+[Runtime] live_tensors_ size: 53
+[Runtime] live_tensors_ size: 52
+[Runtime] live_tensors_ size: 51
+[Runtime] live_tensors_ size: 50
+[Runtime] live_tensors_ size: 49
+[Runtime] live_tensors_ size: 69
+[Runtime] live_tensors_ size: 68
+[Runtime] live_tensors_ size: 67
+[Runtime] live_tensors_ size: 66
+[Runtime] live_tensors_ size: 65
+[Runtime] live_tensors_ size: 64
+[Runtime] live_tensors_ size: 63
+[Runtime] live_tensors_ size: 62
+[Runtime] live_tensors_ size: 61
+[Runtime] live_tensors_ size: 60
+[Runtime] live_tensors_ size: 59
+[Runtime] live_tensors_ size: 60
+[Runtime] live_tensors_ size: 59
+[Runtime] live_tensors_ size: 58
+[Runtime] live_tensors_ size: 57
+[Runtime] live_tensors_ size: 56
+Step Loss:
+32.506160736083984
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 60
+[Runtime] live_tensors_ size: 59
+[Runtime] live_tensors_ size: 58
+[Runtime] live_tensors_ size: 57
+[Runtime] live_tensors_ size: 56
+[Runtime] live_tensors_ size: 55
+[Runtime] live_tensors_ size: 75
+[Runtime] live_tensors_ size: 74
+[Runtime] live_tensors_ size: 73
+[Runtime] live_tensors_ size: 72
+[Runtime] live_tensors_ size: 71
+[Runtime] live_tensors_ size: 70
+[Runtime] live_tensors_ size: 69
+[Runtime] live_tensors_ size: 68
+[Runtime] live_tensors_ size: 67
+[Runtime] live_tensors_ size: 66
+[Runtime] live_tensors_ size: 65
+[Runtime] live_tensors_ size: 66
+[Runtime] live_tensors_ size: 65
+[Runtime] live_tensors_ size: 64
+[Runtime] live_tensors_ size: 63
+[Runtime] live_tensors_ size: 62
+Step Loss:
+31.996862411499023
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 66
+[Runtime] live_tensors_ size: 65
+[Runtime] live_tensors_ size: 64
+[Runtime] live_tensors_ size: 63
+[Runtime] live_tensors_ size: 62
+[Runtime] live_tensors_ size: 61
+[Runtime] live_tensors_ size: 81
+[Runtime] live_tensors_ size: 80
+[Runtime] live_tensors_ size: 79
+[Runtime] live_tensors_ size: 78
+[Runtime] live_tensors_ size: 77
+[Runtime] live_tensors_ size: 76
+[Runtime] live_tensors_ size: 75
+[Runtime] live_tensors_ size: 74
+[Runtime] live_tensors_ size: 73
+[Runtime] live_tensors_ size: 72
+[Runtime] live_tensors_ size: 71
+[Runtime] live_tensors_ size: 72
+[Runtime] live_tensors_ size: 71
+[Runtime] live_tensors_ size: 70
+[Runtime] live_tensors_ size: 69
+[Runtime] live_tensors_ size: 68
+Step Loss:
+30.646514892578125
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 72
+[Runtime] live_tensors_ size: 71
+[Runtime] live_tensors_ size: 70
+[Runtime] live_tensors_ size: 69
+[Runtime] live_tensors_ size: 68
+[Runtime] live_tensors_ size: 67
+[Runtime] live_tensors_ size: 87
+[Runtime] live_tensors_ size: 86
+[Runtime] live_tensors_ size: 85
+[Runtime] live_tensors_ size: 84
+[Runtime] live_tensors_ size: 83
+[Runtime] live_tensors_ size: 82
+[Runtime] live_tensors_ size: 81
+[Runtime] live_tensors_ size: 80
+[Runtime] live_tensors_ size: 79
+[Runtime] live_tensors_ size: 78
+[Runtime] live_tensors_ size: 77
+[Runtime] live_tensors_ size: 78
+[Runtime] live_tensors_ size: 77
+[Runtime] live_tensors_ size: 76
+[Runtime] live_tensors_ size: 75
+[Runtime] live_tensors_ size: 74
+Step Loss:
+30.015281677246094
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 78
+[Runtime] live_tensors_ size: 77
+[Runtime] live_tensors_ size: 76
+[Runtime] live_tensors_ size: 75
+[Runtime] live_tensors_ size: 74
+[Runtime] live_tensors_ size: 73
+[Runtime] live_tensors_ size: 93
+[Runtime] live_tensors_ size: 92
+[Runtime] live_tensors_ size: 91
+[Runtime] live_tensors_ size: 90
+[Runtime] live_tensors_ size: 89
+[Runtime] live_tensors_ size: 88
+[Runtime] live_tensors_ size: 87
+[Runtime] live_tensors_ size: 86
+[Runtime] live_tensors_ size: 85
+[Runtime] live_tensors_ size: 84
+[Runtime] live_tensors_ size: 83
+[Runtime] live_tensors_ size: 84
+[Runtime] live_tensors_ size: 83
+[Runtime] live_tensors_ size: 82
+[Runtime] live_tensors_ size: 81
+[Runtime] live_tensors_ size: 80
+Step Loss:
+31.469181060791016
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 84
+[Runtime] live_tensors_ size: 83
+[Runtime] live_tensors_ size: 82
+[Runtime] live_tensors_ size: 81
+[Runtime] live_tensors_ size: 80
+[Runtime] live_tensors_ size: 79
+[Runtime] live_tensors_ size: 99
+[Runtime] live_tensors_ size: 98
+[Runtime] live_tensors_ size: 97
+[Runtime] live_tensors_ size: 96
+[Runtime] live_tensors_ size: 95
+[Runtime] live_tensors_ size: 94
+[Runtime] live_tensors_ size: 93
+[Runtime] live_tensors_ size: 92
+[Runtime] live_tensors_ size: 91
+[Runtime] live_tensors_ size: 90
+[Runtime] live_tensors_ size: 89
+[Runtime] live_tensors_ size: 90
+[Runtime] live_tensors_ size: 89
+[Runtime] live_tensors_ size: 88
+[Runtime] live_tensors_ size: 87
+[Runtime] live_tensors_ size: 86
+Step Loss:
+31.76375389099121
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 90
+[Runtime] live_tensors_ size: 89
+[Runtime] live_tensors_ size: 88
+[Runtime] live_tensors_ size: 87
+[Runtime] live_tensors_ size: 86
+[Runtime] live_tensors_ size: 85
+[Runtime] live_tensors_ size: 105
+[Runtime] live_tensors_ size: 104
+[Runtime] live_tensors_ size: 103
+[Runtime] live_tensors_ size: 102
+[Runtime] live_tensors_ size: 101
+[Runtime] live_tensors_ size: 100
+[Runtime] live_tensors_ size: 99
+[Runtime] live_tensors_ size: 98
+[Runtime] live_tensors_ size: 97
+[Runtime] live_tensors_ size: 96
+[Runtime] live_tensors_ size: 95
+[Runtime] live_tensors_ size: 96
+[Runtime] live_tensors_ size: 95
+[Runtime] live_tensors_ size: 94
+[Runtime] live_tensors_ size: 93
+[Runtime] live_tensors_ size: 92
+Step Loss:
+31.659902572631836
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 96
+[Runtime] live_tensors_ size: 95
+[Runtime] live_tensors_ size: 94
+[Runtime] live_tensors_ size: 93
+[Runtime] live_tensors_ size: 92
+[Runtime] live_tensors_ size: 91
+[Runtime] live_tensors_ size: 111
+[Runtime] live_tensors_ size: 110
+[Runtime] live_tensors_ size: 109
+[Runtime] live_tensors_ size: 108
+[Runtime] live_tensors_ size: 107
+[Runtime] live_tensors_ size: 106
+[Runtime] live_tensors_ size: 105
+[Runtime] live_tensors_ size: 104
+[Runtime] live_tensors_ size: 103
+[Runtime] live_tensors_ size: 102
+[Runtime] live_tensors_ size: 101
+[Runtime] live_tensors_ size: 102
+[Runtime] live_tensors_ size: 101
+[Runtime] live_tensors_ size: 100
+[Runtime] live_tensors_ size: 99
+[Runtime] live_tensors_ size: 98
+Step Loss:
+30.845979690551758
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 102
+[Runtime] live_tensors_ size: 101
+[Runtime] live_tensors_ size: 100
+[Runtime] live_tensors_ size: 99
+[Runtime] live_tensors_ size: 98
+[Runtime] live_tensors_ size: 97
+[Runtime] live_tensors_ size: 117
+[Runtime] live_tensors_ size: 116
+[Runtime] live_tensors_ size: 115
+[Runtime] live_tensors_ size: 114
+[Runtime] live_tensors_ size: 113
+[Runtime] live_tensors_ size: 112
+[Runtime] live_tensors_ size: 111
+[Runtime] live_tensors_ size: 110
+[Runtime] live_tensors_ size: 109
+[Runtime] live_tensors_ size: 108
+[Runtime] live_tensors_ size: 107
+[Runtime] live_tensors_ size: 108
+[Runtime] live_tensors_ size: 107
+[Runtime] live_tensors_ size: 106
+[Runtime] live_tensors_ size: 105
+[Runtime] live_tensors_ size: 104
+Step Loss:
+30.60784339904785
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 108
+[Runtime] live_tensors_ size: 107
+[Runtime] live_tensors_ size: 106
+[Runtime] live_tensors_ size: 105
+[Runtime] live_tensors_ size: 104
+[Runtime] live_tensors_ size: 103
+[Runtime] live_tensors_ size: 123
+[Runtime] live_tensors_ size: 122
+[Runtime] live_tensors_ size: 121
+[Runtime] live_tensors_ size: 120
+[Runtime] live_tensors_ size: 119
+[Runtime] live_tensors_ size: 118
+[Runtime] live_tensors_ size: 117
+[Runtime] live_tensors_ size: 116
+[Runtime] live_tensors_ size: 115
+[Runtime] live_tensors_ size: 114
+[Runtime] live_tensors_ size: 113
+[Runtime] live_tensors_ size: 114
+[Runtime] live_tensors_ size: 113
+[Runtime] live_tensors_ size: 112
+[Runtime] live_tensors_ size: 111
+[Runtime] live_tensors_ size: 110
+Step Loss:
+29.06635856628418
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 114
+[Runtime] live_tensors_ size: 113
+[Runtime] live_tensors_ size: 112
+[Runtime] live_tensors_ size: 111
+[Runtime] live_tensors_ size: 110
+[Runtime] live_tensors_ size: 109
+[Runtime] live_tensors_ size: 129
+[Runtime] live_tensors_ size: 128
+[Runtime] live_tensors_ size: 127
+[Runtime] live_tensors_ size: 126
+[Runtime] live_tensors_ size: 125
+[Runtime] live_tensors_ size: 124
+[Runtime] live_tensors_ size: 123
+[Runtime] live_tensors_ size: 122
+[Runtime] live_tensors_ size: 121
+[Runtime] live_tensors_ size: 120
+[Runtime] live_tensors_ size: 119
+[Runtime] live_tensors_ size: 120
+[Runtime] live_tensors_ size: 119
+[Runtime] live_tensors_ size: 118
+[Runtime] live_tensors_ size: 117
+[Runtime] live_tensors_ size: 116
+Step Loss:
+30.194616317749023
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 120
+[Runtime] live_tensors_ size: 119
+[Runtime] live_tensors_ size: 118
+[Runtime] live_tensors_ size: 117
+[Runtime] live_tensors_ size: 116
+[Runtime] live_tensors_ size: 115
+[Runtime] live_tensors_ size: 135
+[Runtime] live_tensors_ size: 134
+[Runtime] live_tensors_ size: 133
+[Runtime] live_tensors_ size: 132
+[Runtime] live_tensors_ size: 131
+[Runtime] live_tensors_ size: 130
+[Runtime] live_tensors_ size: 129
+[Runtime] live_tensors_ size: 128
+[Runtime] live_tensors_ size: 127
+[Runtime] live_tensors_ size: 126
+[Runtime] live_tensors_ size: 125
+[Runtime] live_tensors_ size: 126
+[Runtime] live_tensors_ size: 125
+[Runtime] live_tensors_ size: 124
+[Runtime] live_tensors_ size: 123
+[Runtime] live_tensors_ size: 122
+Step Loss:
+28.11608123779297
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 126
+[Runtime] live_tensors_ size: 125
+[Runtime] live_tensors_ size: 124
+[Runtime] live_tensors_ size: 123
+[Runtime] live_tensors_ size: 122
+[Runtime] live_tensors_ size: 121
+[Runtime] live_tensors_ size: 141
+[Runtime] live_tensors_ size: 140
+[Runtime] live_tensors_ size: 139
+[Runtime] live_tensors_ size: 138
+[Runtime] live_tensors_ size: 137
+[Runtime] live_tensors_ size: 136
+[Runtime] live_tensors_ size: 135
+[Runtime] live_tensors_ size: 134
+[Runtime] live_tensors_ size: 133
+[Runtime] live_tensors_ size: 132
+[Runtime] live_tensors_ size: 131
+[Runtime] live_tensors_ size: 132
+[Runtime] live_tensors_ size: 131
+[Runtime] live_tensors_ size: 130
+[Runtime] live_tensors_ size: 129
+[Runtime] live_tensors_ size: 128
+Step Loss:
+28.406494140625
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 132
+[Runtime] live_tensors_ size: 131
+[Runtime] live_tensors_ size: 130
+[Runtime] live_tensors_ size: 129
+[Runtime] live_tensors_ size: 128
+[Runtime] live_tensors_ size: 127
+[Runtime] live_tensors_ size: 147
+[Runtime] live_tensors_ size: 146
+[Runtime] live_tensors_ size: 145
+[Runtime] live_tensors_ size: 144
+[Runtime] live_tensors_ size: 143
+[Runtime] live_tensors_ size: 142
+[Runtime] live_tensors_ size: 141
+[Runtime] live_tensors_ size: 140
+[Runtime] live_tensors_ size: 139
+[Runtime] live_tensors_ size: 138
+[Runtime] live_tensors_ size: 137
+[Runtime] live_tensors_ size: 138
+[Runtime] live_tensors_ size: 137
+[Runtime] live_tensors_ size: 136
+[Runtime] live_tensors_ size: 135
+[Runtime] live_tensors_ size: 134
+Step Loss:
+27.666364669799805
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 138
+[Runtime] live_tensors_ size: 137
+[Runtime] live_tensors_ size: 136
+[Runtime] live_tensors_ size: 135
+[Runtime] live_tensors_ size: 134
+[Runtime] live_tensors_ size: 133
+[Runtime] live_tensors_ size: 153
+[Runtime] live_tensors_ size: 152
+[Runtime] live_tensors_ size: 151
+[Runtime] live_tensors_ size: 150
+[Runtime] live_tensors_ size: 149
+[Runtime] live_tensors_ size: 148
+[Runtime] live_tensors_ size: 147
+[Runtime] live_tensors_ size: 146
+[Runtime] live_tensors_ size: 145
+[Runtime] live_tensors_ size: 144
+[Runtime] live_tensors_ size: 143
+[Runtime] live_tensors_ size: 144
+[Runtime] live_tensors_ size: 143
+[Runtime] live_tensors_ size: 142
+[Runtime] live_tensors_ size: 141
+[Runtime] live_tensors_ size: 140
+Step Loss:
+28.623767852783203
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 144
+[Runtime] live_tensors_ size: 143
+[Runtime] live_tensors_ size: 142
+[Runtime] live_tensors_ size: 141
+[Runtime] live_tensors_ size: 140
+[Runtime] live_tensors_ size: 139
+[Runtime] live_tensors_ size: 159
+[Runtime] live_tensors_ size: 158
+[Runtime] live_tensors_ size: 157
+[Runtime] live_tensors_ size: 156
+[Runtime] live_tensors_ size: 155
+[Runtime] live_tensors_ size: 154
+[Runtime] live_tensors_ size: 153
+[Runtime] live_tensors_ size: 152
+[Runtime] live_tensors_ size: 151
+[Runtime] live_tensors_ size: 150
+[Runtime] live_tensors_ size: 149
+[Runtime] live_tensors_ size: 150
+[Runtime] live_tensors_ size: 149
+[Runtime] live_tensors_ size: 148
+[Runtime] live_tensors_ size: 147
+[Runtime] live_tensors_ size: 146
+Step Loss:
+27.352283477783203
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 150
+[Runtime] live_tensors_ size: 149
+[Runtime] live_tensors_ size: 148
+[Runtime] live_tensors_ size: 147
+[Runtime] live_tensors_ size: 146
+[Runtime] live_tensors_ size: 145
+[Runtime] live_tensors_ size: 165
+[Runtime] live_tensors_ size: 164
+[Runtime] live_tensors_ size: 163
+[Runtime] live_tensors_ size: 162
+[Runtime] live_tensors_ size: 161
+[Runtime] live_tensors_ size: 160
+[Runtime] live_tensors_ size: 159
+[Runtime] live_tensors_ size: 158
+[Runtime] live_tensors_ size: 157
+[Runtime] live_tensors_ size: 156
+[Runtime] live_tensors_ size: 155
+[Runtime] live_tensors_ size: 156
+[Runtime] live_tensors_ size: 155
+[Runtime] live_tensors_ size: 154
+[Runtime] live_tensors_ size: 153
+[Runtime] live_tensors_ size: 152
+Step Loss:
+26.477046966552734
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 156
+[Runtime] live_tensors_ size: 155
+[Runtime] live_tensors_ size: 154
+[Runtime] live_tensors_ size: 153
+[Runtime] live_tensors_ size: 152
+[Runtime] live_tensors_ size: 151
+[Runtime] live_tensors_ size: 171
+[Runtime] live_tensors_ size: 170
+[Runtime] live_tensors_ size: 169
+[Runtime] live_tensors_ size: 168
+[Runtime] live_tensors_ size: 167
+[Runtime] live_tensors_ size: 166
+[Runtime] live_tensors_ size: 165
+[Runtime] live_tensors_ size: 164
+[Runtime] live_tensors_ size: 163
+[Runtime] live_tensors_ size: 162
+[Runtime] live_tensors_ size: 161
+[Runtime] live_tensors_ size: 162
+[Runtime] live_tensors_ size: 161
+[Runtime] live_tensors_ size: 160
+[Runtime] live_tensors_ size: 159
+[Runtime] live_tensors_ size: 158
+Step Loss:
+27.549564361572266
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 162
+[Runtime] live_tensors_ size: 161
+[Runtime] live_tensors_ size: 160
+[Runtime] live_tensors_ size: 159
+[Runtime] live_tensors_ size: 158
+[Runtime] live_tensors_ size: 157
+[Runtime] live_tensors_ size: 177
+[Runtime] live_tensors_ size: 176
+[Runtime] live_tensors_ size: 175
+[Runtime] live_tensors_ size: 174
+[Runtime] live_tensors_ size: 173
+[Runtime] live_tensors_ size: 172
+[Runtime] live_tensors_ size: 171
+[Runtime] live_tensors_ size: 170
+[Runtime] live_tensors_ size: 169
+[Runtime] live_tensors_ size: 168
+[Runtime] live_tensors_ size: 167
+[Runtime] live_tensors_ size: 168
+[Runtime] live_tensors_ size: 167
+[Runtime] live_tensors_ size: 166
+[Runtime] live_tensors_ size: 165
+[Runtime] live_tensors_ size: 164
+Step Loss:
+27.170759201049805
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 168
+[Runtime] live_tensors_ size: 167
+[Runtime] live_tensors_ size: 166
+[Runtime] live_tensors_ size: 165
+[Runtime] live_tensors_ size: 164
+[Runtime] live_tensors_ size: 163
+[Runtime] live_tensors_ size: 183
+[Runtime] live_tensors_ size: 182
+[Runtime] live_tensors_ size: 181
+[Runtime] live_tensors_ size: 180
+[Runtime] live_tensors_ size: 179
+[Runtime] live_tensors_ size: 178
+[Runtime] live_tensors_ size: 177
+[Runtime] live_tensors_ size: 176
+[Runtime] live_tensors_ size: 175
+[Runtime] live_tensors_ size: 174
+[Runtime] live_tensors_ size: 173
+[Runtime] live_tensors_ size: 174
+[Runtime] live_tensors_ size: 173
+[Runtime] live_tensors_ size: 172
+[Runtime] live_tensors_ size: 171
+[Runtime] live_tensors_ size: 170
+Step Loss:
+28.024608612060547
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 174
+[Runtime] live_tensors_ size: 173
+[Runtime] live_tensors_ size: 172
+[Runtime] live_tensors_ size: 171
+[Runtime] live_tensors_ size: 170
+[Runtime] live_tensors_ size: 169
+[Runtime] live_tensors_ size: 189
+[Runtime] live_tensors_ size: 188
+[Runtime] live_tensors_ size: 187
+[Runtime] live_tensors_ size: 186
+[Runtime] live_tensors_ size: 185
+[Runtime] live_tensors_ size: 184
+[Runtime] live_tensors_ size: 183
+[Runtime] live_tensors_ size: 182
+[Runtime] live_tensors_ size: 181
+[Runtime] live_tensors_ size: 180
+[Runtime] live_tensors_ size: 179
+[Runtime] live_tensors_ size: 180
+[Runtime] live_tensors_ size: 179
+[Runtime] live_tensors_ size: 178
+[Runtime] live_tensors_ size: 177
+[Runtime] live_tensors_ size: 176
+Step Loss:
+26.355257034301758
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 180
+[Runtime] live_tensors_ size: 179
+[Runtime] live_tensors_ size: 178
+[Runtime] live_tensors_ size: 177
+[Runtime] live_tensors_ size: 176
+[Runtime] live_tensors_ size: 175
+[Runtime] live_tensors_ size: 195
+[Runtime] live_tensors_ size: 194
+[Runtime] live_tensors_ size: 193
+[Runtime] live_tensors_ size: 192
+[Runtime] live_tensors_ size: 191
+[Runtime] live_tensors_ size: 190
+[Runtime] live_tensors_ size: 189
+[Runtime] live_tensors_ size: 188
+[Runtime] live_tensors_ size: 187
+[Runtime] live_tensors_ size: 186
+[Runtime] live_tensors_ size: 185
+[Runtime] live_tensors_ size: 186
+[Runtime] live_tensors_ size: 185
+[Runtime] live_tensors_ size: 184
+[Runtime] live_tensors_ size: 183
+[Runtime] live_tensors_ size: 182
+Step Loss:
+27.587963104248047
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 186
+[Runtime] live_tensors_ size: 185
+[Runtime] live_tensors_ size: 184
+[Runtime] live_tensors_ size: 183
+[Runtime] live_tensors_ size: 182
+[Runtime] live_tensors_ size: 181
+[Runtime] live_tensors_ size: 201
+[Runtime] live_tensors_ size: 200
+[Runtime] live_tensors_ size: 199
+[Runtime] live_tensors_ size: 198
+[Runtime] live_tensors_ size: 197
+[Runtime] live_tensors_ size: 196
+[Runtime] live_tensors_ size: 195
+[Runtime] live_tensors_ size: 194
+[Runtime] live_tensors_ size: 193
+[Runtime] live_tensors_ size: 192
+[Runtime] live_tensors_ size: 191
+[Runtime] live_tensors_ size: 192
+[Runtime] live_tensors_ size: 191
+[Runtime] live_tensors_ size: 190
+[Runtime] live_tensors_ size: 189
+[Runtime] live_tensors_ size: 188
+Step Loss:
+26.092124938964844
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 192
+[Runtime] live_tensors_ size: 191
+[Runtime] live_tensors_ size: 190
+[Runtime] live_tensors_ size: 189
+[Runtime] live_tensors_ size: 188
+[Runtime] live_tensors_ size: 187
+[Runtime] live_tensors_ size: 207
+[Runtime] live_tensors_ size: 206
+[Runtime] live_tensors_ size: 205
+[Runtime] live_tensors_ size: 204
+[Runtime] live_tensors_ size: 203
+[Runtime] live_tensors_ size: 202
+[Runtime] live_tensors_ size: 201
+[Runtime] live_tensors_ size: 200
+[Runtime] live_tensors_ size: 199
+[Runtime] live_tensors_ size: 198
+[Runtime] live_tensors_ size: 197
+[Runtime] live_tensors_ size: 198
+[Runtime] live_tensors_ size: 197
+[Runtime] live_tensors_ size: 196
+[Runtime] live_tensors_ size: 195
+[Runtime] live_tensors_ size: 194
+Step Loss:
+26.080297470092773
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 198
+[Runtime] live_tensors_ size: 197
+[Runtime] live_tensors_ size: 196
+[Runtime] live_tensors_ size: 195
+[Runtime] live_tensors_ size: 194
+[Runtime] live_tensors_ size: 193
+[Runtime] live_tensors_ size: 213
+[Runtime] live_tensors_ size: 212
+[Runtime] live_tensors_ size: 211
+[Runtime] live_tensors_ size: 210
+[Runtime] live_tensors_ size: 209
+[Runtime] live_tensors_ size: 208
+[Runtime] live_tensors_ size: 207
+[Runtime] live_tensors_ size: 206
+[Runtime] live_tensors_ size: 205
+[Runtime] live_tensors_ size: 204
+[Runtime] live_tensors_ size: 203
+[Runtime] live_tensors_ size: 204
+[Runtime] live_tensors_ size: 203
+[Runtime] live_tensors_ size: 202
+[Runtime] live_tensors_ size: 201
+[Runtime] live_tensors_ size: 200
+Step Loss:
+27.27427101135254
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 204
+[Runtime] live_tensors_ size: 203
+[Runtime] live_tensors_ size: 202
+[Runtime] live_tensors_ size: 201
+[Runtime] live_tensors_ size: 200
+[Runtime] live_tensors_ size: 199
+[Runtime] live_tensors_ size: 219
+[Runtime] live_tensors_ size: 218
+[Runtime] live_tensors_ size: 217
+[Runtime] live_tensors_ size: 216
+[Runtime] live_tensors_ size: 215
+[Runtime] live_tensors_ size: 214
+[Runtime] live_tensors_ size: 213
+[Runtime] live_tensors_ size: 212
+[Runtime] live_tensors_ size: 211
+[Runtime] live_tensors_ size: 210
+[Runtime] live_tensors_ size: 209
+[Runtime] live_tensors_ size: 210
+[Runtime] live_tensors_ size: 209
+[Runtime] live_tensors_ size: 208
+[Runtime] live_tensors_ size: 207
+[Runtime] live_tensors_ size: 206
+Step Loss:
+26.48231315612793
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 210
+[Runtime] live_tensors_ size: 209
+[Runtime] live_tensors_ size: 208
+[Runtime] live_tensors_ size: 207
+[Runtime] live_tensors_ size: 206
+[Runtime] live_tensors_ size: 205
+[Runtime] live_tensors_ size: 225
+[Runtime] live_tensors_ size: 224
+[Runtime] live_tensors_ size: 223
+[Runtime] live_tensors_ size: 222
+[Runtime] live_tensors_ size: 221
+[Runtime] live_tensors_ size: 220
+[Runtime] live_tensors_ size: 219
+[Runtime] live_tensors_ size: 218
+[Runtime] live_tensors_ size: 217
+[Runtime] live_tensors_ size: 216
+[Runtime] live_tensors_ size: 215
+[Runtime] live_tensors_ size: 216
+[Runtime] live_tensors_ size: 215
+[Runtime] live_tensors_ size: 214
+[Runtime] live_tensors_ size: 213
+[Runtime] live_tensors_ size: 212
+Step Loss:
+25.54891586303711
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 216
+[Runtime] live_tensors_ size: 215
+[Runtime] live_tensors_ size: 214
+[Runtime] live_tensors_ size: 213
+[Runtime] live_tensors_ size: 212
+[Runtime] live_tensors_ size: 211
+[Runtime] live_tensors_ size: 231
+[Runtime] live_tensors_ size: 230
+[Runtime] live_tensors_ size: 229
+[Runtime] live_tensors_ size: 228
+[Runtime] live_tensors_ size: 227
+[Runtime] live_tensors_ size: 226
+[Runtime] live_tensors_ size: 225
+[Runtime] live_tensors_ size: 224
+[Runtime] live_tensors_ size: 223
+[Runtime] live_tensors_ size: 222
+[Runtime] live_tensors_ size: 221
+[Runtime] live_tensors_ size: 222
+[Runtime] live_tensors_ size: 221
+[Runtime] live_tensors_ size: 220
+[Runtime] live_tensors_ size: 219
+[Runtime] live_tensors_ size: 218
+Step Loss:
+23.718538284301758
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 222
+[Runtime] live_tensors_ size: 221
+[Runtime] live_tensors_ size: 220
+[Runtime] live_tensors_ size: 219
+[Runtime] live_tensors_ size: 218
+[Runtime] live_tensors_ size: 217
+[Runtime] live_tensors_ size: 237
+[Runtime] live_tensors_ size: 236
+[Runtime] live_tensors_ size: 235
+[Runtime] live_tensors_ size: 234
+[Runtime] live_tensors_ size: 233
+[Runtime] live_tensors_ size: 232
+[Runtime] live_tensors_ size: 231
+[Runtime] live_tensors_ size: 230
+[Runtime] live_tensors_ size: 229
+[Runtime] live_tensors_ size: 228
+[Runtime] live_tensors_ size: 227
+[Runtime] live_tensors_ size: 228
+[Runtime] live_tensors_ size: 227
+[Runtime] live_tensors_ size: 226
+[Runtime] live_tensors_ size: 225
+[Runtime] live_tensors_ size: 224
+Step Loss:
+24.4444522857666
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 228
+[Runtime] live_tensors_ size: 227
+[Runtime] live_tensors_ size: 226
+[Runtime] live_tensors_ size: 225
+[Runtime] live_tensors_ size: 224
+[Runtime] live_tensors_ size: 223
+[Runtime] live_tensors_ size: 243
+[Runtime] live_tensors_ size: 242
+[Runtime] live_tensors_ size: 241
+[Runtime] live_tensors_ size: 240
+[Runtime] live_tensors_ size: 239
+[Runtime] live_tensors_ size: 238
+[Runtime] live_tensors_ size: 237
+[Runtime] live_tensors_ size: 236
+[Runtime] live_tensors_ size: 235
+[Runtime] live_tensors_ size: 234
+[Runtime] live_tensors_ size: 233
+[Runtime] live_tensors_ size: 234
+[Runtime] live_tensors_ size: 233
+[Runtime] live_tensors_ size: 232
+[Runtime] live_tensors_ size: 231
+[Runtime] live_tensors_ size: 230
+Step Loss:
+25.220558166503906
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 234
+[Runtime] live_tensors_ size: 233
+[Runtime] live_tensors_ size: 232
+[Runtime] live_tensors_ size: 231
+[Runtime] live_tensors_ size: 230
+[Runtime] live_tensors_ size: 229
+[Runtime] live_tensors_ size: 249
+[Runtime] live_tensors_ size: 248
+[Runtime] live_tensors_ size: 247
+[Runtime] live_tensors_ size: 246
+[Runtime] live_tensors_ size: 245
+[Runtime] live_tensors_ size: 244
+[Runtime] live_tensors_ size: 243
+[Runtime] live_tensors_ size: 242
+[Runtime] live_tensors_ size: 241
+[Runtime] live_tensors_ size: 240
+[Runtime] live_tensors_ size: 239
+[Runtime] live_tensors_ size: 240
+[Runtime] live_tensors_ size: 239
+[Runtime] live_tensors_ size: 238
+[Runtime] live_tensors_ size: 237
+[Runtime] live_tensors_ size: 236
+Step Loss:
+25.49720573425293
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 240
+[Runtime] live_tensors_ size: 239
+[Runtime] live_tensors_ size: 238
+[Runtime] live_tensors_ size: 237
+[Runtime] live_tensors_ size: 236
+[Runtime] live_tensors_ size: 235
+[Runtime] live_tensors_ size: 255
+[Runtime] live_tensors_ size: 254
+[Runtime] live_tensors_ size: 253
+[Runtime] live_tensors_ size: 252
+[Runtime] live_tensors_ size: 251
+[Runtime] live_tensors_ size: 250
+[Runtime] live_tensors_ size: 249
+[Runtime] live_tensors_ size: 248
+[Runtime] live_tensors_ size: 247
+[Runtime] live_tensors_ size: 246
+[Runtime] live_tensors_ size: 245
+[Runtime] live_tensors_ size: 246
+[Runtime] live_tensors_ size: 245
+[Runtime] live_tensors_ size: 244
+[Runtime] live_tensors_ size: 243
+[Runtime] live_tensors_ size: 242
+Step Loss:
+25.619253158569336
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 246
+[Runtime] live_tensors_ size: 245
+[Runtime] live_tensors_ size: 244
+[Runtime] live_tensors_ size: 243
+[Runtime] live_tensors_ size: 242
+[Runtime] live_tensors_ size: 241
+[Runtime] live_tensors_ size: 261
+[Runtime] live_tensors_ size: 260
+[Runtime] live_tensors_ size: 259
+[Runtime] live_tensors_ size: 258
+[Runtime] live_tensors_ size: 257
+[Runtime] live_tensors_ size: 256
+[Runtime] live_tensors_ size: 255
+[Runtime] live_tensors_ size: 254
+[Runtime] live_tensors_ size: 253
+[Runtime] live_tensors_ size: 252
+[Runtime] live_tensors_ size: 251
+[Runtime] live_tensors_ size: 252
+[Runtime] live_tensors_ size: 251
+[Runtime] live_tensors_ size: 250
+[Runtime] live_tensors_ size: 249
+[Runtime] live_tensors_ size: 248
+Step Loss:
+24.76245880126953
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 252
+[Runtime] live_tensors_ size: 251
+[Runtime] live_tensors_ size: 250
+[Runtime] live_tensors_ size: 249
+[Runtime] live_tensors_ size: 248
+[Runtime] live_tensors_ size: 247
+[Runtime] live_tensors_ size: 267
+[Runtime] live_tensors_ size: 266
+[Runtime] live_tensors_ size: 265
+[Runtime] live_tensors_ size: 264
+[Runtime] live_tensors_ size: 263
+[Runtime] live_tensors_ size: 262
+[Runtime] live_tensors_ size: 261
+[Runtime] live_tensors_ size: 260
+[Runtime] live_tensors_ size: 259
+[Runtime] live_tensors_ size: 258
+[Runtime] live_tensors_ size: 257
+[Runtime] live_tensors_ size: 258
+[Runtime] live_tensors_ size: 257
+[Runtime] live_tensors_ size: 256
+[Runtime] live_tensors_ size: 255
+[Runtime] live_tensors_ size: 254
+Step Loss:
+25.05785369873047
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 258
+[Runtime] live_tensors_ size: 257
+[Runtime] live_tensors_ size: 256
+[Runtime] live_tensors_ size: 255
+[Runtime] live_tensors_ size: 254
+[Runtime] live_tensors_ size: 253
+[Runtime] live_tensors_ size: 273
+[Runtime] live_tensors_ size: 272
+[Runtime] live_tensors_ size: 271
+[Runtime] live_tensors_ size: 270
+[Runtime] live_tensors_ size: 269
+[Runtime] live_tensors_ size: 268
+[Runtime] live_tensors_ size: 267
+[Runtime] live_tensors_ size: 266
+[Runtime] live_tensors_ size: 265
+[Runtime] live_tensors_ size: 264
+[Runtime] live_tensors_ size: 263
+[Runtime] live_tensors_ size: 264
+[Runtime] live_tensors_ size: 263
+[Runtime] live_tensors_ size: 262
+[Runtime] live_tensors_ size: 261
+[Runtime] live_tensors_ size: 260
+Step Loss:
+25.069612503051758
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 264
+[Runtime] live_tensors_ size: 263
+[Runtime] live_tensors_ size: 262
+[Runtime] live_tensors_ size: 261
+[Runtime] live_tensors_ size: 260
+[Runtime] live_tensors_ size: 259
+[Runtime] live_tensors_ size: 279
+[Runtime] live_tensors_ size: 278
+[Runtime] live_tensors_ size: 277
+[Runtime] live_tensors_ size: 276
+[Runtime] live_tensors_ size: 275
+[Runtime] live_tensors_ size: 274
+[Runtime] live_tensors_ size: 273
+[Runtime] live_tensors_ size: 272
+[Runtime] live_tensors_ size: 271
+[Runtime] live_tensors_ size: 270
+[Runtime] live_tensors_ size: 269
+[Runtime] live_tensors_ size: 270
+[Runtime] live_tensors_ size: 269
+[Runtime] live_tensors_ size: 268
+[Runtime] live_tensors_ size: 267
+[Runtime] live_tensors_ size: 266
+Step Loss:
+24.10668182373047
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 270
+[Runtime] live_tensors_ size: 269
+[Runtime] live_tensors_ size: 268
+[Runtime] live_tensors_ size: 267
+[Runtime] live_tensors_ size: 266
+[Runtime] live_tensors_ size: 265
+[Runtime] live_tensors_ size: 285
+[Runtime] live_tensors_ size: 284
+[Runtime] live_tensors_ size: 283
+[Runtime] live_tensors_ size: 282
+[Runtime] live_tensors_ size: 281
+[Runtime] live_tensors_ size: 280
+[Runtime] live_tensors_ size: 279
+[Runtime] live_tensors_ size: 278
+[Runtime] live_tensors_ size: 277
+[Runtime] live_tensors_ size: 276
+[Runtime] live_tensors_ size: 275
+[Runtime] live_tensors_ size: 276
+[Runtime] live_tensors_ size: 275
+[Runtime] live_tensors_ size: 274
+[Runtime] live_tensors_ size: 273
+[Runtime] live_tensors_ size: 272
+Step Loss:
+24.262054443359375
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 276
+[Runtime] live_tensors_ size: 275
+[Runtime] live_tensors_ size: 274
+[Runtime] live_tensors_ size: 273
+[Runtime] live_tensors_ size: 272
+[Runtime] live_tensors_ size: 271
+[Runtime] live_tensors_ size: 291
+[Runtime] live_tensors_ size: 290
+[Runtime] live_tensors_ size: 289
+[Runtime] live_tensors_ size: 288
+[Runtime] live_tensors_ size: 287
+[Runtime] live_tensors_ size: 286
+[Runtime] live_tensors_ size: 285
+[Runtime] live_tensors_ size: 284
+[Runtime] live_tensors_ size: 283
+[Runtime] live_tensors_ size: 282
+[Runtime] live_tensors_ size: 281
+[Runtime] live_tensors_ size: 282
+[Runtime] live_tensors_ size: 281
+[Runtime] live_tensors_ size: 280
+[Runtime] live_tensors_ size: 279
+[Runtime] live_tensors_ size: 278
+Step Loss:
+24.038482666015625
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 282
+[Runtime] live_tensors_ size: 281
+[Runtime] live_tensors_ size: 280
+[Runtime] live_tensors_ size: 279
+[Runtime] live_tensors_ size: 278
+[Runtime] live_tensors_ size: 277
+[Runtime] live_tensors_ size: 297
+[Runtime] live_tensors_ size: 296
+[Runtime] live_tensors_ size: 295
+[Runtime] live_tensors_ size: 294
+[Runtime] live_tensors_ size: 293
+[Runtime] live_tensors_ size: 292
+[Runtime] live_tensors_ size: 291
+[Runtime] live_tensors_ size: 290
+[Runtime] live_tensors_ size: 289
+[Runtime] live_tensors_ size: 288
+[Runtime] live_tensors_ size: 287
+[Runtime] live_tensors_ size: 288
+[Runtime] live_tensors_ size: 287
+[Runtime] live_tensors_ size: 286
+[Runtime] live_tensors_ size: 285
+[Runtime] live_tensors_ size: 284
+Step Loss:
+24.630313873291016
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 288
+[Runtime] live_tensors_ size: 287
+[Runtime] live_tensors_ size: 286
+[Runtime] live_tensors_ size: 285
+[Runtime] live_tensors_ size: 284
+[Runtime] live_tensors_ size: 283
+[Runtime] live_tensors_ size: 303
+[Runtime] live_tensors_ size: 302
+[Runtime] live_tensors_ size: 301
+[Runtime] live_tensors_ size: 300
+[Runtime] live_tensors_ size: 299
+[Runtime] live_tensors_ size: 298
+[Runtime] live_tensors_ size: 297
+[Runtime] live_tensors_ size: 296
+[Runtime] live_tensors_ size: 295
+[Runtime] live_tensors_ size: 294
+[Runtime] live_tensors_ size: 293
+[Runtime] live_tensors_ size: 294
+[Runtime] live_tensors_ size: 293
+[Runtime] live_tensors_ size: 292
+[Runtime] live_tensors_ size: 291
+[Runtime] live_tensors_ size: 290
+Step Loss:
+23.455766677856445
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 294
+[Runtime] live_tensors_ size: 293
+[Runtime] live_tensors_ size: 292
+[Runtime] live_tensors_ size: 291
+[Runtime] live_tensors_ size: 290
+[Runtime] live_tensors_ size: 289
+[Runtime] live_tensors_ size: 309
+[Runtime] live_tensors_ size: 308
+[Runtime] live_tensors_ size: 307
+[Runtime] live_tensors_ size: 306
+[Runtime] live_tensors_ size: 305
+[Runtime] live_tensors_ size: 304
+[Runtime] live_tensors_ size: 303
+[Runtime] live_tensors_ size: 302
+[Runtime] live_tensors_ size: 301
+[Runtime] live_tensors_ size: 300
+[Runtime] live_tensors_ size: 299
+[Runtime] live_tensors_ size: 300
+[Runtime] live_tensors_ size: 299
+[Runtime] live_tensors_ size: 298
+[Runtime] live_tensors_ size: 297
+[Runtime] live_tensors_ size: 296
+Step Loss:
+23.81673812866211
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 300
+[Runtime] live_tensors_ size: 299
+[Runtime] live_tensors_ size: 298
+[Runtime] live_tensors_ size: 297
+[Runtime] live_tensors_ size: 296
+[Runtime] live_tensors_ size: 295
+[Runtime] live_tensors_ size: 315
+[Runtime] live_tensors_ size: 314
+[Runtime] live_tensors_ size: 313
+[Runtime] live_tensors_ size: 312
+[Runtime] live_tensors_ size: 311
+[Runtime] live_tensors_ size: 310
+[Runtime] live_tensors_ size: 309
+[Runtime] live_tensors_ size: 308
+[Runtime] live_tensors_ size: 307
+[Runtime] live_tensors_ size: 306
+[Runtime] live_tensors_ size: 305
+[Runtime] live_tensors_ size: 306
+[Runtime] live_tensors_ size: 305
+[Runtime] live_tensors_ size: 304
+[Runtime] live_tensors_ size: 303
+[Runtime] live_tensors_ size: 302
+Step Loss:
+24.027997970581055
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 306
+[Runtime] live_tensors_ size: 305
+[Runtime] live_tensors_ size: 304
+[Runtime] live_tensors_ size: 303
+[Runtime] live_tensors_ size: 302
+[Runtime] live_tensors_ size: 301
+[Runtime] live_tensors_ size: 321
+[Runtime] live_tensors_ size: 320
+[Runtime] live_tensors_ size: 319
+[Runtime] live_tensors_ size: 318
+[Runtime] live_tensors_ size: 317
+[Runtime] live_tensors_ size: 316
+[Runtime] live_tensors_ size: 315
+[Runtime] live_tensors_ size: 314
+[Runtime] live_tensors_ size: 313
+[Runtime] live_tensors_ size: 312
+[Runtime] live_tensors_ size: 311
+[Runtime] live_tensors_ size: 312
+[Runtime] live_tensors_ size: 311
+[Runtime] live_tensors_ size: 310
+[Runtime] live_tensors_ size: 309
+[Runtime] live_tensors_ size: 308
+Step Loss:
+22.96155548095703
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 312
+[Runtime] live_tensors_ size: 311
+[Runtime] live_tensors_ size: 310
+[Runtime] live_tensors_ size: 309
+[Runtime] live_tensors_ size: 308
+[Runtime] live_tensors_ size: 307
+[Runtime] live_tensors_ size: 327
+[Runtime] live_tensors_ size: 326
+[Runtime] live_tensors_ size: 325
+[Runtime] live_tensors_ size: 324
+[Runtime] live_tensors_ size: 323
+[Runtime] live_tensors_ size: 322
+[Runtime] live_tensors_ size: 321
+[Runtime] live_tensors_ size: 320
+[Runtime] live_tensors_ size: 319
+[Runtime] live_tensors_ size: 318
+[Runtime] live_tensors_ size: 317
+[Runtime] live_tensors_ size: 318
+[Runtime] live_tensors_ size: 317
+[Runtime] live_tensors_ size: 316
+[Runtime] live_tensors_ size: 315
+[Runtime] live_tensors_ size: 314
+Step Loss:
+23.438976287841797
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 318
+[Runtime] live_tensors_ size: 317
+[Runtime] live_tensors_ size: 316
+[Runtime] live_tensors_ size: 315
+[Runtime] live_tensors_ size: 314
+[Runtime] live_tensors_ size: 313
+[Runtime] live_tensors_ size: 333
+[Runtime] live_tensors_ size: 332
+[Runtime] live_tensors_ size: 331
+[Runtime] live_tensors_ size: 330
+[Runtime] live_tensors_ size: 329
+[Runtime] live_tensors_ size: 328
+[Runtime] live_tensors_ size: 327
+[Runtime] live_tensors_ size: 326
+[Runtime] live_tensors_ size: 325
+[Runtime] live_tensors_ size: 324
+[Runtime] live_tensors_ size: 323
+[Runtime] live_tensors_ size: 324
+[Runtime] live_tensors_ size: 323
+[Runtime] live_tensors_ size: 322
+[Runtime] live_tensors_ size: 321
+[Runtime] live_tensors_ size: 320
+Step Loss:
+23.861251831054688
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 324
+[Runtime] live_tensors_ size: 323
+[Runtime] live_tensors_ size: 322
+[Runtime] live_tensors_ size: 321
+[Runtime] live_tensors_ size: 320
+[Runtime] live_tensors_ size: 319
+[Runtime] live_tensors_ size: 339
+[Runtime] live_tensors_ size: 338
+[Runtime] live_tensors_ size: 337
+[Runtime] live_tensors_ size: 336
+[Runtime] live_tensors_ size: 335
+[Runtime] live_tensors_ size: 334
+[Runtime] live_tensors_ size: 333
+[Runtime] live_tensors_ size: 332
+[Runtime] live_tensors_ size: 331
+[Runtime] live_tensors_ size: 330
+[Runtime] live_tensors_ size: 329
+[Runtime] live_tensors_ size: 330
+[Runtime] live_tensors_ size: 329
+[Runtime] live_tensors_ size: 328
+[Runtime] live_tensors_ size: 327
+[Runtime] live_tensors_ size: 326
+Step Loss:
+23.26218032836914
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 330
+[Runtime] live_tensors_ size: 329
+[Runtime] live_tensors_ size: 328
+[Runtime] live_tensors_ size: 327
+[Runtime] live_tensors_ size: 326
+[Runtime] live_tensors_ size: 325
+[Runtime] live_tensors_ size: 345
+[Runtime] live_tensors_ size: 344
+[Runtime] live_tensors_ size: 343
+[Runtime] live_tensors_ size: 342
+[Runtime] live_tensors_ size: 341
+[Runtime] live_tensors_ size: 340
+[Runtime] live_tensors_ size: 339
+[Runtime] live_tensors_ size: 338
+[Runtime] live_tensors_ size: 337
+[Runtime] live_tensors_ size: 336
+[Runtime] live_tensors_ size: 335
+[Runtime] live_tensors_ size: 336
+[Runtime] live_tensors_ size: 335
+[Runtime] live_tensors_ size: 334
+[Runtime] live_tensors_ size: 333
+[Runtime] live_tensors_ size: 332
+Step Loss:
+22.26454734802246
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 336
+[Runtime] live_tensors_ size: 335
+[Runtime] live_tensors_ size: 334
+[Runtime] live_tensors_ size: 333
+[Runtime] live_tensors_ size: 332
+[Runtime] live_tensors_ size: 331
+[Runtime] live_tensors_ size: 351
+[Runtime] live_tensors_ size: 350
+[Runtime] live_tensors_ size: 349
+[Runtime] live_tensors_ size: 348
+[Runtime] live_tensors_ size: 347
+[Runtime] live_tensors_ size: 346
+[Runtime] live_tensors_ size: 345
+[Runtime] live_tensors_ size: 344
+[Runtime] live_tensors_ size: 343
+[Runtime] live_tensors_ size: 342
+[Runtime] live_tensors_ size: 341
+[Runtime] live_tensors_ size: 342
+[Runtime] live_tensors_ size: 341
+[Runtime] live_tensors_ size: 340
+[Runtime] live_tensors_ size: 339
+[Runtime] live_tensors_ size: 338
+Step Loss:
+22.59917640686035
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 342
+[Runtime] live_tensors_ size: 341
+[Runtime] live_tensors_ size: 340
+[Runtime] live_tensors_ size: 339
+[Runtime] live_tensors_ size: 338
+[Runtime] live_tensors_ size: 337
+[Runtime] live_tensors_ size: 357
+[Runtime] live_tensors_ size: 356
+[Runtime] live_tensors_ size: 355
+[Runtime] live_tensors_ size: 354
+[Runtime] live_tensors_ size: 353
+[Runtime] live_tensors_ size: 352
+[Runtime] live_tensors_ size: 351
+[Runtime] live_tensors_ size: 350
+[Runtime] live_tensors_ size: 349
+[Runtime] live_tensors_ size: 348
+[Runtime] live_tensors_ size: 347
+[Runtime] live_tensors_ size: 348
+[Runtime] live_tensors_ size: 347
+[Runtime] live_tensors_ size: 346
+[Runtime] live_tensors_ size: 345
+[Runtime] live_tensors_ size: 344
+Step Loss:
+22.797828674316406
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 348
+[Runtime] live_tensors_ size: 347
+[Runtime] live_tensors_ size: 346
+[Runtime] live_tensors_ size: 345
+[Runtime] live_tensors_ size: 344
+[Runtime] live_tensors_ size: 343
+[Runtime] live_tensors_ size: 363
+[Runtime] live_tensors_ size: 362
+[Runtime] live_tensors_ size: 361
+[Runtime] live_tensors_ size: 360
+[Runtime] live_tensors_ size: 359
+[Runtime] live_tensors_ size: 358
+[Runtime] live_tensors_ size: 357
+[Runtime] live_tensors_ size: 356
+[Runtime] live_tensors_ size: 355
+[Runtime] live_tensors_ size: 354
+[Runtime] live_tensors_ size: 353
+[Runtime] live_tensors_ size: 354
+[Runtime] live_tensors_ size: 353
+[Runtime] live_tensors_ size: 352
+[Runtime] live_tensors_ size: 351
+[Runtime] live_tensors_ size: 350
+Step Loss:
+22.18638801574707
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 354
+[Runtime] live_tensors_ size: 353
+[Runtime] live_tensors_ size: 352
+[Runtime] live_tensors_ size: 351
+[Runtime] live_tensors_ size: 350
+[Runtime] live_tensors_ size: 349
+[Runtime] live_tensors_ size: 369
+[Runtime] live_tensors_ size: 368
+[Runtime] live_tensors_ size: 367
+[Runtime] live_tensors_ size: 366
+[Runtime] live_tensors_ size: 365
+[Runtime] live_tensors_ size: 364
+[Runtime] live_tensors_ size: 363
+[Runtime] live_tensors_ size: 362
+[Runtime] live_tensors_ size: 361
+[Runtime] live_tensors_ size: 360
+[Runtime] live_tensors_ size: 359
+[Runtime] live_tensors_ size: 360
+[Runtime] live_tensors_ size: 359
+[Runtime] live_tensors_ size: 358
+[Runtime] live_tensors_ size: 357
+[Runtime] live_tensors_ size: 356
+Step Loss:
+22.34160041809082
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 360
+[Runtime] live_tensors_ size: 359
+[Runtime] live_tensors_ size: 358
+[Runtime] live_tensors_ size: 357
+[Runtime] live_tensors_ size: 356
+[Runtime] live_tensors_ size: 355
+[Runtime] live_tensors_ size: 375
+[Runtime] live_tensors_ size: 374
+[Runtime] live_tensors_ size: 373
+[Runtime] live_tensors_ size: 372
+[Runtime] live_tensors_ size: 371
+[Runtime] live_tensors_ size: 370
+[Runtime] live_tensors_ size: 369
+[Runtime] live_tensors_ size: 368
+[Runtime] live_tensors_ size: 367
+[Runtime] live_tensors_ size: 366
+[Runtime] live_tensors_ size: 365
+[Runtime] live_tensors_ size: 366
+[Runtime] live_tensors_ size: 365
+[Runtime] live_tensors_ size: 364
+[Runtime] live_tensors_ size: 363
+[Runtime] live_tensors_ size: 362
+Step Loss:
+22.373178482055664
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 366
+[Runtime] live_tensors_ size: 365
+[Runtime] live_tensors_ size: 364
+[Runtime] live_tensors_ size: 363
+[Runtime] live_tensors_ size: 362
+[Runtime] live_tensors_ size: 361
+[Runtime] live_tensors_ size: 381
+[Runtime] live_tensors_ size: 380
+[Runtime] live_tensors_ size: 379
+[Runtime] live_tensors_ size: 378
+[Runtime] live_tensors_ size: 377
+[Runtime] live_tensors_ size: 376
+[Runtime] live_tensors_ size: 375
+[Runtime] live_tensors_ size: 374
+[Runtime] live_tensors_ size: 373
+[Runtime] live_tensors_ size: 372
+[Runtime] live_tensors_ size: 371
+[Runtime] live_tensors_ size: 372
+[Runtime] live_tensors_ size: 371
+[Runtime] live_tensors_ size: 370
+[Runtime] live_tensors_ size: 369
+[Runtime] live_tensors_ size: 368
+Step Loss:
+22.175355911254883
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 372
+[Runtime] live_tensors_ size: 371
+[Runtime] live_tensors_ size: 370
+[Runtime] live_tensors_ size: 369
+[Runtime] live_tensors_ size: 368
+[Runtime] live_tensors_ size: 367
+[Runtime] live_tensors_ size: 387
+[Runtime] live_tensors_ size: 386
+[Runtime] live_tensors_ size: 385
+[Runtime] live_tensors_ size: 384
+[Runtime] live_tensors_ size: 383
+[Runtime] live_tensors_ size: 382
+[Runtime] live_tensors_ size: 381
+[Runtime] live_tensors_ size: 380
+[Runtime] live_tensors_ size: 379
+[Runtime] live_tensors_ size: 378
+[Runtime] live_tensors_ size: 377
+[Runtime] live_tensors_ size: 378
+[Runtime] live_tensors_ size: 377
+[Runtime] live_tensors_ size: 376
+[Runtime] live_tensors_ size: 375
+[Runtime] live_tensors_ size: 374
+Step Loss:
+22.319103240966797
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 378
+[Runtime] live_tensors_ size: 377
+[Runtime] live_tensors_ size: 376
+[Runtime] live_tensors_ size: 375
+[Runtime] live_tensors_ size: 374
+[Runtime] live_tensors_ size: 373
+[Runtime] live_tensors_ size: 393
+[Runtime] live_tensors_ size: 392
+[Runtime] live_tensors_ size: 391
+[Runtime] live_tensors_ size: 390
+[Runtime] live_tensors_ size: 389
+[Runtime] live_tensors_ size: 388
+[Runtime] live_tensors_ size: 387
+[Runtime] live_tensors_ size: 386
+[Runtime] live_tensors_ size: 385
+[Runtime] live_tensors_ size: 384
+[Runtime] live_tensors_ size: 383
+[Runtime] live_tensors_ size: 384
+[Runtime] live_tensors_ size: 383
+[Runtime] live_tensors_ size: 382
+[Runtime] live_tensors_ size: 381
+[Runtime] live_tensors_ size: 380
+Step Loss:
+22.176244735717773
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 384
+[Runtime] live_tensors_ size: 383
+[Runtime] live_tensors_ size: 382
+[Runtime] live_tensors_ size: 381
+[Runtime] live_tensors_ size: 380
+[Runtime] live_tensors_ size: 379
+[Runtime] live_tensors_ size: 399
+[Runtime] live_tensors_ size: 398
+[Runtime] live_tensors_ size: 397
+[Runtime] live_tensors_ size: 396
+[Runtime] live_tensors_ size: 395
+[Runtime] live_tensors_ size: 394
+[Runtime] live_tensors_ size: 393
+[Runtime] live_tensors_ size: 392
+[Runtime] live_tensors_ size: 391
+[Runtime] live_tensors_ size: 390
+[Runtime] live_tensors_ size: 389
+[Runtime] live_tensors_ size: 390
+[Runtime] live_tensors_ size: 389
+[Runtime] live_tensors_ size: 388
+[Runtime] live_tensors_ size: 387
+[Runtime] live_tensors_ size: 386
+Step Loss:
+21.8444881439209
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 390
+[Runtime] live_tensors_ size: 389
+[Runtime] live_tensors_ size: 388
+[Runtime] live_tensors_ size: 387
+[Runtime] live_tensors_ size: 386
+[Runtime] live_tensors_ size: 385
+[Runtime] live_tensors_ size: 405
+[Runtime] live_tensors_ size: 404
+[Runtime] live_tensors_ size: 403
+[Runtime] live_tensors_ size: 402
+[Runtime] live_tensors_ size: 401
+[Runtime] live_tensors_ size: 400
+[Runtime] live_tensors_ size: 399
+[Runtime] live_tensors_ size: 398
+[Runtime] live_tensors_ size: 397
+[Runtime] live_tensors_ size: 396
+[Runtime] live_tensors_ size: 395
+[Runtime] live_tensors_ size: 396
+[Runtime] live_tensors_ size: 395
+[Runtime] live_tensors_ size: 394
+[Runtime] live_tensors_ size: 393
+[Runtime] live_tensors_ size: 392
+Step Loss:
+20.633596420288086
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 396
+[Runtime] live_tensors_ size: 395
+[Runtime] live_tensors_ size: 394
+[Runtime] live_tensors_ size: 393
+[Runtime] live_tensors_ size: 392
+[Runtime] live_tensors_ size: 391
+[Runtime] live_tensors_ size: 411
+[Runtime] live_tensors_ size: 410
+[Runtime] live_tensors_ size: 409
+[Runtime] live_tensors_ size: 408
+[Runtime] live_tensors_ size: 407
+[Runtime] live_tensors_ size: 406
+[Runtime] live_tensors_ size: 405
+[Runtime] live_tensors_ size: 404
+[Runtime] live_tensors_ size: 403
+[Runtime] live_tensors_ size: 402
+[Runtime] live_tensors_ size: 401
+[Runtime] live_tensors_ size: 402
+[Runtime] live_tensors_ size: 401
+[Runtime] live_tensors_ size: 400
+[Runtime] live_tensors_ size: 399
+[Runtime] live_tensors_ size: 398
+Step Loss:
+21.951465606689453
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 402
+[Runtime] live_tensors_ size: 401
+[Runtime] live_tensors_ size: 400
+[Runtime] live_tensors_ size: 399
+[Runtime] live_tensors_ size: 398
+[Runtime] live_tensors_ size: 397
+[Runtime] live_tensors_ size: 417
+[Runtime] live_tensors_ size: 416
+[Runtime] live_tensors_ size: 415
+[Runtime] live_tensors_ size: 414
+[Runtime] live_tensors_ size: 413
+[Runtime] live_tensors_ size: 412
+[Runtime] live_tensors_ size: 411
+[Runtime] live_tensors_ size: 410
+[Runtime] live_tensors_ size: 409
+[Runtime] live_tensors_ size: 408
+[Runtime] live_tensors_ size: 407
+[Runtime] live_tensors_ size: 408
+[Runtime] live_tensors_ size: 407
+[Runtime] live_tensors_ size: 406
+[Runtime] live_tensors_ size: 405
+[Runtime] live_tensors_ size: 404
+Step Loss:
+21.597707748413086
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 408
+[Runtime] live_tensors_ size: 407
+[Runtime] live_tensors_ size: 406
+[Runtime] live_tensors_ size: 405
+[Runtime] live_tensors_ size: 404
+[Runtime] live_tensors_ size: 403
+[Runtime] live_tensors_ size: 423
+[Runtime] live_tensors_ size: 422
+[Runtime] live_tensors_ size: 421
+[Runtime] live_tensors_ size: 420
+[Runtime] live_tensors_ size: 419
+[Runtime] live_tensors_ size: 418
+[Runtime] live_tensors_ size: 417
+[Runtime] live_tensors_ size: 416
+[Runtime] live_tensors_ size: 415
+[Runtime] live_tensors_ size: 414
+[Runtime] live_tensors_ size: 413
+[Runtime] live_tensors_ size: 414
+[Runtime] live_tensors_ size: 413
+[Runtime] live_tensors_ size: 412
+[Runtime] live_tensors_ size: 411
+[Runtime] live_tensors_ size: 410
+Step Loss:
+21.354595184326172
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 414
+[Runtime] live_tensors_ size: 413
+[Runtime] live_tensors_ size: 412
+[Runtime] live_tensors_ size: 411
+[Runtime] live_tensors_ size: 410
+[Runtime] live_tensors_ size: 409
+[Runtime] live_tensors_ size: 429
+[Runtime] live_tensors_ size: 428
+[Runtime] live_tensors_ size: 427
+[Runtime] live_tensors_ size: 426
+[Runtime] live_tensors_ size: 425
+[Runtime] live_tensors_ size: 424
+[Runtime] live_tensors_ size: 423
+[Runtime] live_tensors_ size: 422
+[Runtime] live_tensors_ size: 421
+[Runtime] live_tensors_ size: 420
+[Runtime] live_tensors_ size: 419
+[Runtime] live_tensors_ size: 420
+[Runtime] live_tensors_ size: 419
+[Runtime] live_tensors_ size: 418
+[Runtime] live_tensors_ size: 417
+[Runtime] live_tensors_ size: 416
+Step Loss:
+20.468130111694336
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 420
+[Runtime] live_tensors_ size: 419
+[Runtime] live_tensors_ size: 418
+[Runtime] live_tensors_ size: 417
+[Runtime] live_tensors_ size: 416
+[Runtime] live_tensors_ size: 415
+[Runtime] live_tensors_ size: 435
+[Runtime] live_tensors_ size: 434
+[Runtime] live_tensors_ size: 433
+[Runtime] live_tensors_ size: 432
+[Runtime] live_tensors_ size: 431
+[Runtime] live_tensors_ size: 430
+[Runtime] live_tensors_ size: 429
+[Runtime] live_tensors_ size: 428
+[Runtime] live_tensors_ size: 427
+[Runtime] live_tensors_ size: 426
+[Runtime] live_tensors_ size: 425
+[Runtime] live_tensors_ size: 426
+[Runtime] live_tensors_ size: 425
+[Runtime] live_tensors_ size: 424
+[Runtime] live_tensors_ size: 423
+[Runtime] live_tensors_ size: 422
+Step Loss:
+19.83220672607422
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 426
+[Runtime] live_tensors_ size: 425
+[Runtime] live_tensors_ size: 424
+[Runtime] live_tensors_ size: 423
+[Runtime] live_tensors_ size: 422
+[Runtime] live_tensors_ size: 421
+[Runtime] live_tensors_ size: 441
+[Runtime] live_tensors_ size: 440
+[Runtime] live_tensors_ size: 439
+[Runtime] live_tensors_ size: 438
+[Runtime] live_tensors_ size: 437
+[Runtime] live_tensors_ size: 436
+[Runtime] live_tensors_ size: 435
+[Runtime] live_tensors_ size: 434
+[Runtime] live_tensors_ size: 433
+[Runtime] live_tensors_ size: 432
+[Runtime] live_tensors_ size: 431
+[Runtime] live_tensors_ size: 432
+[Runtime] live_tensors_ size: 431
+[Runtime] live_tensors_ size: 430
+[Runtime] live_tensors_ size: 429
+[Runtime] live_tensors_ size: 428
+Step Loss:
+20.57227897644043
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 432
+[Runtime] live_tensors_ size: 431
+[Runtime] live_tensors_ size: 430
+[Runtime] live_tensors_ size: 429
+[Runtime] live_tensors_ size: 428
+[Runtime] live_tensors_ size: 427
+[Runtime] live_tensors_ size: 447
+[Runtime] live_tensors_ size: 446
+[Runtime] live_tensors_ size: 445
+[Runtime] live_tensors_ size: 444
+[Runtime] live_tensors_ size: 443
+[Runtime] live_tensors_ size: 442
+[Runtime] live_tensors_ size: 441
+[Runtime] live_tensors_ size: 440
+[Runtime] live_tensors_ size: 439
+[Runtime] live_tensors_ size: 438
+[Runtime] live_tensors_ size: 437
+[Runtime] live_tensors_ size: 438
+[Runtime] live_tensors_ size: 437
+[Runtime] live_tensors_ size: 436
+[Runtime] live_tensors_ size: 435
+[Runtime] live_tensors_ size: 434
+Step Loss:
+20.4325008392334
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 438
+[Runtime] live_tensors_ size: 437
+[Runtime] live_tensors_ size: 436
+[Runtime] live_tensors_ size: 435
+[Runtime] live_tensors_ size: 434
+[Runtime] live_tensors_ size: 433
+[Runtime] live_tensors_ size: 453
+[Runtime] live_tensors_ size: 452
+[Runtime] live_tensors_ size: 451
+[Runtime] live_tensors_ size: 450
+[Runtime] live_tensors_ size: 449
+[Runtime] live_tensors_ size: 448
+[Runtime] live_tensors_ size: 447
+[Runtime] live_tensors_ size: 446
+[Runtime] live_tensors_ size: 445
+[Runtime] live_tensors_ size: 444
+[Runtime] live_tensors_ size: 443
+[Runtime] live_tensors_ size: 444
+[Runtime] live_tensors_ size: 443
+[Runtime] live_tensors_ size: 442
+[Runtime] live_tensors_ size: 441
+[Runtime] live_tensors_ size: 440
+Step Loss:
+20.954212188720703
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 444
+[Runtime] live_tensors_ size: 443
+[Runtime] live_tensors_ size: 442
+[Runtime] live_tensors_ size: 441
+[Runtime] live_tensors_ size: 440
+[Runtime] live_tensors_ size: 439
+[Runtime] live_tensors_ size: 459
+[Runtime] live_tensors_ size: 458
+[Runtime] live_tensors_ size: 457
+[Runtime] live_tensors_ size: 456
+[Runtime] live_tensors_ size: 455
+[Runtime] live_tensors_ size: 454
+[Runtime] live_tensors_ size: 453
+[Runtime] live_tensors_ size: 452
+[Runtime] live_tensors_ size: 451
+[Runtime] live_tensors_ size: 450
+[Runtime] live_tensors_ size: 449
+[Runtime] live_tensors_ size: 450
+[Runtime] live_tensors_ size: 449
+[Runtime] live_tensors_ size: 448
+[Runtime] live_tensors_ size: 447
+[Runtime] live_tensors_ size: 446
+Step Loss:
+20.744287490844727
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 450
+[Runtime] live_tensors_ size: 449
+[Runtime] live_tensors_ size: 448
+[Runtime] live_tensors_ size: 447
+[Runtime] live_tensors_ size: 446
+[Runtime] live_tensors_ size: 445
+[Runtime] live_tensors_ size: 465
+[Runtime] live_tensors_ size: 464
+[Runtime] live_tensors_ size: 463
+[Runtime] live_tensors_ size: 462
+[Runtime] live_tensors_ size: 461
+[Runtime] live_tensors_ size: 460
+[Runtime] live_tensors_ size: 459
+[Runtime] live_tensors_ size: 458
+[Runtime] live_tensors_ size: 457
+[Runtime] live_tensors_ size: 456
+[Runtime] live_tensors_ size: 455
+[Runtime] live_tensors_ size: 456
+[Runtime] live_tensors_ size: 455
+[Runtime] live_tensors_ size: 454
+[Runtime] live_tensors_ size: 453
+[Runtime] live_tensors_ size: 452
+Step Loss:
+20.20047378540039
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 456
+[Runtime] live_tensors_ size: 455
+[Runtime] live_tensors_ size: 454
+[Runtime] live_tensors_ size: 453
+[Runtime] live_tensors_ size: 452
+[Runtime] live_tensors_ size: 451
+[Runtime] live_tensors_ size: 471
+[Runtime] live_tensors_ size: 470
+[Runtime] live_tensors_ size: 469
+[Runtime] live_tensors_ size: 468
+[Runtime] live_tensors_ size: 467
+[Runtime] live_tensors_ size: 466
+[Runtime] live_tensors_ size: 465
+[Runtime] live_tensors_ size: 464
+[Runtime] live_tensors_ size: 463
+[Runtime] live_tensors_ size: 462
+[Runtime] live_tensors_ size: 461
+[Runtime] live_tensors_ size: 462
+[Runtime] live_tensors_ size: 461
+[Runtime] live_tensors_ size: 460
+[Runtime] live_tensors_ size: 459
+[Runtime] live_tensors_ size: 458
+Step Loss:
+20.321683883666992
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 462
+[Runtime] live_tensors_ size: 461
+[Runtime] live_tensors_ size: 460
+[Runtime] live_tensors_ size: 459
+[Runtime] live_tensors_ size: 458
+[Runtime] live_tensors_ size: 457
+[Runtime] live_tensors_ size: 477
+[Runtime] live_tensors_ size: 476
+[Runtime] live_tensors_ size: 475
+[Runtime] live_tensors_ size: 474
+[Runtime] live_tensors_ size: 473
+[Runtime] live_tensors_ size: 472
+[Runtime] live_tensors_ size: 471
+[Runtime] live_tensors_ size: 470
+[Runtime] live_tensors_ size: 469
+[Runtime] live_tensors_ size: 468
+[Runtime] live_tensors_ size: 467
+[Runtime] live_tensors_ size: 468
+[Runtime] live_tensors_ size: 467
+[Runtime] live_tensors_ size: 466
+[Runtime] live_tensors_ size: 465
+[Runtime] live_tensors_ size: 464
+Step Loss:
+20.33538246154785
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 468
+[Runtime] live_tensors_ size: 467
+[Runtime] live_tensors_ size: 466
+[Runtime] live_tensors_ size: 465
+[Runtime] live_tensors_ size: 464
+[Runtime] live_tensors_ size: 463
+[Runtime] live_tensors_ size: 483
+[Runtime] live_tensors_ size: 482
+[Runtime] live_tensors_ size: 481
+[Runtime] live_tensors_ size: 480
+[Runtime] live_tensors_ size: 479
+[Runtime] live_tensors_ size: 478
+[Runtime] live_tensors_ size: 477
+[Runtime] live_tensors_ size: 476
+[Runtime] live_tensors_ size: 475
+[Runtime] live_tensors_ size: 474
+[Runtime] live_tensors_ size: 473
+[Runtime] live_tensors_ size: 474
+[Runtime] live_tensors_ size: 473
+[Runtime] live_tensors_ size: 472
+[Runtime] live_tensors_ size: 471
+[Runtime] live_tensors_ size: 470
+Step Loss:
+20.801944732666016
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 474
+[Runtime] live_tensors_ size: 473
+[Runtime] live_tensors_ size: 472
+[Runtime] live_tensors_ size: 471
+[Runtime] live_tensors_ size: 470
+[Runtime] live_tensors_ size: 469
+[Runtime] live_tensors_ size: 489
+[Runtime] live_tensors_ size: 488
+[Runtime] live_tensors_ size: 487
+[Runtime] live_tensors_ size: 486
+[Runtime] live_tensors_ size: 485
+[Runtime] live_tensors_ size: 484
+[Runtime] live_tensors_ size: 483
+[Runtime] live_tensors_ size: 482
+[Runtime] live_tensors_ size: 481
+[Runtime] live_tensors_ size: 480
+[Runtime] live_tensors_ size: 479
+[Runtime] live_tensors_ size: 480
+[Runtime] live_tensors_ size: 479
+[Runtime] live_tensors_ size: 478
+[Runtime] live_tensors_ size: 477
+[Runtime] live_tensors_ size: 476
+Step Loss:
+20.28396987915039
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 480
+[Runtime] live_tensors_ size: 479
+[Runtime] live_tensors_ size: 478
+[Runtime] live_tensors_ size: 477
+[Runtime] live_tensors_ size: 476
+[Runtime] live_tensors_ size: 475
+[Runtime] live_tensors_ size: 495
+[Runtime] live_tensors_ size: 494
+[Runtime] live_tensors_ size: 493
+[Runtime] live_tensors_ size: 492
+[Runtime] live_tensors_ size: 491
+[Runtime] live_tensors_ size: 490
+[Runtime] live_tensors_ size: 489
+[Runtime] live_tensors_ size: 488
+[Runtime] live_tensors_ size: 487
+[Runtime] live_tensors_ size: 486
+[Runtime] live_tensors_ size: 485
+[Runtime] live_tensors_ size: 486
+[Runtime] live_tensors_ size: 485
+[Runtime] live_tensors_ size: 484
+[Runtime] live_tensors_ size: 483
+[Runtime] live_tensors_ size: 482
+Step Loss:
+20.831165313720703
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 486
+[Runtime] live_tensors_ size: 485
+[Runtime] live_tensors_ size: 484
+[Runtime] live_tensors_ size: 483
+[Runtime] live_tensors_ size: 482
+[Runtime] live_tensors_ size: 481
+[Runtime] live_tensors_ size: 501
+[Runtime] live_tensors_ size: 500
+[Runtime] live_tensors_ size: 499
+[Runtime] live_tensors_ size: 498
+[Runtime] live_tensors_ size: 497
+[Runtime] live_tensors_ size: 496
+[Runtime] live_tensors_ size: 495
+[Runtime] live_tensors_ size: 494
+[Runtime] live_tensors_ size: 493
+[Runtime] live_tensors_ size: 492
+[Runtime] live_tensors_ size: 491
+[Runtime] live_tensors_ size: 492
+[Runtime] live_tensors_ size: 491
+[Runtime] live_tensors_ size: 490
+[Runtime] live_tensors_ size: 489
+[Runtime] live_tensors_ size: 488
+Step Loss:
+19.577383041381836
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 492
+[Runtime] live_tensors_ size: 491
+[Runtime] live_tensors_ size: 490
+[Runtime] live_tensors_ size: 489
+[Runtime] live_tensors_ size: 488
+[Runtime] live_tensors_ size: 487
+[Runtime] live_tensors_ size: 507
+[Runtime] live_tensors_ size: 506
+[Runtime] live_tensors_ size: 505
+[Runtime] live_tensors_ size: 504
+[Runtime] live_tensors_ size: 503
+[Runtime] live_tensors_ size: 502
+[Runtime] live_tensors_ size: 501
+[Runtime] live_tensors_ size: 500
+[Runtime] live_tensors_ size: 499
+[Runtime] live_tensors_ size: 498
+[Runtime] live_tensors_ size: 497
+[Runtime] live_tensors_ size: 498
+[Runtime] live_tensors_ size: 497
+[Runtime] live_tensors_ size: 496
+[Runtime] live_tensors_ size: 495
+[Runtime] live_tensors_ size: 494
+Step Loss:
+20.203950881958008
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 498
+[Runtime] live_tensors_ size: 497
+[Runtime] live_tensors_ size: 496
+[Runtime] live_tensors_ size: 495
+[Runtime] live_tensors_ size: 494
+[Runtime] live_tensors_ size: 493
+[Runtime] live_tensors_ size: 513
+[Runtime] live_tensors_ size: 512
+[Runtime] live_tensors_ size: 511
+[Runtime] live_tensors_ size: 510
+[Runtime] live_tensors_ size: 509
+[Runtime] live_tensors_ size: 508
+[Runtime] live_tensors_ size: 507
+[Runtime] live_tensors_ size: 506
+[Runtime] live_tensors_ size: 505
+[Runtime] live_tensors_ size: 504
+[Runtime] live_tensors_ size: 503
+[Runtime] live_tensors_ size: 504
+[Runtime] live_tensors_ size: 503
+[Runtime] live_tensors_ size: 502
+[Runtime] live_tensors_ size: 501
+[Runtime] live_tensors_ size: 500
+Step Loss:
+20.28787612915039
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 504
+[Runtime] live_tensors_ size: 503
+[Runtime] live_tensors_ size: 502
+[Runtime] live_tensors_ size: 501
+[Runtime] live_tensors_ size: 500
+[Runtime] live_tensors_ size: 499
+[Runtime] live_tensors_ size: 519
+[Runtime] live_tensors_ size: 518
+[Runtime] live_tensors_ size: 517
+[Runtime] live_tensors_ size: 516
+[Runtime] live_tensors_ size: 515
+[Runtime] live_tensors_ size: 514
+[Runtime] live_tensors_ size: 513
+[Runtime] live_tensors_ size: 512
+[Runtime] live_tensors_ size: 511
+[Runtime] live_tensors_ size: 510
+[Runtime] live_tensors_ size: 509
+[Runtime] live_tensors_ size: 510
+[Runtime] live_tensors_ size: 509
+[Runtime] live_tensors_ size: 508
+[Runtime] live_tensors_ size: 507
+[Runtime] live_tensors_ size: 506
+Step Loss:
+19.23027801513672
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 510
+[Runtime] live_tensors_ size: 509
+[Runtime] live_tensors_ size: 508
+[Runtime] live_tensors_ size: 507
+[Runtime] live_tensors_ size: 506
+[Runtime] live_tensors_ size: 505
+[Runtime] live_tensors_ size: 525
+[Runtime] live_tensors_ size: 524
+[Runtime] live_tensors_ size: 523
+[Runtime] live_tensors_ size: 522
+[Runtime] live_tensors_ size: 521
+[Runtime] live_tensors_ size: 520
+[Runtime] live_tensors_ size: 519
+[Runtime] live_tensors_ size: 518
+[Runtime] live_tensors_ size: 517
+[Runtime] live_tensors_ size: 516
+[Runtime] live_tensors_ size: 515
+[Runtime] live_tensors_ size: 516
+[Runtime] live_tensors_ size: 515
+[Runtime] live_tensors_ size: 514
+[Runtime] live_tensors_ size: 513
+[Runtime] live_tensors_ size: 512
+Step Loss:
+19.532896041870117
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 516
+[Runtime] live_tensors_ size: 515
+[Runtime] live_tensors_ size: 514
+[Runtime] live_tensors_ size: 513
+[Runtime] live_tensors_ size: 512
+[Runtime] live_tensors_ size: 511
+[Runtime] live_tensors_ size: 531
+[Runtime] live_tensors_ size: 530
+[Runtime] live_tensors_ size: 529
+[Runtime] live_tensors_ size: 528
+[Runtime] live_tensors_ size: 527
+[Runtime] live_tensors_ size: 526
+[Runtime] live_tensors_ size: 525
+[Runtime] live_tensors_ size: 524
+[Runtime] live_tensors_ size: 523
+[Runtime] live_tensors_ size: 522
+[Runtime] live_tensors_ size: 521
+[Runtime] live_tensors_ size: 522
+[Runtime] live_tensors_ size: 521
+[Runtime] live_tensors_ size: 520
+[Runtime] live_tensors_ size: 519
+[Runtime] live_tensors_ size: 518
+Step Loss:
+19.0334415435791
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 522
+[Runtime] live_tensors_ size: 521
+[Runtime] live_tensors_ size: 520
+[Runtime] live_tensors_ size: 519
+[Runtime] live_tensors_ size: 518
+[Runtime] live_tensors_ size: 517
+[Runtime] live_tensors_ size: 537
+[Runtime] live_tensors_ size: 536
+[Runtime] live_tensors_ size: 535
+[Runtime] live_tensors_ size: 534
+[Runtime] live_tensors_ size: 533
+[Runtime] live_tensors_ size: 532
+[Runtime] live_tensors_ size: 531
+[Runtime] live_tensors_ size: 530
+[Runtime] live_tensors_ size: 529
+[Runtime] live_tensors_ size: 528
+[Runtime] live_tensors_ size: 527
+[Runtime] live_tensors_ size: 528
+[Runtime] live_tensors_ size: 527
+[Runtime] live_tensors_ size: 526
+[Runtime] live_tensors_ size: 525
+[Runtime] live_tensors_ size: 524
+Step Loss:
+19.20590591430664
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 528
+[Runtime] live_tensors_ size: 527
+[Runtime] live_tensors_ size: 526
+[Runtime] live_tensors_ size: 525
+[Runtime] live_tensors_ size: 524
+[Runtime] live_tensors_ size: 523
+[Runtime] live_tensors_ size: 543
+[Runtime] live_tensors_ size: 542
+[Runtime] live_tensors_ size: 541
+[Runtime] live_tensors_ size: 540
+[Runtime] live_tensors_ size: 539
+[Runtime] live_tensors_ size: 538
+[Runtime] live_tensors_ size: 537
+[Runtime] live_tensors_ size: 536
+[Runtime] live_tensors_ size: 535
+[Runtime] live_tensors_ size: 534
+[Runtime] live_tensors_ size: 533
+[Runtime] live_tensors_ size: 534
+[Runtime] live_tensors_ size: 533
+[Runtime] live_tensors_ size: 532
+[Runtime] live_tensors_ size: 531
+[Runtime] live_tensors_ size: 530
+Step Loss:
+19.25905418395996
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 534
+[Runtime] live_tensors_ size: 533
+[Runtime] live_tensors_ size: 532
+[Runtime] live_tensors_ size: 531
+[Runtime] live_tensors_ size: 530
+[Runtime] live_tensors_ size: 529
+[Runtime] live_tensors_ size: 549
+[Runtime] live_tensors_ size: 548
+[Runtime] live_tensors_ size: 547
+[Runtime] live_tensors_ size: 546
+[Runtime] live_tensors_ size: 545
+[Runtime] live_tensors_ size: 544
+[Runtime] live_tensors_ size: 543
+[Runtime] live_tensors_ size: 542
+[Runtime] live_tensors_ size: 541
+[Runtime] live_tensors_ size: 540
+[Runtime] live_tensors_ size: 539
+[Runtime] live_tensors_ size: 540
+[Runtime] live_tensors_ size: 539
+[Runtime] live_tensors_ size: 538
+[Runtime] live_tensors_ size: 537
+[Runtime] live_tensors_ size: 536
+Step Loss:
+19.258174896240234
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 540
+[Runtime] live_tensors_ size: 539
+[Runtime] live_tensors_ size: 538
+[Runtime] live_tensors_ size: 537
+[Runtime] live_tensors_ size: 536
+[Runtime] live_tensors_ size: 535
+[Runtime] live_tensors_ size: 555
+[Runtime] live_tensors_ size: 554
+[Runtime] live_tensors_ size: 553
+[Runtime] live_tensors_ size: 552
+[Runtime] live_tensors_ size: 551
+[Runtime] live_tensors_ size: 550
+[Runtime] live_tensors_ size: 549
+[Runtime] live_tensors_ size: 548
+[Runtime] live_tensors_ size: 547
+[Runtime] live_tensors_ size: 546
+[Runtime] live_tensors_ size: 545
+[Runtime] live_tensors_ size: 546
+[Runtime] live_tensors_ size: 545
+[Runtime] live_tensors_ size: 544
+[Runtime] live_tensors_ size: 543
+[Runtime] live_tensors_ size: 542
+Step Loss:
+18.55231475830078
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 546
+[Runtime] live_tensors_ size: 545
+[Runtime] live_tensors_ size: 544
+[Runtime] live_tensors_ size: 543
+[Runtime] live_tensors_ size: 542
+[Runtime] live_tensors_ size: 541
+[Runtime] live_tensors_ size: 561
+[Runtime] live_tensors_ size: 560
+[Runtime] live_tensors_ size: 559
+[Runtime] live_tensors_ size: 558
+[Runtime] live_tensors_ size: 557
+[Runtime] live_tensors_ size: 556
+[Runtime] live_tensors_ size: 555
+[Runtime] live_tensors_ size: 554
+[Runtime] live_tensors_ size: 553
+[Runtime] live_tensors_ size: 552
+[Runtime] live_tensors_ size: 551
+[Runtime] live_tensors_ size: 552
+[Runtime] live_tensors_ size: 551
+[Runtime] live_tensors_ size: 550
+[Runtime] live_tensors_ size: 549
+[Runtime] live_tensors_ size: 548
+Step Loss:
+19.252267837524414
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 552
+[Runtime] live_tensors_ size: 551
+[Runtime] live_tensors_ size: 550
+[Runtime] live_tensors_ size: 549
+[Runtime] live_tensors_ size: 548
+[Runtime] live_tensors_ size: 547
+[Runtime] live_tensors_ size: 567
+[Runtime] live_tensors_ size: 566
+[Runtime] live_tensors_ size: 565
+[Runtime] live_tensors_ size: 564
+[Runtime] live_tensors_ size: 563
+[Runtime] live_tensors_ size: 562
+[Runtime] live_tensors_ size: 561
+[Runtime] live_tensors_ size: 560
+[Runtime] live_tensors_ size: 559
+[Runtime] live_tensors_ size: 558
+[Runtime] live_tensors_ size: 557
+[Runtime] live_tensors_ size: 558
+[Runtime] live_tensors_ size: 557
+[Runtime] live_tensors_ size: 556
+[Runtime] live_tensors_ size: 555
+[Runtime] live_tensors_ size: 554
+Step Loss:
+18.825143814086914
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 558
+[Runtime] live_tensors_ size: 557
+[Runtime] live_tensors_ size: 556
+[Runtime] live_tensors_ size: 555
+[Runtime] live_tensors_ size: 554
+[Runtime] live_tensors_ size: 553
+[Runtime] live_tensors_ size: 573
+[Runtime] live_tensors_ size: 572
+[Runtime] live_tensors_ size: 571
+[Runtime] live_tensors_ size: 570
+[Runtime] live_tensors_ size: 569
+[Runtime] live_tensors_ size: 568
+[Runtime] live_tensors_ size: 567
+[Runtime] live_tensors_ size: 566
+[Runtime] live_tensors_ size: 565
+[Runtime] live_tensors_ size: 564
+[Runtime] live_tensors_ size: 563
+[Runtime] live_tensors_ size: 564
+[Runtime] live_tensors_ size: 563
+[Runtime] live_tensors_ size: 562
+[Runtime] live_tensors_ size: 561
+[Runtime] live_tensors_ size: 560
+Step Loss:
+18.195220947265625
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 564
+[Runtime] live_tensors_ size: 563
+[Runtime] live_tensors_ size: 562
+[Runtime] live_tensors_ size: 561
+[Runtime] live_tensors_ size: 560
+[Runtime] live_tensors_ size: 559
+[Runtime] live_tensors_ size: 579
+[Runtime] live_tensors_ size: 578
+[Runtime] live_tensors_ size: 577
+[Runtime] live_tensors_ size: 576
+[Runtime] live_tensors_ size: 575
+[Runtime] live_tensors_ size: 574
+[Runtime] live_tensors_ size: 573
+[Runtime] live_tensors_ size: 572
+[Runtime] live_tensors_ size: 571
+[Runtime] live_tensors_ size: 570
+[Runtime] live_tensors_ size: 569
+[Runtime] live_tensors_ size: 570
+[Runtime] live_tensors_ size: 569
+[Runtime] live_tensors_ size: 568
+[Runtime] live_tensors_ size: 567
+[Runtime] live_tensors_ size: 566
+Step Loss:
+18.977577209472656
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 570
+[Runtime] live_tensors_ size: 569
+[Runtime] live_tensors_ size: 568
+[Runtime] live_tensors_ size: 567
+[Runtime] live_tensors_ size: 566
+[Runtime] live_tensors_ size: 565
+[Runtime] live_tensors_ size: 585
+[Runtime] live_tensors_ size: 584
+[Runtime] live_tensors_ size: 583
+[Runtime] live_tensors_ size: 582
+[Runtime] live_tensors_ size: 581
+[Runtime] live_tensors_ size: 580
+[Runtime] live_tensors_ size: 579
+[Runtime] live_tensors_ size: 578
+[Runtime] live_tensors_ size: 577
+[Runtime] live_tensors_ size: 576
+[Runtime] live_tensors_ size: 575
+[Runtime] live_tensors_ size: 576
+[Runtime] live_tensors_ size: 575
+[Runtime] live_tensors_ size: 574
+[Runtime] live_tensors_ size: 573
+[Runtime] live_tensors_ size: 572
+Step Loss:
+18.12725830078125
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 576
+[Runtime] live_tensors_ size: 575
+[Runtime] live_tensors_ size: 574
+[Runtime] live_tensors_ size: 573
+[Runtime] live_tensors_ size: 572
+[Runtime] live_tensors_ size: 571
+[Runtime] live_tensors_ size: 591
+[Runtime] live_tensors_ size: 590
+[Runtime] live_tensors_ size: 589
+[Runtime] live_tensors_ size: 588
+[Runtime] live_tensors_ size: 587
+[Runtime] live_tensors_ size: 586
+[Runtime] live_tensors_ size: 585
+[Runtime] live_tensors_ size: 584
+[Runtime] live_tensors_ size: 583
+[Runtime] live_tensors_ size: 582
+[Runtime] live_tensors_ size: 581
+[Runtime] live_tensors_ size: 582
+[Runtime] live_tensors_ size: 581
+[Runtime] live_tensors_ size: 580
+[Runtime] live_tensors_ size: 579
+[Runtime] live_tensors_ size: 578
+Step Loss:
+18.550609588623047
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 582
+[Runtime] live_tensors_ size: 581
+[Runtime] live_tensors_ size: 580
+[Runtime] live_tensors_ size: 579
+[Runtime] live_tensors_ size: 578
+[Runtime] live_tensors_ size: 577
+[Runtime] live_tensors_ size: 597
+[Runtime] live_tensors_ size: 596
+[Runtime] live_tensors_ size: 595
+[Runtime] live_tensors_ size: 594
+[Runtime] live_tensors_ size: 593
+[Runtime] live_tensors_ size: 592
+[Runtime] live_tensors_ size: 591
+[Runtime] live_tensors_ size: 590
+[Runtime] live_tensors_ size: 589
+[Runtime] live_tensors_ size: 588
+[Runtime] live_tensors_ size: 587
+[Runtime] live_tensors_ size: 588
+[Runtime] live_tensors_ size: 587
+[Runtime] live_tensors_ size: 586
+[Runtime] live_tensors_ size: 585
+[Runtime] live_tensors_ size: 584
+Step Loss:
+18.287954330444336
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 588
+[Runtime] live_tensors_ size: 587
+[Runtime] live_tensors_ size: 586
+[Runtime] live_tensors_ size: 585
+[Runtime] live_tensors_ size: 584
+[Runtime] live_tensors_ size: 583
+[Runtime] live_tensors_ size: 603
+[Runtime] live_tensors_ size: 602
+[Runtime] live_tensors_ size: 601
+[Runtime] live_tensors_ size: 600
+[Runtime] live_tensors_ size: 599
+[Runtime] live_tensors_ size: 598
+[Runtime] live_tensors_ size: 597
+[Runtime] live_tensors_ size: 596
+[Runtime] live_tensors_ size: 595
+[Runtime] live_tensors_ size: 594
+[Runtime] live_tensors_ size: 593
+[Runtime] live_tensors_ size: 594
+[Runtime] live_tensors_ size: 593
+[Runtime] live_tensors_ size: 592
+[Runtime] live_tensors_ size: 591
+[Runtime] live_tensors_ size: 590
+Step Loss:
+19.457744598388672
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 594
+[Runtime] live_tensors_ size: 593
+[Runtime] live_tensors_ size: 592
+[Runtime] live_tensors_ size: 591
+[Runtime] live_tensors_ size: 590
+[Runtime] live_tensors_ size: 589
+[Runtime] live_tensors_ size: 609
+[Runtime] live_tensors_ size: 608
+[Runtime] live_tensors_ size: 607
+[Runtime] live_tensors_ size: 606
+[Runtime] live_tensors_ size: 605
+[Runtime] live_tensors_ size: 604
+[Runtime] live_tensors_ size: 603
+[Runtime] live_tensors_ size: 602
+[Runtime] live_tensors_ size: 601
+[Runtime] live_tensors_ size: 600
+[Runtime] live_tensors_ size: 599
+[Runtime] live_tensors_ size: 600
+[Runtime] live_tensors_ size: 599
+[Runtime] live_tensors_ size: 598
+[Runtime] live_tensors_ size: 597
+[Runtime] live_tensors_ size: 596
+Step Loss:
+17.857702255249023
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 600
+[Runtime] live_tensors_ size: 599
+[Runtime] live_tensors_ size: 598
+[Runtime] live_tensors_ size: 597
+[Runtime] live_tensors_ size: 596
+[Runtime] live_tensors_ size: 595
+[Runtime] live_tensors_ size: 615
+[Runtime] live_tensors_ size: 614
+[Runtime] live_tensors_ size: 613
+[Runtime] live_tensors_ size: 612
+[Runtime] live_tensors_ size: 611
+[Runtime] live_tensors_ size: 610
+[Runtime] live_tensors_ size: 609
+[Runtime] live_tensors_ size: 608
+[Runtime] live_tensors_ size: 607
+[Runtime] live_tensors_ size: 606
+[Runtime] live_tensors_ size: 605
+[Runtime] live_tensors_ size: 606
+[Runtime] live_tensors_ size: 605
+[Runtime] live_tensors_ size: 604
+[Runtime] live_tensors_ size: 603
+[Runtime] live_tensors_ size: 602
+Step Loss:
+19.17353057861328
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 606
+[Runtime] live_tensors_ size: 605
+[Runtime] live_tensors_ size: 604
+[Runtime] live_tensors_ size: 603
+[Runtime] live_tensors_ size: 602
+[Runtime] live_tensors_ size: 601
+[Runtime] live_tensors_ size: 621
+[Runtime] live_tensors_ size: 620
+[Runtime] live_tensors_ size: 619
+[Runtime] live_tensors_ size: 618
+[Runtime] live_tensors_ size: 617
+[Runtime] live_tensors_ size: 616
+[Runtime] live_tensors_ size: 615
+[Runtime] live_tensors_ size: 614
+[Runtime] live_tensors_ size: 613
+[Runtime] live_tensors_ size: 612
+[Runtime] live_tensors_ size: 611
+[Runtime] live_tensors_ size: 612
+[Runtime] live_tensors_ size: 611
+[Runtime] live_tensors_ size: 610
+[Runtime] live_tensors_ size: 609
+[Runtime] live_tensors_ size: 608
+Step Loss:
+18.12537384033203
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 612
+[Runtime] live_tensors_ size: 611
+[Runtime] live_tensors_ size: 610
+[Runtime] live_tensors_ size: 609
+[Runtime] live_tensors_ size: 608
+[Runtime] live_tensors_ size: 607
+[Runtime] live_tensors_ size: 627
+[Runtime] live_tensors_ size: 626
+[Runtime] live_tensors_ size: 625
+[Runtime] live_tensors_ size: 624
+[Runtime] live_tensors_ size: 623
+[Runtime] live_tensors_ size: 622
+[Runtime] live_tensors_ size: 621
+[Runtime] live_tensors_ size: 620
+[Runtime] live_tensors_ size: 619
+[Runtime] live_tensors_ size: 618
+[Runtime] live_tensors_ size: 617
+[Runtime] live_tensors_ size: 618
+[Runtime] live_tensors_ size: 617
+[Runtime] live_tensors_ size: 616
+[Runtime] live_tensors_ size: 615
+[Runtime] live_tensors_ size: 614
+Step Loss:
+18.056102752685547
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 618
+[Runtime] live_tensors_ size: 617
+[Runtime] live_tensors_ size: 616
+[Runtime] live_tensors_ size: 615
+[Runtime] live_tensors_ size: 614
+[Runtime] live_tensors_ size: 613
+[Runtime] live_tensors_ size: 633
+[Runtime] live_tensors_ size: 632
+[Runtime] live_tensors_ size: 631
+[Runtime] live_tensors_ size: 630
+[Runtime] live_tensors_ size: 629
+[Runtime] live_tensors_ size: 628
+[Runtime] live_tensors_ size: 627
+[Runtime] live_tensors_ size: 626
+[Runtime] live_tensors_ size: 625
+[Runtime] live_tensors_ size: 624
+[Runtime] live_tensors_ size: 623
+[Runtime] live_tensors_ size: 624
+[Runtime] live_tensors_ size: 623
+[Runtime] live_tensors_ size: 622
+[Runtime] live_tensors_ size: 621
+[Runtime] live_tensors_ size: 620
+Step Loss:
+17.80472755432129
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 624
+[Runtime] live_tensors_ size: 623
+[Runtime] live_tensors_ size: 622
+[Runtime] live_tensors_ size: 621
+[Runtime] live_tensors_ size: 620
+[Runtime] live_tensors_ size: 619
+[Runtime] live_tensors_ size: 639
+[Runtime] live_tensors_ size: 638
+[Runtime] live_tensors_ size: 637
+[Runtime] live_tensors_ size: 636
+[Runtime] live_tensors_ size: 635
+[Runtime] live_tensors_ size: 634
+[Runtime] live_tensors_ size: 633
+[Runtime] live_tensors_ size: 632
+[Runtime] live_tensors_ size: 631
+[Runtime] live_tensors_ size: 630
+[Runtime] live_tensors_ size: 629
+[Runtime] live_tensors_ size: 630
+[Runtime] live_tensors_ size: 629
+[Runtime] live_tensors_ size: 628
+[Runtime] live_tensors_ size: 627
+[Runtime] live_tensors_ size: 626
+Step Loss:
+17.82538414001465
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 630
+[Runtime] live_tensors_ size: 629
+[Runtime] live_tensors_ size: 628
+[Runtime] live_tensors_ size: 627
+[Runtime] live_tensors_ size: 626
+[Runtime] live_tensors_ size: 625
+[Runtime] live_tensors_ size: 645
+[Runtime] live_tensors_ size: 644
+[Runtime] live_tensors_ size: 643
+[Runtime] live_tensors_ size: 642
+[Runtime] live_tensors_ size: 641
+[Runtime] live_tensors_ size: 640
+[Runtime] live_tensors_ size: 639
+[Runtime] live_tensors_ size: 638
+[Runtime] live_tensors_ size: 637
+[Runtime] live_tensors_ size: 636
+[Runtime] live_tensors_ size: 635
+[Runtime] live_tensors_ size: 636
+[Runtime] live_tensors_ size: 635
+[Runtime] live_tensors_ size: 634
+[Runtime] live_tensors_ size: 633
+[Runtime] live_tensors_ size: 632
+Step Loss:
+17.72697639465332
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 636
+[Runtime] live_tensors_ size: 635
+[Runtime] live_tensors_ size: 634
+[Runtime] live_tensors_ size: 633
+[Runtime] live_tensors_ size: 632
+[Runtime] live_tensors_ size: 631
+[Runtime] live_tensors_ size: 651
+[Runtime] live_tensors_ size: 650
+[Runtime] live_tensors_ size: 649
+[Runtime] live_tensors_ size: 648
+[Runtime] live_tensors_ size: 647
+[Runtime] live_tensors_ size: 646
+[Runtime] live_tensors_ size: 645
+[Runtime] live_tensors_ size: 644
+[Runtime] live_tensors_ size: 643
+[Runtime] live_tensors_ size: 642
+[Runtime] live_tensors_ size: 641
+[Runtime] live_tensors_ size: 642
+[Runtime] live_tensors_ size: 641
+[Runtime] live_tensors_ size: 640
+[Runtime] live_tensors_ size: 639
+[Runtime] live_tensors_ size: 638
+Step Loss:
+17.338298797607422
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 642
+[Runtime] live_tensors_ size: 641
+[Runtime] live_tensors_ size: 640
+[Runtime] live_tensors_ size: 639
+[Runtime] live_tensors_ size: 638
+[Runtime] live_tensors_ size: 637
+[Runtime] live_tensors_ size: 657
+[Runtime] live_tensors_ size: 656
+[Runtime] live_tensors_ size: 655
+[Runtime] live_tensors_ size: 654
+[Runtime] live_tensors_ size: 653
+[Runtime] live_tensors_ size: 652
+[Runtime] live_tensors_ size: 651
+[Runtime] live_tensors_ size: 650
+[Runtime] live_tensors_ size: 649
+[Runtime] live_tensors_ size: 648
+[Runtime] live_tensors_ size: 647
+[Runtime] live_tensors_ size: 648
+[Runtime] live_tensors_ size: 647
+[Runtime] live_tensors_ size: 646
+[Runtime] live_tensors_ size: 645
+[Runtime] live_tensors_ size: 644
+Step Loss:
+18.124162673950195
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 648
+[Runtime] live_tensors_ size: 647
+[Runtime] live_tensors_ size: 646
+[Runtime] live_tensors_ size: 645
+[Runtime] live_tensors_ size: 644
+[Runtime] live_tensors_ size: 643
+[Runtime] live_tensors_ size: 663
+[Runtime] live_tensors_ size: 662
+[Runtime] live_tensors_ size: 661
+[Runtime] live_tensors_ size: 660
+[Runtime] live_tensors_ size: 659
+[Runtime] live_tensors_ size: 658
+[Runtime] live_tensors_ size: 657
+[Runtime] live_tensors_ size: 656
+[Runtime] live_tensors_ size: 655
+[Runtime] live_tensors_ size: 654
+[Runtime] live_tensors_ size: 653
+[Runtime] live_tensors_ size: 654
+[Runtime] live_tensors_ size: 653
+[Runtime] live_tensors_ size: 652
+[Runtime] live_tensors_ size: 651
+[Runtime] live_tensors_ size: 650
+Step Loss:
+17.090534210205078
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 654
+[Runtime] live_tensors_ size: 653
+[Runtime] live_tensors_ size: 652
+[Runtime] live_tensors_ size: 651
+[Runtime] live_tensors_ size: 650
+[Runtime] live_tensors_ size: 649
+[Runtime] live_tensors_ size: 669
+[Runtime] live_tensors_ size: 668
+[Runtime] live_tensors_ size: 667
+[Runtime] live_tensors_ size: 666
+[Runtime] live_tensors_ size: 665
+[Runtime] live_tensors_ size: 664
+[Runtime] live_tensors_ size: 663
+[Runtime] live_tensors_ size: 662
+[Runtime] live_tensors_ size: 661
+[Runtime] live_tensors_ size: 660
+[Runtime] live_tensors_ size: 659
+[Runtime] live_tensors_ size: 660
+[Runtime] live_tensors_ size: 659
+[Runtime] live_tensors_ size: 658
+[Runtime] live_tensors_ size: 657
+[Runtime] live_tensors_ size: 656
+Step Loss:
+17.108097076416016
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 660
+[Runtime] live_tensors_ size: 659
+[Runtime] live_tensors_ size: 658
+[Runtime] live_tensors_ size: 657
+[Runtime] live_tensors_ size: 656
+[Runtime] live_tensors_ size: 655
+[Runtime] live_tensors_ size: 675
+[Runtime] live_tensors_ size: 674
+[Runtime] live_tensors_ size: 673
+[Runtime] live_tensors_ size: 672
+[Runtime] live_tensors_ size: 671
+[Runtime] live_tensors_ size: 670
+[Runtime] live_tensors_ size: 669
+[Runtime] live_tensors_ size: 668
+[Runtime] live_tensors_ size: 667
+[Runtime] live_tensors_ size: 666
+[Runtime] live_tensors_ size: 665
+[Runtime] live_tensors_ size: 666
+[Runtime] live_tensors_ size: 665
+[Runtime] live_tensors_ size: 664
+[Runtime] live_tensors_ size: 663
+[Runtime] live_tensors_ size: 662
+Step Loss:
+16.952041625976562
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 666
+[Runtime] live_tensors_ size: 665
+[Runtime] live_tensors_ size: 664
+[Runtime] live_tensors_ size: 663
+[Runtime] live_tensors_ size: 662
+[Runtime] live_tensors_ size: 661
+[Runtime] live_tensors_ size: 681
+[Runtime] live_tensors_ size: 680
+[Runtime] live_tensors_ size: 679
+[Runtime] live_tensors_ size: 678
+[Runtime] live_tensors_ size: 677
+[Runtime] live_tensors_ size: 676
+[Runtime] live_tensors_ size: 675
+[Runtime] live_tensors_ size: 674
+[Runtime] live_tensors_ size: 673
+[Runtime] live_tensors_ size: 672
+[Runtime] live_tensors_ size: 671
+[Runtime] live_tensors_ size: 672
+[Runtime] live_tensors_ size: 671
+[Runtime] live_tensors_ size: 670
+[Runtime] live_tensors_ size: 669
+[Runtime] live_tensors_ size: 668
+Step Loss:
+17.317583084106445
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 672
+[Runtime] live_tensors_ size: 671
+[Runtime] live_tensors_ size: 670
+[Runtime] live_tensors_ size: 669
+[Runtime] live_tensors_ size: 668
+[Runtime] live_tensors_ size: 667
+[Runtime] live_tensors_ size: 687
+[Runtime] live_tensors_ size: 686
+[Runtime] live_tensors_ size: 685
+[Runtime] live_tensors_ size: 684
+[Runtime] live_tensors_ size: 683
+[Runtime] live_tensors_ size: 682
+[Runtime] live_tensors_ size: 681
+[Runtime] live_tensors_ size: 680
+[Runtime] live_tensors_ size: 679
+[Runtime] live_tensors_ size: 678
+[Runtime] live_tensors_ size: 677
+[Runtime] live_tensors_ size: 678
+[Runtime] live_tensors_ size: 677
+[Runtime] live_tensors_ size: 676
+[Runtime] live_tensors_ size: 675
+[Runtime] live_tensors_ size: 674
+Step Loss:
+16.759538650512695
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 678
+[Runtime] live_tensors_ size: 677
+[Runtime] live_tensors_ size: 676
+[Runtime] live_tensors_ size: 675
+[Runtime] live_tensors_ size: 674
+[Runtime] live_tensors_ size: 673
+[Runtime] live_tensors_ size: 693
+[Runtime] live_tensors_ size: 692
+[Runtime] live_tensors_ size: 691
+[Runtime] live_tensors_ size: 690
+[Runtime] live_tensors_ size: 689
+[Runtime] live_tensors_ size: 688
+[Runtime] live_tensors_ size: 687
+[Runtime] live_tensors_ size: 686
+[Runtime] live_tensors_ size: 685
+[Runtime] live_tensors_ size: 684
+[Runtime] live_tensors_ size: 683
+[Runtime] live_tensors_ size: 684
+[Runtime] live_tensors_ size: 683
+[Runtime] live_tensors_ size: 682
+[Runtime] live_tensors_ size: 681
+[Runtime] live_tensors_ size: 680
+Step Loss:
+17.216054916381836
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 684
+[Runtime] live_tensors_ size: 683
+[Runtime] live_tensors_ size: 682
+[Runtime] live_tensors_ size: 681
+[Runtime] live_tensors_ size: 680
+[Runtime] live_tensors_ size: 679
+[Runtime] live_tensors_ size: 699
+[Runtime] live_tensors_ size: 698
+[Runtime] live_tensors_ size: 697
+[Runtime] live_tensors_ size: 696
+[Runtime] live_tensors_ size: 695
+[Runtime] live_tensors_ size: 694
+[Runtime] live_tensors_ size: 693
+[Runtime] live_tensors_ size: 692
+[Runtime] live_tensors_ size: 691
+[Runtime] live_tensors_ size: 690
+[Runtime] live_tensors_ size: 689
+[Runtime] live_tensors_ size: 690
+[Runtime] live_tensors_ size: 689
+[Runtime] live_tensors_ size: 688
+[Runtime] live_tensors_ size: 687
+[Runtime] live_tensors_ size: 686
+Step Loss:
+17.188146591186523
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 690
+[Runtime] live_tensors_ size: 689
+[Runtime] live_tensors_ size: 688
+[Runtime] live_tensors_ size: 687
+[Runtime] live_tensors_ size: 686
+[Runtime] live_tensors_ size: 685
+[Runtime] live_tensors_ size: 705
+[Runtime] live_tensors_ size: 704
+[Runtime] live_tensors_ size: 703
+[Runtime] live_tensors_ size: 702
+[Runtime] live_tensors_ size: 701
+[Runtime] live_tensors_ size: 700
+[Runtime] live_tensors_ size: 699
+[Runtime] live_tensors_ size: 698
+[Runtime] live_tensors_ size: 697
+[Runtime] live_tensors_ size: 696
+[Runtime] live_tensors_ size: 695
+[Runtime] live_tensors_ size: 696
+[Runtime] live_tensors_ size: 695
+[Runtime] live_tensors_ size: 694
+[Runtime] live_tensors_ size: 693
+[Runtime] live_tensors_ size: 692
+Step Loss:
+16.538785934448242
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 696
+[Runtime] live_tensors_ size: 695
+[Runtime] live_tensors_ size: 694
+[Runtime] live_tensors_ size: 693
+[Runtime] live_tensors_ size: 692
+[Runtime] live_tensors_ size: 691
+[Runtime] live_tensors_ size: 711
+[Runtime] live_tensors_ size: 710
+[Runtime] live_tensors_ size: 709
+[Runtime] live_tensors_ size: 708
+[Runtime] live_tensors_ size: 707
+[Runtime] live_tensors_ size: 706
+[Runtime] live_tensors_ size: 705
+[Runtime] live_tensors_ size: 704
+[Runtime] live_tensors_ size: 703
+[Runtime] live_tensors_ size: 702
+[Runtime] live_tensors_ size: 701
+[Runtime] live_tensors_ size: 702
+[Runtime] live_tensors_ size: 701
+[Runtime] live_tensors_ size: 700
+[Runtime] live_tensors_ size: 699
+[Runtime] live_tensors_ size: 698
+Step Loss:
+17.401735305786133
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 702
+[Runtime] live_tensors_ size: 701
+[Runtime] live_tensors_ size: 700
+[Runtime] live_tensors_ size: 699
+[Runtime] live_tensors_ size: 698
+[Runtime] live_tensors_ size: 697
+[Runtime] live_tensors_ size: 717
+[Runtime] live_tensors_ size: 716
+[Runtime] live_tensors_ size: 715
+[Runtime] live_tensors_ size: 714
+[Runtime] live_tensors_ size: 713
+[Runtime] live_tensors_ size: 712
+[Runtime] live_tensors_ size: 711
+[Runtime] live_tensors_ size: 710
+[Runtime] live_tensors_ size: 709
+[Runtime] live_tensors_ size: 708
+[Runtime] live_tensors_ size: 707
+[Runtime] live_tensors_ size: 708
+[Runtime] live_tensors_ size: 707
+[Runtime] live_tensors_ size: 706
+[Runtime] live_tensors_ size: 705
+[Runtime] live_tensors_ size: 704
+Step Loss:
+16.906600952148438
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 708
+[Runtime] live_tensors_ size: 707
+[Runtime] live_tensors_ size: 706
+[Runtime] live_tensors_ size: 705
+[Runtime] live_tensors_ size: 704
+[Runtime] live_tensors_ size: 703
+[Runtime] live_tensors_ size: 723
+[Runtime] live_tensors_ size: 722
+[Runtime] live_tensors_ size: 721
+[Runtime] live_tensors_ size: 720
+[Runtime] live_tensors_ size: 719
+[Runtime] live_tensors_ size: 718
+[Runtime] live_tensors_ size: 717
+[Runtime] live_tensors_ size: 716
+[Runtime] live_tensors_ size: 715
+[Runtime] live_tensors_ size: 714
+[Runtime] live_tensors_ size: 713
+[Runtime] live_tensors_ size: 714
+[Runtime] live_tensors_ size: 713
+[Runtime] live_tensors_ size: 712
+[Runtime] live_tensors_ size: 711
+[Runtime] live_tensors_ size: 710
+Step Loss:
+16.078954696655273
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 714
+[Runtime] live_tensors_ size: 713
+[Runtime] live_tensors_ size: 712
+[Runtime] live_tensors_ size: 711
+[Runtime] live_tensors_ size: 710
+[Runtime] live_tensors_ size: 709
+[Runtime] live_tensors_ size: 729
+[Runtime] live_tensors_ size: 728
+[Runtime] live_tensors_ size: 727
+[Runtime] live_tensors_ size: 726
+[Runtime] live_tensors_ size: 725
+[Runtime] live_tensors_ size: 724
+[Runtime] live_tensors_ size: 723
+[Runtime] live_tensors_ size: 722
+[Runtime] live_tensors_ size: 721
+[Runtime] live_tensors_ size: 720
+[Runtime] live_tensors_ size: 719
+[Runtime] live_tensors_ size: 720
+[Runtime] live_tensors_ size: 719
+[Runtime] live_tensors_ size: 718
+[Runtime] live_tensors_ size: 717
+[Runtime] live_tensors_ size: 716
+Step Loss:
+16.87257194519043
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 720
+[Runtime] live_tensors_ size: 719
+[Runtime] live_tensors_ size: 718
+[Runtime] live_tensors_ size: 717
+[Runtime] live_tensors_ size: 716
+[Runtime] live_tensors_ size: 715
+[Runtime] live_tensors_ size: 735
+[Runtime] live_tensors_ size: 734
+[Runtime] live_tensors_ size: 733
+[Runtime] live_tensors_ size: 732
+[Runtime] live_tensors_ size: 731
+[Runtime] live_tensors_ size: 730
+[Runtime] live_tensors_ size: 729
+[Runtime] live_tensors_ size: 728
+[Runtime] live_tensors_ size: 727
+[Runtime] live_tensors_ size: 726
+[Runtime] live_tensors_ size: 725
+[Runtime] live_tensors_ size: 726
+[Runtime] live_tensors_ size: 725
+[Runtime] live_tensors_ size: 724
+[Runtime] live_tensors_ size: 723
+[Runtime] live_tensors_ size: 722
+Step Loss:
+16.33633804321289
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 726
+[Runtime] live_tensors_ size: 725
+[Runtime] live_tensors_ size: 724
+[Runtime] live_tensors_ size: 723
+[Runtime] live_tensors_ size: 722
+[Runtime] live_tensors_ size: 721
+[Runtime] live_tensors_ size: 741
+[Runtime] live_tensors_ size: 740
+[Runtime] live_tensors_ size: 739
+[Runtime] live_tensors_ size: 738
+[Runtime] live_tensors_ size: 737
+[Runtime] live_tensors_ size: 736
+[Runtime] live_tensors_ size: 735
+[Runtime] live_tensors_ size: 734
+[Runtime] live_tensors_ size: 733
+[Runtime] live_tensors_ size: 732
+[Runtime] live_tensors_ size: 731
+[Runtime] live_tensors_ size: 732
+[Runtime] live_tensors_ size: 731
+[Runtime] live_tensors_ size: 730
+[Runtime] live_tensors_ size: 729
+[Runtime] live_tensors_ size: 728
+Step Loss:
+16.87225341796875
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 732
+[Runtime] live_tensors_ size: 731
+[Runtime] live_tensors_ size: 730
+[Runtime] live_tensors_ size: 729
+[Runtime] live_tensors_ size: 728
+[Runtime] live_tensors_ size: 727
+[Runtime] live_tensors_ size: 747
+[Runtime] live_tensors_ size: 746
+[Runtime] live_tensors_ size: 745
+[Runtime] live_tensors_ size: 744
+[Runtime] live_tensors_ size: 743
+[Runtime] live_tensors_ size: 742
+[Runtime] live_tensors_ size: 741
+[Runtime] live_tensors_ size: 740
+[Runtime] live_tensors_ size: 739
+[Runtime] live_tensors_ size: 738
+[Runtime] live_tensors_ size: 737
+[Runtime] live_tensors_ size: 738
+[Runtime] live_tensors_ size: 737
+[Runtime] live_tensors_ size: 736
+[Runtime] live_tensors_ size: 735
+[Runtime] live_tensors_ size: 734
+Step Loss:
+16.136699676513672
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 738
+[Runtime] live_tensors_ size: 737
+[Runtime] live_tensors_ size: 736
+[Runtime] live_tensors_ size: 735
+[Runtime] live_tensors_ size: 734
+[Runtime] live_tensors_ size: 733
+[Runtime] live_tensors_ size: 753
+[Runtime] live_tensors_ size: 752
+[Runtime] live_tensors_ size: 751
+[Runtime] live_tensors_ size: 750
+[Runtime] live_tensors_ size: 749
+[Runtime] live_tensors_ size: 748
+[Runtime] live_tensors_ size: 747
+[Runtime] live_tensors_ size: 746
+[Runtime] live_tensors_ size: 745
+[Runtime] live_tensors_ size: 744
+[Runtime] live_tensors_ size: 743
+[Runtime] live_tensors_ size: 744
+[Runtime] live_tensors_ size: 743
+[Runtime] live_tensors_ size: 742
+[Runtime] live_tensors_ size: 741
+[Runtime] live_tensors_ size: 740
+Step Loss:
+16.84708595275879
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 744
+[Runtime] live_tensors_ size: 743
+[Runtime] live_tensors_ size: 742
+[Runtime] live_tensors_ size: 741
+[Runtime] live_tensors_ size: 740
+[Runtime] live_tensors_ size: 739
+[Runtime] live_tensors_ size: 759
+[Runtime] live_tensors_ size: 758
+[Runtime] live_tensors_ size: 757
+[Runtime] live_tensors_ size: 756
+[Runtime] live_tensors_ size: 755
+[Runtime] live_tensors_ size: 754
+[Runtime] live_tensors_ size: 753
+[Runtime] live_tensors_ size: 752
+[Runtime] live_tensors_ size: 751
+[Runtime] live_tensors_ size: 750
+[Runtime] live_tensors_ size: 749
+[Runtime] live_tensors_ size: 750
+[Runtime] live_tensors_ size: 749
+[Runtime] live_tensors_ size: 748
+[Runtime] live_tensors_ size: 747
+[Runtime] live_tensors_ size: 746
+Step Loss:
+16.255718231201172
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 750
+[Runtime] live_tensors_ size: 749
+[Runtime] live_tensors_ size: 748
+[Runtime] live_tensors_ size: 747
+[Runtime] live_tensors_ size: 746
+[Runtime] live_tensors_ size: 745
+[Runtime] live_tensors_ size: 765
+[Runtime] live_tensors_ size: 764
+[Runtime] live_tensors_ size: 763
+[Runtime] live_tensors_ size: 762
+[Runtime] live_tensors_ size: 761
+[Runtime] live_tensors_ size: 760
+[Runtime] live_tensors_ size: 759
+[Runtime] live_tensors_ size: 758
+[Runtime] live_tensors_ size: 757
+[Runtime] live_tensors_ size: 756
+[Runtime] live_tensors_ size: 755
+[Runtime] live_tensors_ size: 756
+[Runtime] live_tensors_ size: 755
+[Runtime] live_tensors_ size: 754
+[Runtime] live_tensors_ size: 753
+[Runtime] live_tensors_ size: 752
+Step Loss:
+15.90213680267334
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 756
+[Runtime] live_tensors_ size: 755
+[Runtime] live_tensors_ size: 754
+[Runtime] live_tensors_ size: 753
+[Runtime] live_tensors_ size: 752
+[Runtime] live_tensors_ size: 751
+[Runtime] live_tensors_ size: 771
+[Runtime] live_tensors_ size: 770
+[Runtime] live_tensors_ size: 769
+[Runtime] live_tensors_ size: 768
+[Runtime] live_tensors_ size: 767
+[Runtime] live_tensors_ size: 766
+[Runtime] live_tensors_ size: 765
+[Runtime] live_tensors_ size: 764
+[Runtime] live_tensors_ size: 763
+[Runtime] live_tensors_ size: 762
+[Runtime] live_tensors_ size: 761
+[Runtime] live_tensors_ size: 762
+[Runtime] live_tensors_ size: 761
+[Runtime] live_tensors_ size: 760
+[Runtime] live_tensors_ size: 759
+[Runtime] live_tensors_ size: 758
+Step Loss:
+16.033695220947266
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 762
+[Runtime] live_tensors_ size: 761
+[Runtime] live_tensors_ size: 760
+[Runtime] live_tensors_ size: 759
+[Runtime] live_tensors_ size: 758
+[Runtime] live_tensors_ size: 757
+[Runtime] live_tensors_ size: 777
+[Runtime] live_tensors_ size: 776
+[Runtime] live_tensors_ size: 775
+[Runtime] live_tensors_ size: 774
+[Runtime] live_tensors_ size: 773
+[Runtime] live_tensors_ size: 772
+[Runtime] live_tensors_ size: 771
+[Runtime] live_tensors_ size: 770
+[Runtime] live_tensors_ size: 769
+[Runtime] live_tensors_ size: 768
+[Runtime] live_tensors_ size: 767
+[Runtime] live_tensors_ size: 768
+[Runtime] live_tensors_ size: 767
+[Runtime] live_tensors_ size: 766
+[Runtime] live_tensors_ size: 765
+[Runtime] live_tensors_ size: 764
+Step Loss:
+15.782262802124023
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 768
+[Runtime] live_tensors_ size: 767
+[Runtime] live_tensors_ size: 766
+[Runtime] live_tensors_ size: 765
+[Runtime] live_tensors_ size: 764
+[Runtime] live_tensors_ size: 763
+[Runtime] live_tensors_ size: 783
+[Runtime] live_tensors_ size: 782
+[Runtime] live_tensors_ size: 781
+[Runtime] live_tensors_ size: 780
+[Runtime] live_tensors_ size: 779
+[Runtime] live_tensors_ size: 778
+[Runtime] live_tensors_ size: 777
+[Runtime] live_tensors_ size: 776
+[Runtime] live_tensors_ size: 775
+[Runtime] live_tensors_ size: 774
+[Runtime] live_tensors_ size: 773
+[Runtime] live_tensors_ size: 774
+[Runtime] live_tensors_ size: 773
+[Runtime] live_tensors_ size: 772
+[Runtime] live_tensors_ size: 771
+[Runtime] live_tensors_ size: 770
+Step Loss:
+16.594867706298828
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 774
+[Runtime] live_tensors_ size: 773
+[Runtime] live_tensors_ size: 772
+[Runtime] live_tensors_ size: 771
+[Runtime] live_tensors_ size: 770
+[Runtime] live_tensors_ size: 769
+[Runtime] live_tensors_ size: 789
+[Runtime] live_tensors_ size: 788
+[Runtime] live_tensors_ size: 787
+[Runtime] live_tensors_ size: 786
+[Runtime] live_tensors_ size: 785
+[Runtime] live_tensors_ size: 784
+[Runtime] live_tensors_ size: 783
+[Runtime] live_tensors_ size: 782
+[Runtime] live_tensors_ size: 781
+[Runtime] live_tensors_ size: 780
+[Runtime] live_tensors_ size: 779
+[Runtime] live_tensors_ size: 780
+[Runtime] live_tensors_ size: 779
+[Runtime] live_tensors_ size: 778
+[Runtime] live_tensors_ size: 777
+[Runtime] live_tensors_ size: 776
+Step Loss:
+16.697277069091797
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 780
+[Runtime] live_tensors_ size: 779
+[Runtime] live_tensors_ size: 778
+[Runtime] live_tensors_ size: 777
+[Runtime] live_tensors_ size: 776
+[Runtime] live_tensors_ size: 775
+[Runtime] live_tensors_ size: 795
+[Runtime] live_tensors_ size: 794
+[Runtime] live_tensors_ size: 793
+[Runtime] live_tensors_ size: 792
+[Runtime] live_tensors_ size: 791
+[Runtime] live_tensors_ size: 790
+[Runtime] live_tensors_ size: 789
+[Runtime] live_tensors_ size: 788
+[Runtime] live_tensors_ size: 787
+[Runtime] live_tensors_ size: 786
+[Runtime] live_tensors_ size: 785
+[Runtime] live_tensors_ size: 786
+[Runtime] live_tensors_ size: 785
+[Runtime] live_tensors_ size: 784
+[Runtime] live_tensors_ size: 783
+[Runtime] live_tensors_ size: 782
+Step Loss:
+15.813626289367676
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 786
+[Runtime] live_tensors_ size: 785
+[Runtime] live_tensors_ size: 784
+[Runtime] live_tensors_ size: 783
+[Runtime] live_tensors_ size: 782
+[Runtime] live_tensors_ size: 781
+[Runtime] live_tensors_ size: 801
+[Runtime] live_tensors_ size: 800
+[Runtime] live_tensors_ size: 799
+[Runtime] live_tensors_ size: 798
+[Runtime] live_tensors_ size: 797
+[Runtime] live_tensors_ size: 796
+[Runtime] live_tensors_ size: 795
+[Runtime] live_tensors_ size: 794
+[Runtime] live_tensors_ size: 793
+[Runtime] live_tensors_ size: 792
+[Runtime] live_tensors_ size: 791
+[Runtime] live_tensors_ size: 792
+[Runtime] live_tensors_ size: 791
+[Runtime] live_tensors_ size: 790
+[Runtime] live_tensors_ size: 789
+[Runtime] live_tensors_ size: 788
+Step Loss:
+16.18944549560547
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 792
+[Runtime] live_tensors_ size: 791
+[Runtime] live_tensors_ size: 790
+[Runtime] live_tensors_ size: 789
+[Runtime] live_tensors_ size: 788
+[Runtime] live_tensors_ size: 787
+[Runtime] live_tensors_ size: 807
+[Runtime] live_tensors_ size: 806
+[Runtime] live_tensors_ size: 805
+[Runtime] live_tensors_ size: 804
+[Runtime] live_tensors_ size: 803
+[Runtime] live_tensors_ size: 802
+[Runtime] live_tensors_ size: 801
+[Runtime] live_tensors_ size: 800
+[Runtime] live_tensors_ size: 799
+[Runtime] live_tensors_ size: 798
+[Runtime] live_tensors_ size: 797
+[Runtime] live_tensors_ size: 798
+[Runtime] live_tensors_ size: 797
+[Runtime] live_tensors_ size: 796
+[Runtime] live_tensors_ size: 795
+[Runtime] live_tensors_ size: 794
+Step Loss:
+16.06183433532715
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 798
+[Runtime] live_tensors_ size: 797
+[Runtime] live_tensors_ size: 796
+[Runtime] live_tensors_ size: 795
+[Runtime] live_tensors_ size: 794
+[Runtime] live_tensors_ size: 793
+[Runtime] live_tensors_ size: 813
+[Runtime] live_tensors_ size: 812
+[Runtime] live_tensors_ size: 811
+[Runtime] live_tensors_ size: 810
+[Runtime] live_tensors_ size: 809
+[Runtime] live_tensors_ size: 808
+[Runtime] live_tensors_ size: 807
+[Runtime] live_tensors_ size: 806
+[Runtime] live_tensors_ size: 805
+[Runtime] live_tensors_ size: 804
+[Runtime] live_tensors_ size: 803
+[Runtime] live_tensors_ size: 804
+[Runtime] live_tensors_ size: 803
+[Runtime] live_tensors_ size: 802
+[Runtime] live_tensors_ size: 801
+[Runtime] live_tensors_ size: 800
+Step Loss:
+16.246187210083008
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 804
+[Runtime] live_tensors_ size: 803
+[Runtime] live_tensors_ size: 802
+[Runtime] live_tensors_ size: 801
+[Runtime] live_tensors_ size: 800
+[Runtime] live_tensors_ size: 799
+[Runtime] live_tensors_ size: 819
+[Runtime] live_tensors_ size: 818
+[Runtime] live_tensors_ size: 817
+[Runtime] live_tensors_ size: 816
+[Runtime] live_tensors_ size: 815
+[Runtime] live_tensors_ size: 814
+[Runtime] live_tensors_ size: 813
+[Runtime] live_tensors_ size: 812
+[Runtime] live_tensors_ size: 811
+[Runtime] live_tensors_ size: 810
+[Runtime] live_tensors_ size: 809
+[Runtime] live_tensors_ size: 810
+[Runtime] live_tensors_ size: 809
+[Runtime] live_tensors_ size: 808
+[Runtime] live_tensors_ size: 807
+[Runtime] live_tensors_ size: 806
+Step Loss:
+15.911352157592773
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 810
+[Runtime] live_tensors_ size: 809
+[Runtime] live_tensors_ size: 808
+[Runtime] live_tensors_ size: 807
+[Runtime] live_tensors_ size: 806
+[Runtime] live_tensors_ size: 805
+[Runtime] live_tensors_ size: 825
+[Runtime] live_tensors_ size: 824
+[Runtime] live_tensors_ size: 823
+[Runtime] live_tensors_ size: 822
+[Runtime] live_tensors_ size: 821
+[Runtime] live_tensors_ size: 820
+[Runtime] live_tensors_ size: 819
+[Runtime] live_tensors_ size: 818
+[Runtime] live_tensors_ size: 817
+[Runtime] live_tensors_ size: 816
+[Runtime] live_tensors_ size: 815
+[Runtime] live_tensors_ size: 816
+[Runtime] live_tensors_ size: 815
+[Runtime] live_tensors_ size: 814
+[Runtime] live_tensors_ size: 813
+[Runtime] live_tensors_ size: 812
+Step Loss:
+15.71390151977539
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 816
+[Runtime] live_tensors_ size: 815
+[Runtime] live_tensors_ size: 814
+[Runtime] live_tensors_ size: 813
+[Runtime] live_tensors_ size: 812
+[Runtime] live_tensors_ size: 811
+[Runtime] live_tensors_ size: 831
+[Runtime] live_tensors_ size: 830
+[Runtime] live_tensors_ size: 829
+[Runtime] live_tensors_ size: 828
+[Runtime] live_tensors_ size: 827
+[Runtime] live_tensors_ size: 826
+[Runtime] live_tensors_ size: 825
+[Runtime] live_tensors_ size: 824
+[Runtime] live_tensors_ size: 823
+[Runtime] live_tensors_ size: 822
+[Runtime] live_tensors_ size: 821
+[Runtime] live_tensors_ size: 822
+[Runtime] live_tensors_ size: 821
+[Runtime] live_tensors_ size: 820
+[Runtime] live_tensors_ size: 819
+[Runtime] live_tensors_ size: 818
+Step Loss:
+15.773695945739746
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 822
+[Runtime] live_tensors_ size: 821
+[Runtime] live_tensors_ size: 820
+[Runtime] live_tensors_ size: 819
+[Runtime] live_tensors_ size: 818
+[Runtime] live_tensors_ size: 817
+[Runtime] live_tensors_ size: 837
+[Runtime] live_tensors_ size: 836
+[Runtime] live_tensors_ size: 835
+[Runtime] live_tensors_ size: 834
+[Runtime] live_tensors_ size: 833
+[Runtime] live_tensors_ size: 832
+[Runtime] live_tensors_ size: 831
+[Runtime] live_tensors_ size: 830
+[Runtime] live_tensors_ size: 829
+[Runtime] live_tensors_ size: 828
+[Runtime] live_tensors_ size: 827
+[Runtime] live_tensors_ size: 828
+[Runtime] live_tensors_ size: 827
+[Runtime] live_tensors_ size: 826
+[Runtime] live_tensors_ size: 825
+[Runtime] live_tensors_ size: 824
+Step Loss:
+15.443476676940918
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 828
+[Runtime] live_tensors_ size: 827
+[Runtime] live_tensors_ size: 826
+[Runtime] live_tensors_ size: 825
+[Runtime] live_tensors_ size: 824
+[Runtime] live_tensors_ size: 823
+[Runtime] live_tensors_ size: 843
+[Runtime] live_tensors_ size: 842
+[Runtime] live_tensors_ size: 841
+[Runtime] live_tensors_ size: 840
+[Runtime] live_tensors_ size: 839
+[Runtime] live_tensors_ size: 838
+[Runtime] live_tensors_ size: 837
+[Runtime] live_tensors_ size: 836
+[Runtime] live_tensors_ size: 835
+[Runtime] live_tensors_ size: 834
+[Runtime] live_tensors_ size: 833
+[Runtime] live_tensors_ size: 834
+[Runtime] live_tensors_ size: 833
+[Runtime] live_tensors_ size: 832
+[Runtime] live_tensors_ size: 831
+[Runtime] live_tensors_ size: 830
+Step Loss:
+15.504756927490234
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 834
+[Runtime] live_tensors_ size: 833
+[Runtime] live_tensors_ size: 832
+[Runtime] live_tensors_ size: 831
+[Runtime] live_tensors_ size: 830
+[Runtime] live_tensors_ size: 829
+[Runtime] live_tensors_ size: 849
+[Runtime] live_tensors_ size: 848
+[Runtime] live_tensors_ size: 847
+[Runtime] live_tensors_ size: 846
+[Runtime] live_tensors_ size: 845
+[Runtime] live_tensors_ size: 844
+[Runtime] live_tensors_ size: 843
+[Runtime] live_tensors_ size: 842
+[Runtime] live_tensors_ size: 841
+[Runtime] live_tensors_ size: 840
+[Runtime] live_tensors_ size: 839
+[Runtime] live_tensors_ size: 840
+[Runtime] live_tensors_ size: 839
+[Runtime] live_tensors_ size: 838
+[Runtime] live_tensors_ size: 837
+[Runtime] live_tensors_ size: 836
+Step Loss:
+15.069737434387207
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 840
+[Runtime] live_tensors_ size: 839
+[Runtime] live_tensors_ size: 838
+[Runtime] live_tensors_ size: 837
+[Runtime] live_tensors_ size: 836
+[Runtime] live_tensors_ size: 835
+[Runtime] live_tensors_ size: 855
+[Runtime] live_tensors_ size: 854
+[Runtime] live_tensors_ size: 853
+[Runtime] live_tensors_ size: 852
+[Runtime] live_tensors_ size: 851
+[Runtime] live_tensors_ size: 850
+[Runtime] live_tensors_ size: 849
+[Runtime] live_tensors_ size: 848
+[Runtime] live_tensors_ size: 847
+[Runtime] live_tensors_ size: 846
+[Runtime] live_tensors_ size: 845
+[Runtime] live_tensors_ size: 846
+[Runtime] live_tensors_ size: 845
+[Runtime] live_tensors_ size: 844
+[Runtime] live_tensors_ size: 843
+[Runtime] live_tensors_ size: 842
+Step Loss:
+14.887181282043457
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 846
+[Runtime] live_tensors_ size: 845
+[Runtime] live_tensors_ size: 844
+[Runtime] live_tensors_ size: 843
+[Runtime] live_tensors_ size: 842
+[Runtime] live_tensors_ size: 841
+[Runtime] live_tensors_ size: 861
+[Runtime] live_tensors_ size: 860
+[Runtime] live_tensors_ size: 859
+[Runtime] live_tensors_ size: 858
+[Runtime] live_tensors_ size: 857
+[Runtime] live_tensors_ size: 856
+[Runtime] live_tensors_ size: 855
+[Runtime] live_tensors_ size: 854
+[Runtime] live_tensors_ size: 853
+[Runtime] live_tensors_ size: 852
+[Runtime] live_tensors_ size: 851
+[Runtime] live_tensors_ size: 852
+[Runtime] live_tensors_ size: 851
+[Runtime] live_tensors_ size: 850
+[Runtime] live_tensors_ size: 849
+[Runtime] live_tensors_ size: 848
+Step Loss:
+14.813265800476074
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 852
+[Runtime] live_tensors_ size: 851
+[Runtime] live_tensors_ size: 850
+[Runtime] live_tensors_ size: 849
+[Runtime] live_tensors_ size: 848
+[Runtime] live_tensors_ size: 847
+[Runtime] live_tensors_ size: 867
+[Runtime] live_tensors_ size: 866
+[Runtime] live_tensors_ size: 865
+[Runtime] live_tensors_ size: 864
+[Runtime] live_tensors_ size: 863
+[Runtime] live_tensors_ size: 862
+[Runtime] live_tensors_ size: 861
+[Runtime] live_tensors_ size: 860
+[Runtime] live_tensors_ size: 859
+[Runtime] live_tensors_ size: 858
+[Runtime] live_tensors_ size: 857
+[Runtime] live_tensors_ size: 858
+[Runtime] live_tensors_ size: 857
+[Runtime] live_tensors_ size: 856
+[Runtime] live_tensors_ size: 855
+[Runtime] live_tensors_ size: 854
+Step Loss:
+14.925110816955566
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 858
+[Runtime] live_tensors_ size: 857
+[Runtime] live_tensors_ size: 856
+[Runtime] live_tensors_ size: 855
+[Runtime] live_tensors_ size: 854
+[Runtime] live_tensors_ size: 853
+[Runtime] live_tensors_ size: 873
+[Runtime] live_tensors_ size: 872
+[Runtime] live_tensors_ size: 871
+[Runtime] live_tensors_ size: 870
+[Runtime] live_tensors_ size: 869
+[Runtime] live_tensors_ size: 868
+[Runtime] live_tensors_ size: 867
+[Runtime] live_tensors_ size: 866
+[Runtime] live_tensors_ size: 865
+[Runtime] live_tensors_ size: 864
+[Runtime] live_tensors_ size: 863
+[Runtime] live_tensors_ size: 864
+[Runtime] live_tensors_ size: 863
+[Runtime] live_tensors_ size: 862
+[Runtime] live_tensors_ size: 861
+[Runtime] live_tensors_ size: 860
+Step Loss:
+15.343124389648438
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 864
+[Runtime] live_tensors_ size: 863
+[Runtime] live_tensors_ size: 862
+[Runtime] live_tensors_ size: 861
+[Runtime] live_tensors_ size: 860
+[Runtime] live_tensors_ size: 859
+[Runtime] live_tensors_ size: 879
+[Runtime] live_tensors_ size: 878
+[Runtime] live_tensors_ size: 877
+[Runtime] live_tensors_ size: 876
+[Runtime] live_tensors_ size: 875
+[Runtime] live_tensors_ size: 874
+[Runtime] live_tensors_ size: 873
+[Runtime] live_tensors_ size: 872
+[Runtime] live_tensors_ size: 871
+[Runtime] live_tensors_ size: 870
+[Runtime] live_tensors_ size: 869
+[Runtime] live_tensors_ size: 870
+[Runtime] live_tensors_ size: 869
+[Runtime] live_tensors_ size: 868
+[Runtime] live_tensors_ size: 867
+[Runtime] live_tensors_ size: 866
+Step Loss:
+15.436988830566406
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 870
+[Runtime] live_tensors_ size: 869
+[Runtime] live_tensors_ size: 868
+[Runtime] live_tensors_ size: 867
+[Runtime] live_tensors_ size: 866
+[Runtime] live_tensors_ size: 865
+[Runtime] live_tensors_ size: 885
+[Runtime] live_tensors_ size: 884
+[Runtime] live_tensors_ size: 883
+[Runtime] live_tensors_ size: 882
+[Runtime] live_tensors_ size: 881
+[Runtime] live_tensors_ size: 880
+[Runtime] live_tensors_ size: 879
+[Runtime] live_tensors_ size: 878
+[Runtime] live_tensors_ size: 877
+[Runtime] live_tensors_ size: 876
+[Runtime] live_tensors_ size: 875
+[Runtime] live_tensors_ size: 876
+[Runtime] live_tensors_ size: 875
+[Runtime] live_tensors_ size: 874
+[Runtime] live_tensors_ size: 873
+[Runtime] live_tensors_ size: 872
+Step Loss:
+14.864971160888672
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 876
+[Runtime] live_tensors_ size: 875
+[Runtime] live_tensors_ size: 874
+[Runtime] live_tensors_ size: 873
+[Runtime] live_tensors_ size: 872
+[Runtime] live_tensors_ size: 871
+[Runtime] live_tensors_ size: 891
+[Runtime] live_tensors_ size: 890
+[Runtime] live_tensors_ size: 889
+[Runtime] live_tensors_ size: 888
+[Runtime] live_tensors_ size: 887
+[Runtime] live_tensors_ size: 886
+[Runtime] live_tensors_ size: 885
+[Runtime] live_tensors_ size: 884
+[Runtime] live_tensors_ size: 883
+[Runtime] live_tensors_ size: 882
+[Runtime] live_tensors_ size: 881
+[Runtime] live_tensors_ size: 882
+[Runtime] live_tensors_ size: 881
+[Runtime] live_tensors_ size: 880
+[Runtime] live_tensors_ size: 879
+[Runtime] live_tensors_ size: 878
+Step Loss:
+14.687043190002441
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 882
+[Runtime] live_tensors_ size: 881
+[Runtime] live_tensors_ size: 880
+[Runtime] live_tensors_ size: 879
+[Runtime] live_tensors_ size: 878
+[Runtime] live_tensors_ size: 877
+[Runtime] live_tensors_ size: 897
+[Runtime] live_tensors_ size: 896
+[Runtime] live_tensors_ size: 895
+[Runtime] live_tensors_ size: 894
+[Runtime] live_tensors_ size: 893
+[Runtime] live_tensors_ size: 892
+[Runtime] live_tensors_ size: 891
+[Runtime] live_tensors_ size: 890
+[Runtime] live_tensors_ size: 889
+[Runtime] live_tensors_ size: 888
+[Runtime] live_tensors_ size: 887
+[Runtime] live_tensors_ size: 888
+[Runtime] live_tensors_ size: 887
+[Runtime] live_tensors_ size: 886
+[Runtime] live_tensors_ size: 885
+[Runtime] live_tensors_ size: 884
+Step Loss:
+14.511994361877441
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 888
+[Runtime] live_tensors_ size: 887
+[Runtime] live_tensors_ size: 886
+[Runtime] live_tensors_ size: 885
+[Runtime] live_tensors_ size: 884
+[Runtime] live_tensors_ size: 883
+[Runtime] live_tensors_ size: 903
+[Runtime] live_tensors_ size: 902
+[Runtime] live_tensors_ size: 901
+[Runtime] live_tensors_ size: 900
+[Runtime] live_tensors_ size: 899
+[Runtime] live_tensors_ size: 898
+[Runtime] live_tensors_ size: 897
+[Runtime] live_tensors_ size: 896
+[Runtime] live_tensors_ size: 895
+[Runtime] live_tensors_ size: 894
+[Runtime] live_tensors_ size: 893
+[Runtime] live_tensors_ size: 894
+[Runtime] live_tensors_ size: 893
+[Runtime] live_tensors_ size: 892
+[Runtime] live_tensors_ size: 891
+[Runtime] live_tensors_ size: 890
+Step Loss:
+15.643965721130371
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 894
+[Runtime] live_tensors_ size: 893
+[Runtime] live_tensors_ size: 892
+[Runtime] live_tensors_ size: 891
+[Runtime] live_tensors_ size: 890
+[Runtime] live_tensors_ size: 889
+[Runtime] live_tensors_ size: 909
+[Runtime] live_tensors_ size: 908
+[Runtime] live_tensors_ size: 907
+[Runtime] live_tensors_ size: 906
+[Runtime] live_tensors_ size: 905
+[Runtime] live_tensors_ size: 904
+[Runtime] live_tensors_ size: 903
+[Runtime] live_tensors_ size: 902
+[Runtime] live_tensors_ size: 901
+[Runtime] live_tensors_ size: 900
+[Runtime] live_tensors_ size: 899
+[Runtime] live_tensors_ size: 900
+[Runtime] live_tensors_ size: 899
+[Runtime] live_tensors_ size: 898
+[Runtime] live_tensors_ size: 897
+[Runtime] live_tensors_ size: 896
+Step Loss:
+14.797455787658691
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 900
+[Runtime] live_tensors_ size: 899
+[Runtime] live_tensors_ size: 898
+[Runtime] live_tensors_ size: 897
+[Runtime] live_tensors_ size: 896
+[Runtime] live_tensors_ size: 895
+[Runtime] live_tensors_ size: 915
+[Runtime] live_tensors_ size: 914
+[Runtime] live_tensors_ size: 913
+[Runtime] live_tensors_ size: 912
+[Runtime] live_tensors_ size: 911
+[Runtime] live_tensors_ size: 910
+[Runtime] live_tensors_ size: 909
+[Runtime] live_tensors_ size: 908
+[Runtime] live_tensors_ size: 907
+[Runtime] live_tensors_ size: 906
+[Runtime] live_tensors_ size: 905
+[Runtime] live_tensors_ size: 906
+[Runtime] live_tensors_ size: 905
+[Runtime] live_tensors_ size: 904
+[Runtime] live_tensors_ size: 903
+[Runtime] live_tensors_ size: 902
+Step Loss:
+15.404644966125488
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 906
+[Runtime] live_tensors_ size: 905
+[Runtime] live_tensors_ size: 904
+[Runtime] live_tensors_ size: 903
+[Runtime] live_tensors_ size: 902
+[Runtime] live_tensors_ size: 901
+[Runtime] live_tensors_ size: 921
+[Runtime] live_tensors_ size: 920
+[Runtime] live_tensors_ size: 919
+[Runtime] live_tensors_ size: 918
+[Runtime] live_tensors_ size: 917
+[Runtime] live_tensors_ size: 916
+[Runtime] live_tensors_ size: 915
+[Runtime] live_tensors_ size: 914
+[Runtime] live_tensors_ size: 913
+[Runtime] live_tensors_ size: 912
+[Runtime] live_tensors_ size: 911
+[Runtime] live_tensors_ size: 912
+[Runtime] live_tensors_ size: 911
+[Runtime] live_tensors_ size: 910
+[Runtime] live_tensors_ size: 909
+[Runtime] live_tensors_ size: 908
+Step Loss:
+14.993632316589355
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 912
+[Runtime] live_tensors_ size: 911
+[Runtime] live_tensors_ size: 910
+[Runtime] live_tensors_ size: 909
+[Runtime] live_tensors_ size: 908
+[Runtime] live_tensors_ size: 907
+[Runtime] live_tensors_ size: 927
+[Runtime] live_tensors_ size: 926
+[Runtime] live_tensors_ size: 925
+[Runtime] live_tensors_ size: 924
+[Runtime] live_tensors_ size: 923
+[Runtime] live_tensors_ size: 922
+[Runtime] live_tensors_ size: 921
+[Runtime] live_tensors_ size: 920
+[Runtime] live_tensors_ size: 919
+[Runtime] live_tensors_ size: 918
+[Runtime] live_tensors_ size: 917
+[Runtime] live_tensors_ size: 918
+[Runtime] live_tensors_ size: 917
+[Runtime] live_tensors_ size: 916
+[Runtime] live_tensors_ size: 915
+[Runtime] live_tensors_ size: 914
+Step Loss:
+14.933317184448242
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 918
+[Runtime] live_tensors_ size: 917
+[Runtime] live_tensors_ size: 916
+[Runtime] live_tensors_ size: 915
+[Runtime] live_tensors_ size: 914
+[Runtime] live_tensors_ size: 913
+[Runtime] live_tensors_ size: 933
+[Runtime] live_tensors_ size: 932
+[Runtime] live_tensors_ size: 931
+[Runtime] live_tensors_ size: 930
+[Runtime] live_tensors_ size: 929
+[Runtime] live_tensors_ size: 928
+[Runtime] live_tensors_ size: 927
+[Runtime] live_tensors_ size: 926
+[Runtime] live_tensors_ size: 925
+[Runtime] live_tensors_ size: 924
+[Runtime] live_tensors_ size: 923
+[Runtime] live_tensors_ size: 924
+[Runtime] live_tensors_ size: 923
+[Runtime] live_tensors_ size: 922
+[Runtime] live_tensors_ size: 921
+[Runtime] live_tensors_ size: 920
+Step Loss:
+15.071537017822266
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 924
+[Runtime] live_tensors_ size: 923
+[Runtime] live_tensors_ size: 922
+[Runtime] live_tensors_ size: 921
+[Runtime] live_tensors_ size: 920
+[Runtime] live_tensors_ size: 919
+[Runtime] live_tensors_ size: 939
+[Runtime] live_tensors_ size: 938
+[Runtime] live_tensors_ size: 937
+[Runtime] live_tensors_ size: 936
+[Runtime] live_tensors_ size: 935
+[Runtime] live_tensors_ size: 934
+[Runtime] live_tensors_ size: 933
+[Runtime] live_tensors_ size: 932
+[Runtime] live_tensors_ size: 931
+[Runtime] live_tensors_ size: 930
+[Runtime] live_tensors_ size: 929
+[Runtime] live_tensors_ size: 930
+[Runtime] live_tensors_ size: 929
+[Runtime] live_tensors_ size: 928
+[Runtime] live_tensors_ size: 927
+[Runtime] live_tensors_ size: 926
+Step Loss:
+14.843768119812012
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 930
+[Runtime] live_tensors_ size: 929
+[Runtime] live_tensors_ size: 928
+[Runtime] live_tensors_ size: 927
+[Runtime] live_tensors_ size: 926
+[Runtime] live_tensors_ size: 925
+[Runtime] live_tensors_ size: 945
+[Runtime] live_tensors_ size: 944
+[Runtime] live_tensors_ size: 943
+[Runtime] live_tensors_ size: 942
+[Runtime] live_tensors_ size: 941
+[Runtime] live_tensors_ size: 940
+[Runtime] live_tensors_ size: 939
+[Runtime] live_tensors_ size: 938
+[Runtime] live_tensors_ size: 937
+[Runtime] live_tensors_ size: 936
+[Runtime] live_tensors_ size: 935
+[Runtime] live_tensors_ size: 936
+[Runtime] live_tensors_ size: 935
+[Runtime] live_tensors_ size: 934
+[Runtime] live_tensors_ size: 933
+[Runtime] live_tensors_ size: 932
+Step Loss:
+14.265010833740234
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 936
+[Runtime] live_tensors_ size: 935
+[Runtime] live_tensors_ size: 934
+[Runtime] live_tensors_ size: 933
+[Runtime] live_tensors_ size: 932
+[Runtime] live_tensors_ size: 931
+[Runtime] live_tensors_ size: 951
+[Runtime] live_tensors_ size: 950
+[Runtime] live_tensors_ size: 949
+[Runtime] live_tensors_ size: 948
+[Runtime] live_tensors_ size: 947
+[Runtime] live_tensors_ size: 946
+[Runtime] live_tensors_ size: 945
+[Runtime] live_tensors_ size: 944
+[Runtime] live_tensors_ size: 943
+[Runtime] live_tensors_ size: 942
+[Runtime] live_tensors_ size: 941
+[Runtime] live_tensors_ size: 942
+[Runtime] live_tensors_ size: 941
+[Runtime] live_tensors_ size: 940
+[Runtime] live_tensors_ size: 939
+[Runtime] live_tensors_ size: 938
+Step Loss:
+14.59564208984375
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 942
+[Runtime] live_tensors_ size: 941
+[Runtime] live_tensors_ size: 940
+[Runtime] live_tensors_ size: 939
+[Runtime] live_tensors_ size: 938
+[Runtime] live_tensors_ size: 937
+[Runtime] live_tensors_ size: 957
+[Runtime] live_tensors_ size: 956
+[Runtime] live_tensors_ size: 955
+[Runtime] live_tensors_ size: 954
+[Runtime] live_tensors_ size: 953
+[Runtime] live_tensors_ size: 952
+[Runtime] live_tensors_ size: 951
+[Runtime] live_tensors_ size: 950
+[Runtime] live_tensors_ size: 949
+[Runtime] live_tensors_ size: 948
+[Runtime] live_tensors_ size: 947
+[Runtime] live_tensors_ size: 948
+[Runtime] live_tensors_ size: 947
+[Runtime] live_tensors_ size: 946
+[Runtime] live_tensors_ size: 945
+[Runtime] live_tensors_ size: 944
+Step Loss:
+14.755053520202637
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 948
+[Runtime] live_tensors_ size: 947
+[Runtime] live_tensors_ size: 946
+[Runtime] live_tensors_ size: 945
+[Runtime] live_tensors_ size: 944
+[Runtime] live_tensors_ size: 943
+[Runtime] live_tensors_ size: 963
+[Runtime] live_tensors_ size: 962
+[Runtime] live_tensors_ size: 961
+[Runtime] live_tensors_ size: 960
+[Runtime] live_tensors_ size: 959
+[Runtime] live_tensors_ size: 958
+[Runtime] live_tensors_ size: 957
+[Runtime] live_tensors_ size: 956
+[Runtime] live_tensors_ size: 955
+[Runtime] live_tensors_ size: 954
+[Runtime] live_tensors_ size: 953
+[Runtime] live_tensors_ size: 954
+[Runtime] live_tensors_ size: 953
+[Runtime] live_tensors_ size: 952
+[Runtime] live_tensors_ size: 951
+[Runtime] live_tensors_ size: 950
+Step Loss:
+14.94442367553711
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 954
+[Runtime] live_tensors_ size: 953
+[Runtime] live_tensors_ size: 952
+[Runtime] live_tensors_ size: 951
+[Runtime] live_tensors_ size: 950
+[Runtime] live_tensors_ size: 949
+[Runtime] live_tensors_ size: 969
+[Runtime] live_tensors_ size: 968
+[Runtime] live_tensors_ size: 967
+[Runtime] live_tensors_ size: 966
+[Runtime] live_tensors_ size: 965
+[Runtime] live_tensors_ size: 964
+[Runtime] live_tensors_ size: 963
+[Runtime] live_tensors_ size: 962
+[Runtime] live_tensors_ size: 961
+[Runtime] live_tensors_ size: 960
+[Runtime] live_tensors_ size: 959
+[Runtime] live_tensors_ size: 960
+[Runtime] live_tensors_ size: 959
+[Runtime] live_tensors_ size: 958
+[Runtime] live_tensors_ size: 957
+[Runtime] live_tensors_ size: 956
+Step Loss:
+14.321885108947754
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 960
+[Runtime] live_tensors_ size: 959
+[Runtime] live_tensors_ size: 958
+[Runtime] live_tensors_ size: 957
+[Runtime] live_tensors_ size: 956
+[Runtime] live_tensors_ size: 955
+[Runtime] live_tensors_ size: 975
+[Runtime] live_tensors_ size: 974
+[Runtime] live_tensors_ size: 973
+[Runtime] live_tensors_ size: 972
+[Runtime] live_tensors_ size: 971
+[Runtime] live_tensors_ size: 970
+[Runtime] live_tensors_ size: 969
+[Runtime] live_tensors_ size: 968
+[Runtime] live_tensors_ size: 967
+[Runtime] live_tensors_ size: 966
+[Runtime] live_tensors_ size: 965
+[Runtime] live_tensors_ size: 966
+[Runtime] live_tensors_ size: 965
+[Runtime] live_tensors_ size: 964
+[Runtime] live_tensors_ size: 963
+[Runtime] live_tensors_ size: 962
+Step Loss:
+13.99750804901123
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 966
+[Runtime] live_tensors_ size: 965
+[Runtime] live_tensors_ size: 964
+[Runtime] live_tensors_ size: 963
+[Runtime] live_tensors_ size: 962
+[Runtime] live_tensors_ size: 961
+[Runtime] live_tensors_ size: 981
+[Runtime] live_tensors_ size: 980
+[Runtime] live_tensors_ size: 979
+[Runtime] live_tensors_ size: 978
+[Runtime] live_tensors_ size: 977
+[Runtime] live_tensors_ size: 976
+[Runtime] live_tensors_ size: 975
+[Runtime] live_tensors_ size: 974
+[Runtime] live_tensors_ size: 973
+[Runtime] live_tensors_ size: 972
+[Runtime] live_tensors_ size: 971
+[Runtime] live_tensors_ size: 972
+[Runtime] live_tensors_ size: 971
+[Runtime] live_tensors_ size: 970
+[Runtime] live_tensors_ size: 969
+[Runtime] live_tensors_ size: 968
+Step Loss:
+14.536392211914062
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 972
+[Runtime] live_tensors_ size: 971
+[Runtime] live_tensors_ size: 970
+[Runtime] live_tensors_ size: 969
+[Runtime] live_tensors_ size: 968
+[Runtime] live_tensors_ size: 967
+[Runtime] live_tensors_ size: 987
+[Runtime] live_tensors_ size: 986
+[Runtime] live_tensors_ size: 985
+[Runtime] live_tensors_ size: 984
+[Runtime] live_tensors_ size: 983
+[Runtime] live_tensors_ size: 982
+[Runtime] live_tensors_ size: 981
+[Runtime] live_tensors_ size: 980
+[Runtime] live_tensors_ size: 979
+[Runtime] live_tensors_ size: 978
+[Runtime] live_tensors_ size: 977
+[Runtime] live_tensors_ size: 978
+[Runtime] live_tensors_ size: 977
+[Runtime] live_tensors_ size: 976
+[Runtime] live_tensors_ size: 975
+[Runtime] live_tensors_ size: 974
+Step Loss:
+13.627352714538574
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 978
+[Runtime] live_tensors_ size: 977
+[Runtime] live_tensors_ size: 976
+[Runtime] live_tensors_ size: 975
+[Runtime] live_tensors_ size: 974
+[Runtime] live_tensors_ size: 973
+[Runtime] live_tensors_ size: 993
+[Runtime] live_tensors_ size: 992
+[Runtime] live_tensors_ size: 991
+[Runtime] live_tensors_ size: 990
+[Runtime] live_tensors_ size: 989
+[Runtime] live_tensors_ size: 988
+[Runtime] live_tensors_ size: 987
+[Runtime] live_tensors_ size: 986
+[Runtime] live_tensors_ size: 985
+[Runtime] live_tensors_ size: 984
+[Runtime] live_tensors_ size: 983
+[Runtime] live_tensors_ size: 984
+[Runtime] live_tensors_ size: 983
+[Runtime] live_tensors_ size: 982
+[Runtime] live_tensors_ size: 981
+[Runtime] live_tensors_ size: 980
+Step Loss:
+14.11076831817627
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 984
+[Runtime] live_tensors_ size: 983
+[Runtime] live_tensors_ size: 982
+[Runtime] live_tensors_ size: 981
+[Runtime] live_tensors_ size: 980
+[Runtime] live_tensors_ size: 979
+[Runtime] live_tensors_ size: 999
+[Runtime] live_tensors_ size: 998
+[Runtime] live_tensors_ size: 997
+[Runtime] live_tensors_ size: 996
+[Runtime] live_tensors_ size: 995
+[Runtime] live_tensors_ size: 994
+[Runtime] live_tensors_ size: 993
+[Runtime] live_tensors_ size: 992
+[Runtime] live_tensors_ size: 991
+[Runtime] live_tensors_ size: 990
+[Runtime] live_tensors_ size: 989
+[Runtime] live_tensors_ size: 990
+[Runtime] live_tensors_ size: 989
+[Runtime] live_tensors_ size: 988
+[Runtime] live_tensors_ size: 987
+[Runtime] live_tensors_ size: 986
+Step Loss:
+14.075657844543457
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 990
+[Runtime] live_tensors_ size: 989
+[Runtime] live_tensors_ size: 988
+[Runtime] live_tensors_ size: 987
+[Runtime] live_tensors_ size: 986
+[Runtime] live_tensors_ size: 985
+[Runtime] live_tensors_ size: 1005
+[Runtime] live_tensors_ size: 1004
+[Runtime] live_tensors_ size: 1003
+[Runtime] live_tensors_ size: 1002
+[Runtime] live_tensors_ size: 1001
+[Runtime] live_tensors_ size: 1000
+[Runtime] live_tensors_ size: 999
+[Runtime] live_tensors_ size: 998
+[Runtime] live_tensors_ size: 997
+[Runtime] live_tensors_ size: 996
+[Runtime] live_tensors_ size: 995
+[Runtime] live_tensors_ size: 996
+[Runtime] live_tensors_ size: 995
+[Runtime] live_tensors_ size: 994
+[Runtime] live_tensors_ size: 993
+[Runtime] live_tensors_ size: 992
+Step Loss:
+14.09253978729248
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 996
+[Runtime] live_tensors_ size: 995
+[Runtime] live_tensors_ size: 994
+[Runtime] live_tensors_ size: 993
+[Runtime] live_tensors_ size: 992
+[Runtime] live_tensors_ size: 991
+[Runtime] live_tensors_ size: 1011
+[Runtime] live_tensors_ size: 1010
+[Runtime] live_tensors_ size: 1009
+[Runtime] live_tensors_ size: 1008
+[Runtime] live_tensors_ size: 1007
+[Runtime] live_tensors_ size: 1006
+[Runtime] live_tensors_ size: 1005
+[Runtime] live_tensors_ size: 1004
+[Runtime] live_tensors_ size: 1003
+[Runtime] live_tensors_ size: 1002
+[Runtime] live_tensors_ size: 1001
+[Runtime] live_tensors_ size: 1002
+[Runtime] live_tensors_ size: 1001
+[Runtime] live_tensors_ size: 1000
+[Runtime] live_tensors_ size: 999
+[Runtime] live_tensors_ size: 998
+Step Loss:
+13.732769012451172
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1002
+[Runtime] live_tensors_ size: 1001
+[Runtime] live_tensors_ size: 1000
+[Runtime] live_tensors_ size: 999
+[Runtime] live_tensors_ size: 998
+[Runtime] live_tensors_ size: 997
+[Runtime] live_tensors_ size: 1017
+[Runtime] live_tensors_ size: 1016
+[Runtime] live_tensors_ size: 1015
+[Runtime] live_tensors_ size: 1014
+[Runtime] live_tensors_ size: 1013
+[Runtime] live_tensors_ size: 1012
+[Runtime] live_tensors_ size: 1011
+[Runtime] live_tensors_ size: 1010
+[Runtime] live_tensors_ size: 1009
+[Runtime] live_tensors_ size: 1008
+[Runtime] live_tensors_ size: 1007
+[Runtime] live_tensors_ size: 1008
+[Runtime] live_tensors_ size: 1007
+[Runtime] live_tensors_ size: 1006
+[Runtime] live_tensors_ size: 1005
+[Runtime] live_tensors_ size: 1004
+Step Loss:
+13.73276424407959
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1008
+[Runtime] live_tensors_ size: 1007
+[Runtime] live_tensors_ size: 1006
+[Runtime] live_tensors_ size: 1005
+[Runtime] live_tensors_ size: 1004
+[Runtime] live_tensors_ size: 1003
+[Runtime] live_tensors_ size: 1023
+[Runtime] live_tensors_ size: 1022
+[Runtime] live_tensors_ size: 1021
+[Runtime] live_tensors_ size: 1020
+[Runtime] live_tensors_ size: 1019
+[Runtime] live_tensors_ size: 1018
+[Runtime] live_tensors_ size: 1017
+[Runtime] live_tensors_ size: 1016
+[Runtime] live_tensors_ size: 1015
+[Runtime] live_tensors_ size: 1014
+[Runtime] live_tensors_ size: 1013
+[Runtime] live_tensors_ size: 1014
+[Runtime] live_tensors_ size: 1013
+[Runtime] live_tensors_ size: 1012
+[Runtime] live_tensors_ size: 1011
+[Runtime] live_tensors_ size: 1010
+Step Loss:
+13.626876831054688
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1014
+[Runtime] live_tensors_ size: 1013
+[Runtime] live_tensors_ size: 1012
+[Runtime] live_tensors_ size: 1011
+[Runtime] live_tensors_ size: 1010
+[Runtime] live_tensors_ size: 1009
+[Runtime] live_tensors_ size: 1029
+[Runtime] live_tensors_ size: 1028
+[Runtime] live_tensors_ size: 1027
+[Runtime] live_tensors_ size: 1026
+[Runtime] live_tensors_ size: 1025
+[Runtime] live_tensors_ size: 1024
+[Runtime] live_tensors_ size: 1023
+[Runtime] live_tensors_ size: 1022
+[Runtime] live_tensors_ size: 1021
+[Runtime] live_tensors_ size: 1020
+[Runtime] live_tensors_ size: 1019
+[Runtime] live_tensors_ size: 1020
+[Runtime] live_tensors_ size: 1019
+[Runtime] live_tensors_ size: 1018
+[Runtime] live_tensors_ size: 1017
+[Runtime] live_tensors_ size: 1016
+Step Loss:
+13.426738739013672
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1020
+[Runtime] live_tensors_ size: 1019
+[Runtime] live_tensors_ size: 1018
+[Runtime] live_tensors_ size: 1017
+[Runtime] live_tensors_ size: 1016
+[Runtime] live_tensors_ size: 1015
+[Runtime] live_tensors_ size: 1035
+[Runtime] live_tensors_ size: 1034
+[Runtime] live_tensors_ size: 1033
+[Runtime] live_tensors_ size: 1032
+[Runtime] live_tensors_ size: 1031
+[Runtime] live_tensors_ size: 1030
+[Runtime] live_tensors_ size: 1029
+[Runtime] live_tensors_ size: 1028
+[Runtime] live_tensors_ size: 1027
+[Runtime] live_tensors_ size: 1026
+[Runtime] live_tensors_ size: 1025
+[Runtime] live_tensors_ size: 1026
+[Runtime] live_tensors_ size: 1025
+[Runtime] live_tensors_ size: 1024
+[Runtime] live_tensors_ size: 1023
+[Runtime] live_tensors_ size: 1022
+Step Loss:
+14.453664779663086
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1026
+[Runtime] live_tensors_ size: 1025
+[Runtime] live_tensors_ size: 1024
+[Runtime] live_tensors_ size: 1023
+[Runtime] live_tensors_ size: 1022
+[Runtime] live_tensors_ size: 1021
+[Runtime] live_tensors_ size: 1041
+[Runtime] live_tensors_ size: 1040
+[Runtime] live_tensors_ size: 1039
+[Runtime] live_tensors_ size: 1038
+[Runtime] live_tensors_ size: 1037
+[Runtime] live_tensors_ size: 1036
+[Runtime] live_tensors_ size: 1035
+[Runtime] live_tensors_ size: 1034
+[Runtime] live_tensors_ size: 1033
+[Runtime] live_tensors_ size: 1032
+[Runtime] live_tensors_ size: 1031
+[Runtime] live_tensors_ size: 1032
+[Runtime] live_tensors_ size: 1031
+[Runtime] live_tensors_ size: 1030
+[Runtime] live_tensors_ size: 1029
+[Runtime] live_tensors_ size: 1028
+Step Loss:
+13.78311824798584
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1032
+[Runtime] live_tensors_ size: 1031
+[Runtime] live_tensors_ size: 1030
+[Runtime] live_tensors_ size: 1029
+[Runtime] live_tensors_ size: 1028
+[Runtime] live_tensors_ size: 1027
+[Runtime] live_tensors_ size: 1047
+[Runtime] live_tensors_ size: 1046
+[Runtime] live_tensors_ size: 1045
+[Runtime] live_tensors_ size: 1044
+[Runtime] live_tensors_ size: 1043
+[Runtime] live_tensors_ size: 1042
+[Runtime] live_tensors_ size: 1041
+[Runtime] live_tensors_ size: 1040
+[Runtime] live_tensors_ size: 1039
+[Runtime] live_tensors_ size: 1038
+[Runtime] live_tensors_ size: 1037
+[Runtime] live_tensors_ size: 1038
+[Runtime] live_tensors_ size: 1037
+[Runtime] live_tensors_ size: 1036
+[Runtime] live_tensors_ size: 1035
+[Runtime] live_tensors_ size: 1034
+Step Loss:
+13.473861694335938
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1038
+[Runtime] live_tensors_ size: 1037
+[Runtime] live_tensors_ size: 1036
+[Runtime] live_tensors_ size: 1035
+[Runtime] live_tensors_ size: 1034
+[Runtime] live_tensors_ size: 1033
+[Runtime] live_tensors_ size: 1053
+[Runtime] live_tensors_ size: 1052
+[Runtime] live_tensors_ size: 1051
+[Runtime] live_tensors_ size: 1050
+[Runtime] live_tensors_ size: 1049
+[Runtime] live_tensors_ size: 1048
+[Runtime] live_tensors_ size: 1047
+[Runtime] live_tensors_ size: 1046
+[Runtime] live_tensors_ size: 1045
+[Runtime] live_tensors_ size: 1044
+[Runtime] live_tensors_ size: 1043
+[Runtime] live_tensors_ size: 1044
+[Runtime] live_tensors_ size: 1043
+[Runtime] live_tensors_ size: 1042
+[Runtime] live_tensors_ size: 1041
+[Runtime] live_tensors_ size: 1040
+Step Loss:
+13.08673095703125
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1044
+[Runtime] live_tensors_ size: 1043
+[Runtime] live_tensors_ size: 1042
+[Runtime] live_tensors_ size: 1041
+[Runtime] live_tensors_ size: 1040
+[Runtime] live_tensors_ size: 1039
+[Runtime] live_tensors_ size: 1059
+[Runtime] live_tensors_ size: 1058
+[Runtime] live_tensors_ size: 1057
+[Runtime] live_tensors_ size: 1056
+[Runtime] live_tensors_ size: 1055
+[Runtime] live_tensors_ size: 1054
+[Runtime] live_tensors_ size: 1053
+[Runtime] live_tensors_ size: 1052
+[Runtime] live_tensors_ size: 1051
+[Runtime] live_tensors_ size: 1050
+[Runtime] live_tensors_ size: 1049
+[Runtime] live_tensors_ size: 1050
+[Runtime] live_tensors_ size: 1049
+[Runtime] live_tensors_ size: 1048
+[Runtime] live_tensors_ size: 1047
+[Runtime] live_tensors_ size: 1046
+Step Loss:
+13.670790672302246
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1050
+[Runtime] live_tensors_ size: 1049
+[Runtime] live_tensors_ size: 1048
+[Runtime] live_tensors_ size: 1047
+[Runtime] live_tensors_ size: 1046
+[Runtime] live_tensors_ size: 1045
+[Runtime] live_tensors_ size: 1065
+[Runtime] live_tensors_ size: 1064
+[Runtime] live_tensors_ size: 1063
+[Runtime] live_tensors_ size: 1062
+[Runtime] live_tensors_ size: 1061
+[Runtime] live_tensors_ size: 1060
+[Runtime] live_tensors_ size: 1059
+[Runtime] live_tensors_ size: 1058
+[Runtime] live_tensors_ size: 1057
+[Runtime] live_tensors_ size: 1056
+[Runtime] live_tensors_ size: 1055
+[Runtime] live_tensors_ size: 1056
+[Runtime] live_tensors_ size: 1055
+[Runtime] live_tensors_ size: 1054
+[Runtime] live_tensors_ size: 1053
+[Runtime] live_tensors_ size: 1052
+Step Loss:
+12.988704681396484
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1056
+[Runtime] live_tensors_ size: 1055
+[Runtime] live_tensors_ size: 1054
+[Runtime] live_tensors_ size: 1053
+[Runtime] live_tensors_ size: 1052
+[Runtime] live_tensors_ size: 1051
+[Runtime] live_tensors_ size: 1071
+[Runtime] live_tensors_ size: 1070
+[Runtime] live_tensors_ size: 1069
+[Runtime] live_tensors_ size: 1068
+[Runtime] live_tensors_ size: 1067
+[Runtime] live_tensors_ size: 1066
+[Runtime] live_tensors_ size: 1065
+[Runtime] live_tensors_ size: 1064
+[Runtime] live_tensors_ size: 1063
+[Runtime] live_tensors_ size: 1062
+[Runtime] live_tensors_ size: 1061
+[Runtime] live_tensors_ size: 1062
+[Runtime] live_tensors_ size: 1061
+[Runtime] live_tensors_ size: 1060
+[Runtime] live_tensors_ size: 1059
+[Runtime] live_tensors_ size: 1058
+Step Loss:
+13.43317985534668
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1062
+[Runtime] live_tensors_ size: 1061
+[Runtime] live_tensors_ size: 1060
+[Runtime] live_tensors_ size: 1059
+[Runtime] live_tensors_ size: 1058
+[Runtime] live_tensors_ size: 1057
+[Runtime] live_tensors_ size: 1077
+[Runtime] live_tensors_ size: 1076
+[Runtime] live_tensors_ size: 1075
+[Runtime] live_tensors_ size: 1074
+[Runtime] live_tensors_ size: 1073
+[Runtime] live_tensors_ size: 1072
+[Runtime] live_tensors_ size: 1071
+[Runtime] live_tensors_ size: 1070
+[Runtime] live_tensors_ size: 1069
+[Runtime] live_tensors_ size: 1068
+[Runtime] live_tensors_ size: 1067
+[Runtime] live_tensors_ size: 1068
+[Runtime] live_tensors_ size: 1067
+[Runtime] live_tensors_ size: 1066
+[Runtime] live_tensors_ size: 1065
+[Runtime] live_tensors_ size: 1064
+Step Loss:
+13.649539947509766
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1068
+[Runtime] live_tensors_ size: 1067
+[Runtime] live_tensors_ size: 1066
+[Runtime] live_tensors_ size: 1065
+[Runtime] live_tensors_ size: 1064
+[Runtime] live_tensors_ size: 1063
+[Runtime] live_tensors_ size: 1083
+[Runtime] live_tensors_ size: 1082
+[Runtime] live_tensors_ size: 1081
+[Runtime] live_tensors_ size: 1080
+[Runtime] live_tensors_ size: 1079
+[Runtime] live_tensors_ size: 1078
+[Runtime] live_tensors_ size: 1077
+[Runtime] live_tensors_ size: 1076
+[Runtime] live_tensors_ size: 1075
+[Runtime] live_tensors_ size: 1074
+[Runtime] live_tensors_ size: 1073
+[Runtime] live_tensors_ size: 1074
+[Runtime] live_tensors_ size: 1073
+[Runtime] live_tensors_ size: 1072
+[Runtime] live_tensors_ size: 1071
+[Runtime] live_tensors_ size: 1070
+Step Loss:
+13.109016418457031
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1074
+[Runtime] live_tensors_ size: 1073
+[Runtime] live_tensors_ size: 1072
+[Runtime] live_tensors_ size: 1071
+[Runtime] live_tensors_ size: 1070
+[Runtime] live_tensors_ size: 1069
+[Runtime] live_tensors_ size: 1089
+[Runtime] live_tensors_ size: 1088
+[Runtime] live_tensors_ size: 1087
+[Runtime] live_tensors_ size: 1086
+[Runtime] live_tensors_ size: 1085
+[Runtime] live_tensors_ size: 1084
+[Runtime] live_tensors_ size: 1083
+[Runtime] live_tensors_ size: 1082
+[Runtime] live_tensors_ size: 1081
+[Runtime] live_tensors_ size: 1080
+[Runtime] live_tensors_ size: 1079
+[Runtime] live_tensors_ size: 1080
+[Runtime] live_tensors_ size: 1079
+[Runtime] live_tensors_ size: 1078
+[Runtime] live_tensors_ size: 1077
+[Runtime] live_tensors_ size: 1076
+Step Loss:
+13.454933166503906
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1080
+[Runtime] live_tensors_ size: 1079
+[Runtime] live_tensors_ size: 1078
+[Runtime] live_tensors_ size: 1077
+[Runtime] live_tensors_ size: 1076
+[Runtime] live_tensors_ size: 1075
+[Runtime] live_tensors_ size: 1095
+[Runtime] live_tensors_ size: 1094
+[Runtime] live_tensors_ size: 1093
+[Runtime] live_tensors_ size: 1092
+[Runtime] live_tensors_ size: 1091
+[Runtime] live_tensors_ size: 1090
+[Runtime] live_tensors_ size: 1089
+[Runtime] live_tensors_ size: 1088
+[Runtime] live_tensors_ size: 1087
+[Runtime] live_tensors_ size: 1086
+[Runtime] live_tensors_ size: 1085
+[Runtime] live_tensors_ size: 1086
+[Runtime] live_tensors_ size: 1085
+[Runtime] live_tensors_ size: 1084
+[Runtime] live_tensors_ size: 1083
+[Runtime] live_tensors_ size: 1082
+Step Loss:
+13.3685941696167
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1086
+[Runtime] live_tensors_ size: 1085
+[Runtime] live_tensors_ size: 1084
+[Runtime] live_tensors_ size: 1083
+[Runtime] live_tensors_ size: 1082
+[Runtime] live_tensors_ size: 1081
+[Runtime] live_tensors_ size: 1101
+[Runtime] live_tensors_ size: 1100
+[Runtime] live_tensors_ size: 1099
+[Runtime] live_tensors_ size: 1098
+[Runtime] live_tensors_ size: 1097
+[Runtime] live_tensors_ size: 1096
+[Runtime] live_tensors_ size: 1095
+[Runtime] live_tensors_ size: 1094
+[Runtime] live_tensors_ size: 1093
+[Runtime] live_tensors_ size: 1092
+[Runtime] live_tensors_ size: 1091
+[Runtime] live_tensors_ size: 1092
+[Runtime] live_tensors_ size: 1091
+[Runtime] live_tensors_ size: 1090
+[Runtime] live_tensors_ size: 1089
+[Runtime] live_tensors_ size: 1088
+Step Loss:
+12.941173553466797
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1092
+[Runtime] live_tensors_ size: 1091
+[Runtime] live_tensors_ size: 1090
+[Runtime] live_tensors_ size: 1089
+[Runtime] live_tensors_ size: 1088
+[Runtime] live_tensors_ size: 1087
+[Runtime] live_tensors_ size: 1107
+[Runtime] live_tensors_ size: 1106
+[Runtime] live_tensors_ size: 1105
+[Runtime] live_tensors_ size: 1104
+[Runtime] live_tensors_ size: 1103
+[Runtime] live_tensors_ size: 1102
+[Runtime] live_tensors_ size: 1101
+[Runtime] live_tensors_ size: 1100
+[Runtime] live_tensors_ size: 1099
+[Runtime] live_tensors_ size: 1098
+[Runtime] live_tensors_ size: 1097
+[Runtime] live_tensors_ size: 1098
+[Runtime] live_tensors_ size: 1097
+[Runtime] live_tensors_ size: 1096
+[Runtime] live_tensors_ size: 1095
+[Runtime] live_tensors_ size: 1094
+Step Loss:
+13.188193321228027
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1098
+[Runtime] live_tensors_ size: 1097
+[Runtime] live_tensors_ size: 1096
+[Runtime] live_tensors_ size: 1095
+[Runtime] live_tensors_ size: 1094
+[Runtime] live_tensors_ size: 1093
+[Runtime] live_tensors_ size: 1113
+[Runtime] live_tensors_ size: 1112
+[Runtime] live_tensors_ size: 1111
+[Runtime] live_tensors_ size: 1110
+[Runtime] live_tensors_ size: 1109
+[Runtime] live_tensors_ size: 1108
+[Runtime] live_tensors_ size: 1107
+[Runtime] live_tensors_ size: 1106
+[Runtime] live_tensors_ size: 1105
+[Runtime] live_tensors_ size: 1104
+[Runtime] live_tensors_ size: 1103
+[Runtime] live_tensors_ size: 1104
+[Runtime] live_tensors_ size: 1103
+[Runtime] live_tensors_ size: 1102
+[Runtime] live_tensors_ size: 1101
+[Runtime] live_tensors_ size: 1100
+Step Loss:
+13.10000228881836
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1104
+[Runtime] live_tensors_ size: 1103
+[Runtime] live_tensors_ size: 1102
+[Runtime] live_tensors_ size: 1101
+[Runtime] live_tensors_ size: 1100
+[Runtime] live_tensors_ size: 1099
+[Runtime] live_tensors_ size: 1119
+[Runtime] live_tensors_ size: 1118
+[Runtime] live_tensors_ size: 1117
+[Runtime] live_tensors_ size: 1116
+[Runtime] live_tensors_ size: 1115
+[Runtime] live_tensors_ size: 1114
+[Runtime] live_tensors_ size: 1113
+[Runtime] live_tensors_ size: 1112
+[Runtime] live_tensors_ size: 1111
+[Runtime] live_tensors_ size: 1110
+[Runtime] live_tensors_ size: 1109
+[Runtime] live_tensors_ size: 1110
+[Runtime] live_tensors_ size: 1109
+[Runtime] live_tensors_ size: 1108
+[Runtime] live_tensors_ size: 1107
+[Runtime] live_tensors_ size: 1106
+Step Loss:
+12.745363235473633
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1110
+[Runtime] live_tensors_ size: 1109
+[Runtime] live_tensors_ size: 1108
+[Runtime] live_tensors_ size: 1107
+[Runtime] live_tensors_ size: 1106
+[Runtime] live_tensors_ size: 1105
+[Runtime] live_tensors_ size: 1125
+[Runtime] live_tensors_ size: 1124
+[Runtime] live_tensors_ size: 1123
+[Runtime] live_tensors_ size: 1122
+[Runtime] live_tensors_ size: 1121
+[Runtime] live_tensors_ size: 1120
+[Runtime] live_tensors_ size: 1119
+[Runtime] live_tensors_ size: 1118
+[Runtime] live_tensors_ size: 1117
+[Runtime] live_tensors_ size: 1116
+[Runtime] live_tensors_ size: 1115
+[Runtime] live_tensors_ size: 1116
+[Runtime] live_tensors_ size: 1115
+[Runtime] live_tensors_ size: 1114
+[Runtime] live_tensors_ size: 1113
+[Runtime] live_tensors_ size: 1112
+Step Loss:
+13.452791213989258
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1116
+[Runtime] live_tensors_ size: 1115
+[Runtime] live_tensors_ size: 1114
+[Runtime] live_tensors_ size: 1113
+[Runtime] live_tensors_ size: 1112
+[Runtime] live_tensors_ size: 1111
+[Runtime] live_tensors_ size: 1131
+[Runtime] live_tensors_ size: 1130
+[Runtime] live_tensors_ size: 1129
+[Runtime] live_tensors_ size: 1128
+[Runtime] live_tensors_ size: 1127
+[Runtime] live_tensors_ size: 1126
+[Runtime] live_tensors_ size: 1125
+[Runtime] live_tensors_ size: 1124
+[Runtime] live_tensors_ size: 1123
+[Runtime] live_tensors_ size: 1122
+[Runtime] live_tensors_ size: 1121
+[Runtime] live_tensors_ size: 1122
+[Runtime] live_tensors_ size: 1121
+[Runtime] live_tensors_ size: 1120
+[Runtime] live_tensors_ size: 1119
+[Runtime] live_tensors_ size: 1118
+Step Loss:
+13.024822235107422
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1122
+[Runtime] live_tensors_ size: 1121
+[Runtime] live_tensors_ size: 1120
+[Runtime] live_tensors_ size: 1119
+[Runtime] live_tensors_ size: 1118
+[Runtime] live_tensors_ size: 1117
+[Runtime] live_tensors_ size: 1137
+[Runtime] live_tensors_ size: 1136
+[Runtime] live_tensors_ size: 1135
+[Runtime] live_tensors_ size: 1134
+[Runtime] live_tensors_ size: 1133
+[Runtime] live_tensors_ size: 1132
+[Runtime] live_tensors_ size: 1131
+[Runtime] live_tensors_ size: 1130
+[Runtime] live_tensors_ size: 1129
+[Runtime] live_tensors_ size: 1128
+[Runtime] live_tensors_ size: 1127
+[Runtime] live_tensors_ size: 1128
+[Runtime] live_tensors_ size: 1127
+[Runtime] live_tensors_ size: 1126
+[Runtime] live_tensors_ size: 1125
+[Runtime] live_tensors_ size: 1124
+Step Loss:
+12.991484642028809
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1128
+[Runtime] live_tensors_ size: 1127
+[Runtime] live_tensors_ size: 1126
+[Runtime] live_tensors_ size: 1125
+[Runtime] live_tensors_ size: 1124
+[Runtime] live_tensors_ size: 1123
+[Runtime] live_tensors_ size: 1143
+[Runtime] live_tensors_ size: 1142
+[Runtime] live_tensors_ size: 1141
+[Runtime] live_tensors_ size: 1140
+[Runtime] live_tensors_ size: 1139
+[Runtime] live_tensors_ size: 1138
+[Runtime] live_tensors_ size: 1137
+[Runtime] live_tensors_ size: 1136
+[Runtime] live_tensors_ size: 1135
+[Runtime] live_tensors_ size: 1134
+[Runtime] live_tensors_ size: 1133
+[Runtime] live_tensors_ size: 1134
+[Runtime] live_tensors_ size: 1133
+[Runtime] live_tensors_ size: 1132
+[Runtime] live_tensors_ size: 1131
+[Runtime] live_tensors_ size: 1130
+Step Loss:
+13.058056831359863
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1134
+[Runtime] live_tensors_ size: 1133
+[Runtime] live_tensors_ size: 1132
+[Runtime] live_tensors_ size: 1131
+[Runtime] live_tensors_ size: 1130
+[Runtime] live_tensors_ size: 1129
+[Runtime] live_tensors_ size: 1149
+[Runtime] live_tensors_ size: 1148
+[Runtime] live_tensors_ size: 1147
+[Runtime] live_tensors_ size: 1146
+[Runtime] live_tensors_ size: 1145
+[Runtime] live_tensors_ size: 1144
+[Runtime] live_tensors_ size: 1143
+[Runtime] live_tensors_ size: 1142
+[Runtime] live_tensors_ size: 1141
+[Runtime] live_tensors_ size: 1140
+[Runtime] live_tensors_ size: 1139
+[Runtime] live_tensors_ size: 1140
+[Runtime] live_tensors_ size: 1139
+[Runtime] live_tensors_ size: 1138
+[Runtime] live_tensors_ size: 1137
+[Runtime] live_tensors_ size: 1136
+Step Loss:
+12.90429973602295
+[ CPUFloatType{} ]
+[Runtime] live_tensors_ size: 1140
+[Runtime] live_tensors_ size: 1139
+[Runtime] live_tensors_ size: 1138
+[Runtime] live_tensors_ size: 1137
+[Runtime] live_tensors_ size: 1136
+[Runtime] live_tensors_ size: 1135
+[Runtime] live_tensors_ size: 1155
+[Runtime] live_tensors_ size: 1154
+[Runtime] live_tensors_ size: 1153
+[Runtime] live_tensors_ size: 1152
+[Runtime] live_tensors_ size: 1151
+[Runtime] live_tensors_ size: 1150
+[Runtime] live_tensors_ size: 1149
+[Runtime] live_tensors_ size: 1148
+[Runtime] live_tensors_ size: 1147
+[Runtime] live_tensors_ size: 1146
+[Runtime] live_tensors_ size: 1145
+[Runtime] live_tensors_ size: 1146
+[Runtime] live_tensors_ size: 1145
+[Runtime] live_tensors_ size: 1144
+[Runtime] live_tensors_ size: 1143
+[Runtime] live_tensors_ size: 1142
+Step Loss:
+13.335686683654785
+[ CPUFloatType{} ]

@@ -1,0 +1,13 @@
+mlirgen: inserting param 'x' (len=1)
+mlirgen: inserting param 'x' (len=1)
+mlirgen: inserting param 'T' (len=1)
+mlirgen: inserting param 'optim' (len=5)
+mlirgen: inserting param 'B' (len=1)
+mlirgen: inserting param 'T' (len=1)
+mlirgen: inserting param 'epochs' (len=6)
+mlirgen: inserting param 'vocab_size' (len=10)
+mlirgen: inserting param 'vocab_size' (len=10)
+mlirgen: inserting param 'max_steps' (len=9)
+mlirgen: inserting param 'ctx' (len=3)
+ld: warning: search path '/lib' not found
+[mlcc] Native AOT machine code executable generated successfully: --dump-mlir

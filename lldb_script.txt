@@ -1,0 +1,3 @@
+target create "./ngt"
+disassemble -n main
+quit

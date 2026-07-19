@@ -1,0 +1,21 @@
+Starting NanoGPT (OpenWebText)
+Loading OpenWebText data (using mmap)...
+[Runtime] Freeing: null, size: 58
+[Runtime] Freeing: null, size: 58
+[Runtime] Freeing: null, size: 58
+[Runtime] Freeing: null, size: 58
+[Runtime] Freeing: null, size: 58
+[Runtime] Freeing: null, size: 58
+[Runtime] Freeing: null, size: 58
+[Runtime] Freeing: null, size: 58
+[Runtime] Freeing: null, size: 58
+[Runtime] Freeing: null, size: 58
+[Runtime] Freeing: null, size: 58
+[Runtime] Freeing: null, size: 58
+[Runtime] Freeing: null, size: 58
+[Runtime] Freeing: null, size: 58
+[Runtime] Freeing: null, size: 58
+[Runtime] Freeing: null, size: 58
+Step Loss:
+32.06703567504883
+[ CPUFloatType{} ]

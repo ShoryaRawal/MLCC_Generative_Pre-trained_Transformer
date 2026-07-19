@@ -1,30 +1,106 @@
 MODULE NanoGPTTrain
 
-SUBROUTINE TRAIN(weights: STRUCT(NanoGPTWeights), optim: OPTIMIZER, B: INTEGER, T: INTEGER, epochs: INTEGER, vocab_size: INTEGER)
-    PRINT("Loading Shakespeare data...")
-    AUTO :: x_batch_flat = LOAD_I16("Data/shakespeare/train.bin", B * T)
-    AUTO :: x_batch = VIEW2(x_batch_flat, B, T)
-    AUTO :: y_batch_flat = LOAD_I16("Data/shakespeare/val.bin", B * T)
-    AUTO :: y_batch = VIEW2(y_batch_flat, B, T)
+SUBROUTINE SAVE_MODEL(weights: STRUCT(NanoGPTWeights))
+    SYSTEM("mkdir -p checkpoints")
+    SAVE("checkpoints/wte.pt", weights.wte)
+    SAVE("checkpoints/wpe.pt", weights.wpe)
+    
+    SAVE("checkpoints/l0_ln_1_w.pt", weights.l0_ln_1_w)
+    SAVE("checkpoints/l0_ln_1_b.pt", weights.l0_ln_1_b)
+    SAVE("checkpoints/l0_attn_q_w.pt", weights.l0_attn_q_w)
+    SAVE("checkpoints/l0_attn_k_w.pt", weights.l0_attn_k_w)
+    SAVE("checkpoints/l0_attn_v_w.pt", weights.l0_attn_v_w)
+    SAVE("checkpoints/l0_attn_proj_w.pt", weights.l0_attn_proj_w)
+    SAVE("checkpoints/l0_ln_2_w.pt", weights.l0_ln_2_w)
+    SAVE("checkpoints/l0_ln_2_b.pt", weights.l0_ln_2_b)
+    SAVE("checkpoints/l0_mlp_fc_w.pt", weights.l0_mlp_fc_w)
+    SAVE("checkpoints/l0_mlp_proj_w.pt", weights.l0_mlp_proj_w)
 
-    AUTO :: i = 0
+    SAVE("checkpoints/l1_ln_1_w.pt", weights.l1_ln_1_w)
+    SAVE("checkpoints/l1_ln_1_b.pt", weights.l1_ln_1_b)
+    SAVE("checkpoints/l1_attn_q_w.pt", weights.l1_attn_q_w)
+    SAVE("checkpoints/l1_attn_k_w.pt", weights.l1_attn_k_w)
+    SAVE("checkpoints/l1_attn_v_w.pt", weights.l1_attn_v_w)
+    SAVE("checkpoints/l1_attn_proj_w.pt", weights.l1_attn_proj_w)
+    SAVE("checkpoints/l1_ln_2_w.pt", weights.l1_ln_2_w)
+    SAVE("checkpoints/l1_ln_2_b.pt", weights.l1_ln_2_b)
+    SAVE("checkpoints/l1_mlp_fc_w.pt", weights.l1_mlp_fc_w)
+    SAVE("checkpoints/l1_mlp_proj_w.pt", weights.l1_mlp_proj_w)
+
+    SAVE("checkpoints/l2_ln_1_w.pt", weights.l2_ln_1_w)
+    SAVE("checkpoints/l2_ln_1_b.pt", weights.l2_ln_1_b)
+    SAVE("checkpoints/l2_attn_q_w.pt", weights.l2_attn_q_w)
+    SAVE("checkpoints/l2_attn_k_w.pt", weights.l2_attn_k_w)
+    SAVE("checkpoints/l2_attn_v_w.pt", weights.l2_attn_v_w)
+    SAVE("checkpoints/l2_attn_proj_w.pt", weights.l2_attn_proj_w)
+    SAVE("checkpoints/l2_ln_2_w.pt", weights.l2_ln_2_w)
+    SAVE("checkpoints/l2_ln_2_b.pt", weights.l2_ln_2_b)
+    SAVE("checkpoints/l2_mlp_fc_w.pt", weights.l2_mlp_fc_w)
+    SAVE("checkpoints/l2_mlp_proj_w.pt", weights.l2_mlp_proj_w)
+
+    SAVE("checkpoints/ln_f_w.pt", weights.ln_f_w)
+    SAVE("checkpoints/ln_f_b.pt", weights.ln_f_b)
+END SUBROUTINE
+
+SUBROUTINE TRAIN(weights: STRUCT(NanoGPTWeights), optim: OPTIMIZER, B: INTEGER, T: INTEGER, epochs: INTEGER, vocab_size: INTEGER)
+    PRINT("Loading OpenWebText data (using mmap)...")
+    AUTO :: data = LOAD_I16("Data/openwebtext/data/train.bin", 0)
+    
+    AUTO :: step = 0
+    AUTO :: offset = 0
+    AUTO :: B_T = B * T
+    AUTO :: max_offset = 0
+    
+    AUTO :: offsets = RANDOM2(1, 1)
+    AUTO :: y_flat = RANDOM2(1, 1)
+    AUTO :: x_batch = RANDOM2(1, 1)
+    
     AUTO :: logits = RANDOM2(1, 1)
     AUTO :: logits_flat = RANDOM2(1, 1)
     AUTO :: loss = RANDOM2(1, 1)
+    
+    AUTO :: is_save = 0
+    
+    FOR step IN 0..epochs
+        FREE(offsets)
+        FREE(y_flat)
+        FREE(x_batch)
+        FREE(logits)
+        FREE(logits_flat)
+        FREE(loss)
 
-    FOR i IN 0..epochs
-        logits = TRANSFORMER_FORWARD(x_batch, weights, T)
+        max_offset = SIZE(data, 0) - T - 1
+        offsets = RANDINT(0, max_offset, B)
+        x_batch = GET_BATCH(data, offsets, T, 0)
+        y_flat = GET_BATCH(data, offsets, T, 1)
         
-        logits_flat = VIEW2(logits, B * T, vocab_size)
-        loss = CROSS_ENTROPY(logits_flat, y_batch_flat)
+        logits = TRANSFORMER_FORWARD(x_batch, weights, B, T)
         
-        PRINT("Epoch Loss")
+        logits_flat = VIEW2(logits, B_T, vocab_size)
+        loss = CROSS_ENTROPY(logits_flat, y_flat)
+        
+        is_save = step % 500
+        
+        PRINT("Step Loss:")
         PRINT(loss)
         
         ZERO_GRAD(optim)
         BACKWARD(loss)
+        CLIP_GRAD(optim, 1.0)
         STEP(optim)
+        
+        IF is_save == 0 THEN
+            PRINT("Saving checkpoint...")
+            SAVE_MODEL(weights)
+        END IF
     END FOR
+    
+    FREE(offsets)
+    FREE(y_flat)
+    FREE(x_batch)
+    FREE(logits)
+    FREE(logits_flat)
+    FREE(loss)
 
     PRINT("Training Complete")
 END SUBROUTINE

@@ -1,0 +1,947 @@
+Starting NanoGPT (OpenWebText)
+Loading OpenWebText data (using mmap)...
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+10.861194610595703
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 99
+  torch_dispatch: 1
+  torch_tensor_clone: 40
+  torch_tensor_cross_entropy: 1
+  torch_tensor_get_batch: 2
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 1
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 1
+  torch_tensor_zeros2: 7
+Saving checkpoint...
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+10.431864738464355
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 111
+  torch_dispatch: 2
+  torch_tensor_clone: 46
+  torch_tensor_cross_entropy: 2
+  torch_tensor_get_batch: 4
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 2
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 2
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+10.149633407592773
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 123
+  torch_dispatch: 3
+  torch_tensor_clone: 52
+  torch_tensor_cross_entropy: 3
+  torch_tensor_get_batch: 6
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 3
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 3
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+10.097342491149902
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 135
+  torch_dispatch: 4
+  torch_tensor_clone: 58
+  torch_tensor_cross_entropy: 4
+  torch_tensor_get_batch: 8
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 4
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 4
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+9.975976943969727
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 147
+  torch_dispatch: 5
+  torch_tensor_clone: 64
+  torch_tensor_cross_entropy: 5
+  torch_tensor_get_batch: 10
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 5
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 5
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+9.83200740814209
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 159
+  torch_dispatch: 6
+  torch_tensor_clone: 70
+  torch_tensor_cross_entropy: 6
+  torch_tensor_get_batch: 12
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 6
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 6
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+9.626913070678711
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 171
+  torch_dispatch: 7
+  torch_tensor_clone: 76
+  torch_tensor_cross_entropy: 7
+  torch_tensor_get_batch: 14
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 7
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 7
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+9.507941246032715
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 183
+  torch_dispatch: 8
+  torch_tensor_clone: 82
+  torch_tensor_cross_entropy: 8
+  torch_tensor_get_batch: 16
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 8
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 8
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+9.411789894104004
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 195
+  torch_dispatch: 9
+  torch_tensor_clone: 88
+  torch_tensor_cross_entropy: 9
+  torch_tensor_get_batch: 18
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 9
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 9
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+9.319443702697754
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 207
+  torch_dispatch: 10
+  torch_tensor_clone: 94
+  torch_tensor_cross_entropy: 10
+  torch_tensor_get_batch: 20
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 10
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 10
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+9.215845108032227
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 219
+  torch_dispatch: 11
+  torch_tensor_clone: 100
+  torch_tensor_cross_entropy: 11
+  torch_tensor_get_batch: 22
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 11
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 11
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+9.047473907470703
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 231
+  torch_dispatch: 12
+  torch_tensor_clone: 106
+  torch_tensor_cross_entropy: 12
+  torch_tensor_get_batch: 24
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 12
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 12
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+9.038177490234375
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 243
+  torch_dispatch: 13
+  torch_tensor_clone: 112
+  torch_tensor_cross_entropy: 13
+  torch_tensor_get_batch: 26
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 13
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 13
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+8.889854431152344
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 255
+  torch_dispatch: 14
+  torch_tensor_clone: 118
+  torch_tensor_cross_entropy: 14
+  torch_tensor_get_batch: 28
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 14
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 14
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+8.763376235961914
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 267
+  torch_dispatch: 15
+  torch_tensor_clone: 124
+  torch_tensor_cross_entropy: 15
+  torch_tensor_get_batch: 30
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 15
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 15
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+8.800453186035156
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 279
+  torch_dispatch: 16
+  torch_tensor_clone: 130
+  torch_tensor_cross_entropy: 16
+  torch_tensor_get_batch: 32
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 16
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 16
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+8.550949096679688
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 291
+  torch_dispatch: 17
+  torch_tensor_clone: 136
+  torch_tensor_cross_entropy: 17
+  torch_tensor_get_batch: 34
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 17
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 17
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+8.429086685180664
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 303
+  torch_dispatch: 18
+  torch_tensor_clone: 142
+  torch_tensor_cross_entropy: 18
+  torch_tensor_get_batch: 36
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 18
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 18
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+8.445172309875488
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 315
+  torch_dispatch: 19
+  torch_tensor_clone: 148
+  torch_tensor_cross_entropy: 19
+  torch_tensor_get_batch: 38
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 19
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 19
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+Step Loss:
+8.203454971313477
+[ MPSFloatType{} ]
+[DEBUG] live_tensors_.size() = 327
+  torch_dispatch: 20
+  torch_tensor_clone: 154
+  torch_tensor_cross_entropy: 20
+  torch_tensor_get_batch: 40
+  torch_tensor_load_i16: 1
+  torch_tensor_ones2: 7
+  torch_tensor_randint: 20
+  torch_tensor_random2: 32
+  torch_tensor_scale: 6
+  torch_tensor_view2: 20
+  torch_tensor_zeros2: 7
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::gelu (num_args=1)
+[DISPATCH] aten::matmul (num_args=2)
+[DISPATCH] aten::add (num_args=2)
+libc++abi: terminating due to uncaught exception of type c10::Error: MPS backend out of memory (MPS allocated: 18.69 GiB, other allocations: 794.72 MiB, max allowed: 20.13 GiB). Tried to allocate 785.27 MiB on shared pool. Use PYTORCH_MPS_HIGH_WATERMARK_RATIO=0.0 to disable upper limit for memory allocations (may cause system failure).
+Exception raised from alloc_buffer_block at /Users/runner/work/pytorch/pytorch/aten/src/ATen/mps/MPSAllocator.mm:286 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char>>) + 52 (0x104f40b10 in libc10.dylib)
+frame #1: c10::detail::torchCheckFail(char const*, char const*, unsigned int, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char>> const&) + 120 (0x104f3df44 in libc10.dylib)
+frame #2: at::mps::HeapAllocator::MPSHeapAllocatorImpl::alloc_buffer_block(unsigned long, unsigned int) + 1116 (0x11db45cd4 in libtorch_cpu.dylib)
+frame #3: at::mps::MPSAllocator::allocate(unsigned long) + 84 (0x11db4983c in libtorch_cpu.dylib)
+frame #4: at::native::resize_impl_mps_(c10::TensorImpl*, c10::ArrayRef<long long>, std::__1::optional<c10::ArrayRef<long long>>, bool) + 344 (0x11db601a4 in libtorch_cpu.dylib)
+frame #5: at::native::empty_strided_mps(c10::ArrayRef<long long>, c10::ArrayRef<long long>, std::__1::optional<c10::ScalarType>, std::__1::optional<c10::Layout>, std::__1::optional<c10::Device>, std::__1::optional<bool>) + 284 (0x11db5ff68 in libtorch_cpu.dylib)
+frame #6: at::_ops::empty_strided::redispatch(c10::DispatchKeySet, c10::ArrayRef<c10::SymInt>, c10::ArrayRef<c10::SymInt>, std::__1::optional<c10::ScalarType>, std::__1::optional<c10::Layout>, std::__1::optional<c10::Device>, std::__1::optional<bool>) + 172 (0x11a08dc20 in libtorch_cpu.dylib)
+frame #7: at::_ops::empty_strided::call(c10::ArrayRef<c10::SymInt>, c10::ArrayRef<c10::SymInt>, std::__1::optional<c10::ScalarType>, std::__1::optional<c10::Layout>, std::__1::optional<c10::Device>, std::__1::optional<bool>) + 340 (0x11a08c8e4 in libtorch_cpu.dylib)
+frame #8: at::native::empty_like(at::Tensor const&, std::__1::optional<c10::ScalarType>, std::__1::optional<c10::Layout>, std::__1::optional<c10::Device>, std::__1::optional<bool>, std::__1::optional<c10::MemoryFormat>) + 576 (0x11992a164 in libtorch_cpu.dylib)
+frame #9: at::_ops::empty_like::call(at::Tensor const&, std::__1::optional<c10::ScalarType>, std::__1::optional<c10::Layout>, std::__1::optional<c10::Device>, std::__1::optional<bool>, std::__1::optional<c10::MemoryFormat>) + 340 (0x11a22894c in libtorch_cpu.dylib)
+frame #10: at::native::mps::nllnd_loss_forward_impl(at::Tensor&, at::Tensor&, at::Tensor const&, at::Tensor const&, at::Tensor const&, long long, long long, bool) + 444 (0x11dc4b884 in libtorch_cpu.dylib)
+frame #11: at::(anonymous namespace)::wrapper_MPS_nll_loss_forward(at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, long long) + 208 (0x11ae0de44 in libtorch_cpu.dylib)
+frame #12: std::__1::tuple<at::Tensor, at::Tensor> c10::Dispatcher::redispatch<std::__1::tuple<at::Tensor, at::Tensor>, at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt>(c10::TypedOperatorHandle<std::__1::tuple<at::Tensor, at::Tensor> (at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt)> const&, c10::DispatchKeySet, at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt) const + 252 (0x119f8f0ac in libtorch_cpu.dylib)
+frame #13: at::_ops::nll_loss_forward::redispatch(c10::DispatchKeySet, at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt) + 164 (0x11a1517cc in libtorch_cpu.dylib)
+frame #14: c10::impl::wrap_kernel_functor_unboxed_<c10::impl::detail::WrapFunctionIntoFunctor_<c10::CompileTimeFunctionPointer<std::__1::tuple<at::Tensor, at::Tensor> (c10::DispatchKeySet, at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt), &torch::autograd::VariableType::(anonymous namespace)::nll_loss_forward(c10::DispatchKeySet, at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt)>, std::__1::tuple<at::Tensor, at::Tensor>, c10::guts::typelist::typelist<c10::DispatchKeySet, at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt>>, std::__1::tuple<at::Tensor, at::Tensor> (c10::DispatchKeySet, at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt)>::call(c10::OperatorKernel*, c10::DispatchKeySet, at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt) + 968 (0x11c37a5cc in libtorch_cpu.dylib)
+frame #15: at::_ops::nll_loss_forward::call(at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt) + 396 (0x11a1512e0 in libtorch_cpu.dylib)
+frame #16: at::native::nll_loss_symint(at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt) + 72 (0x1197630b0 in libtorch_cpu.dylib)
+frame #17: c10::impl::wrap_kernel_functor_unboxed_<c10::impl::detail::WrapFunctionIntoFunctor_<c10::CompileTimeFunctionPointer<at::Tensor (at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt), &at::(anonymous namespace)::(anonymous namespace)::wrapper_CompositeImplicitAutograd__nll_loss(at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt)>, at::Tensor, c10::guts::typelist::typelist<at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt>>, at::Tensor (at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt)>::call(c10::OperatorKernel*, c10::DispatchKeySet, at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt) + 88 (0x11a8ff964 in libtorch_cpu.dylib)
+frame #18: at::_ops::nll_loss::call(at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt) + 396 (0x11a2a42d8 in libtorch_cpu.dylib)
+frame #19: at::native::nll_loss_nd_symint(at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt) + 620 (0x11976342c in libtorch_cpu.dylib)
+frame #20: c10::impl::wrap_kernel_functor_unboxed_<c10::impl::detail::WrapFunctionIntoFunctor_<c10::CompileTimeFunctionPointer<at::Tensor (at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt), &at::(anonymous namespace)::(anonymous namespace)::wrapper_CompositeImplicitAutograd__nll_loss_nd(at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt)>, at::Tensor, c10::guts::typelist::typelist<at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt>>, at::Tensor (at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt)>::call(c10::OperatorKernel*, c10::DispatchKeySet, at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt) + 88 (0x11a9009e0 in libtorch_cpu.dylib)
+frame #21: at::_ops::nll_loss_nd::call(at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt) + 396 (0x119f88c30 in libtorch_cpu.dylib)
+frame #22: at::native::cross_entropy_loss_symint(at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt, double) + 1104 (0x119760924 in libtorch_cpu.dylib)
+frame #23: c10::impl::wrap_kernel_functor_unboxed_<c10::impl::detail::WrapFunctionIntoFunctor_<c10::CompileTimeFunctionPointer<at::Tensor (at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt, double), &at::(anonymous namespace)::(anonymous namespace)::wrapper_CompositeImplicitAutograd__cross_entropy_loss(at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt, double)>, at::Tensor, c10::guts::typelist::typelist<at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt, double>>, at::Tensor (at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt, double)>::call(c10::OperatorKernel*, c10::DispatchKeySet, at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt, double) + 92 (0x11a8f4c38 in libtorch_cpu.dylib)
+frame #24: at::_ops::cross_entropy_loss::call(at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, c10::SymInt, double) + 408 (0x11a289ea8 in libtorch_cpu.dylib)
+frame #25: at::cross_entropy_loss(at::Tensor const&, at::Tensor const&, std::__1::optional<at::Tensor> const&, long long, long long, double) + 124 (0x104ca80f8 in libmlcc_runtime.dylib)
+frame #26: torch::nn::functional::detail::cross_entropy(at::Tensor const&, at::Tensor const&, at::Tensor const&, long long, std::__1::variant<torch::enumtype::kNone, torch::enumtype::kMean, torch::enumtype::kSum>, double) + 136 (0x104ca7fe8 in libmlcc_runtime.dylib)
+frame #27: torch::nn::functional::cross_entropy(at::Tensor const&, at::Tensor const&, torch::nn::CrossEntropyLossOptions const&) + 136 (0x104c861f4 in libmlcc_runtime.dylib)
+frame #28: torch_tensor_cross_entropy + 512 (0x104c85fd0 in libmlcc_runtime.dylib)
+frame #29: TRAIN + 744 (0x104b9d408 in ngt)
+frame #30: main + 1792 (0x104b9dccc in ngt)
+frame #31: start + 6992 (0x182de7e00 in dyld)
+
+[DISPATCH] aten::matmul (num_args=2)

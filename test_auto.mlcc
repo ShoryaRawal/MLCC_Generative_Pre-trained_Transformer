@@ -1,0 +1,8 @@
+MODULE TestAuto
+SUBROUTINE MAIN()
+    FOR i IN 0..10
+        AUTO :: x = RANDOM2(1, 1)
+        PRINT(x)
+    END FOR
+END SUBROUTINE
+END MODULE

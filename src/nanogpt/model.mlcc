@@ -3,53 +3,120 @@ MODULE NanoGPTModel
 STRUCT NanoGPTWeights
     TENSOR :: wte
     TENSOR :: wpe
-    TENSOR :: ln_1_w
-    TENSOR :: ln_1_b
-    TENSOR :: attn_q_w
-    TENSOR :: attn_k_w
-    TENSOR :: attn_v_w
-    TENSOR :: attn_proj_w
-    TENSOR :: ln_2_w
-    TENSOR :: ln_2_b
-    TENSOR :: mlp_fc_w
-    TENSOR :: mlp_proj_w
+    
+    TENSOR :: l0_ln_1_w
+    TENSOR :: l0_ln_1_b
+    TENSOR :: l0_attn_q_w
+    TENSOR :: l0_attn_k_w
+    TENSOR :: l0_attn_v_w
+    TENSOR :: l0_attn_proj_w
+    TENSOR :: l0_ln_2_w
+    TENSOR :: l0_ln_2_b
+    TENSOR :: l0_mlp_fc_w
+    TENSOR :: l0_mlp_proj_w
+
+    TENSOR :: l1_ln_1_w
+    TENSOR :: l1_ln_1_b
+    TENSOR :: l1_attn_q_w
+    TENSOR :: l1_attn_k_w
+    TENSOR :: l1_attn_v_w
+    TENSOR :: l1_attn_proj_w
+    TENSOR :: l1_ln_2_w
+    TENSOR :: l1_ln_2_b
+    TENSOR :: l1_mlp_fc_w
+    TENSOR :: l1_mlp_proj_w
+
+    TENSOR :: l2_ln_1_w
+    TENSOR :: l2_ln_1_b
+    TENSOR :: l2_attn_q_w
+    TENSOR :: l2_attn_k_w
+    TENSOR :: l2_attn_v_w
+    TENSOR :: l2_attn_proj_w
+    TENSOR :: l2_ln_2_w
+    TENSOR :: l2_ln_2_b
+    TENSOR :: l2_mlp_fc_w
+    TENSOR :: l2_mlp_proj_w
+    
     TENSOR :: ln_f_w
     TENSOR :: ln_f_b
-    TENSOR :: lm_head_w
 END STRUCT
 
-
-
-SUBROUTINE TRANSFORMER_BLOCK(x: TENSOR, weights: STRUCT(NanoGPTWeights))
-    AUTO :: h_norm = LAYER_NORM(x, weights.ln_1_w, weights.ln_1_b)
+SUBROUTINE TRANSFORMER_BLOCK(x: TENSOR, B: INTEGER, T: INTEGER, ln_1_w: TENSOR, ln_1_b: TENSOR, attn_q_w: TENSOR, attn_k_w: TENSOR, attn_v_w: TENSOR, attn_proj_w: TENSOR, ln_2_w: TENSOR, ln_2_b: TENSOR, mlp_fc_w: TENSOR, mlp_proj_w: TENSOR)
+    AUTO :: h_norm = LAYER_NORM(x, ln_1_w, ln_1_b)
     
-    AUTO :: q = MATMUL(h_norm, weights.attn_q_w)
-    AUTO :: k = MATMUL(h_norm, weights.attn_k_w)
-    AUTO :: v = MATMUL(h_norm, weights.attn_v_w)
+    AUTO :: q = MATMUL(h_norm, attn_q_w)
+    AUTO :: k = MATMUL(h_norm, attn_k_w)
+    AUTO :: v = MATMUL(h_norm, attn_v_w)
     
-    AUTO :: attn_out = ATTENTION(q, k, v)
-    AUTO :: attn_proj = MATMUL(attn_out, weights.attn_proj_w)
+    AUTO :: q_mh = VIEW4(q, B, T, 6, 64)
+    AUTO :: k_mh = VIEW4(k, B, T, 6, 64)
+    AUTO :: v_mh = VIEW4(v, B, T, 6, 64)
+    
+    AUTO :: q_mh_t = TRANSPOSE(q_mh, 1, 2)
+    AUTO :: k_mh_t = TRANSPOSE(k_mh, 1, 2)
+    AUTO :: v_mh_t = TRANSPOSE(v_mh, 1, 2)
+    
+    AUTO :: attn_out_mh = ATTENTION(q_mh_t, k_mh_t, v_mh_t)
+    AUTO :: attn_out_mh_t = TRANSPOSE(attn_out_mh, 1, 2)
+    AUTO :: attn_out = VIEW3(attn_out_mh_t, B, T, 384)
+    
+    AUTO :: attn_proj = MATMUL(attn_out, attn_proj_w)
     AUTO :: h = x + attn_proj
     
-    AUTO :: h_norm2 = LAYER_NORM(h, weights.ln_2_w, weights.ln_2_b)
+    AUTO :: h_norm2 = LAYER_NORM(h, ln_2_w, ln_2_b)
     
-    AUTO :: mlp_fc = MATMUL(h_norm2, weights.mlp_fc_w)
+    AUTO :: mlp_fc = MATMUL(h_norm2, mlp_fc_w)
     AUTO :: mlp_act = GELU(mlp_fc)
-    AUTO :: mlp_proj = MATMUL(mlp_act, weights.mlp_proj_w)
+    AUTO :: mlp_proj = MATMUL(mlp_act, mlp_proj_w)
     AUTO :: out = h + mlp_proj
+    
+    FREE(h_norm)
+    FREE(q)
+    FREE(k)
+    FREE(v)
+    FREE(q_mh)
+    FREE(k_mh)
+    FREE(v_mh)
+    FREE(q_mh_t)
+    FREE(k_mh_t)
+    FREE(v_mh_t)
+    FREE(attn_out_mh)
+    FREE(attn_out_mh_t)
+    FREE(attn_out)
+    FREE(attn_proj)
+    FREE(h)
+    FREE(h_norm2)
+    FREE(mlp_fc)
+    FREE(mlp_act)
+    FREE(mlp_proj)
     
     RETURN out
 END SUBROUTINE
 
-SUBROUTINE TRANSFORMER_FORWARD(x: TENSOR, weights: STRUCT(NanoGPTWeights), T: INTEGER)
+SUBROUTINE TRANSFORMER_FORWARD(x: TENSOR, weights: STRUCT(NanoGPTWeights), B: INTEGER, T: INTEGER)
     AUTO :: tok_emb = EMBEDDING(weights.wte, x)
     AUTO :: wpe_sliced = SLICE(weights.wpe, 0, 0, T)
     AUTO :: h = tok_emb + wpe_sliced
     
-    h = TRANSFORMER_BLOCK(h, weights)
+    AUTO :: h1 = TRANSFORMER_BLOCK(h, B, T, weights.l0_ln_1_w, weights.l0_ln_1_b, weights.l0_attn_q_w, weights.l0_attn_k_w, weights.l0_attn_v_w, weights.l0_attn_proj_w, weights.l0_ln_2_w, weights.l0_ln_2_b, weights.l0_mlp_fc_w, weights.l0_mlp_proj_w)
+    AUTO :: h2 = TRANSFORMER_BLOCK(h1, B, T, weights.l1_ln_1_w, weights.l1_ln_1_b, weights.l1_attn_q_w, weights.l1_attn_k_w, weights.l1_attn_v_w, weights.l1_attn_proj_w, weights.l1_ln_2_w, weights.l1_ln_2_b, weights.l1_mlp_fc_w, weights.l1_mlp_proj_w)
+    AUTO :: h3 = TRANSFORMER_BLOCK(h2, B, T, weights.l2_ln_1_w, weights.l2_ln_1_b, weights.l2_attn_q_w, weights.l2_attn_k_w, weights.l2_attn_v_w, weights.l2_attn_proj_w, weights.l2_ln_2_w, weights.l2_ln_2_b, weights.l2_mlp_fc_w, weights.l2_mlp_proj_w)
     
-    AUTO :: h_norm_f = LAYER_NORM(h, weights.ln_f_w, weights.ln_f_b)
-    AUTO :: logits = MATMUL(h_norm_f, weights.lm_head_w)
+    AUTO :: h_norm_f = LAYER_NORM(h3, weights.ln_f_w, weights.ln_f_b)
+    
+    AUTO :: lm_head_w_tied = TRANSPOSE(weights.wte, 0, 1)
+    AUTO :: logits = MATMUL(h_norm_f, lm_head_w_tied)
+    
+    DEBUG_TENSORS()
+    FREE(lm_head_w_tied)
+    FREE(tok_emb)
+    FREE(wpe_sliced)
+    FREE(h)
+    FREE(h1)
+    FREE(h2)
+    FREE(h3)
+    FREE(h_norm_f)
+    DEBUG_TENSORS()
     
     RETURN logits
 END SUBROUTINE

@@ -1,0 +1,69 @@
+Starting NanoGPT (OpenWebText)
+Loading OpenWebText data (using mmap)...
+Step Loss:
+10.824740409851074
+[ CPUFloatType{} ]
+Saving checkpoint...
+Step Loss:
+10.817952156066895
+[ CPUFloatType{} ]
+Step Loss:
+10.812052726745605
+[ CPUFloatType{} ]
+Step Loss:
+10.805944442749023
+[ CPUFloatType{} ]
+Step Loss:
+10.800848007202148
+[ CPUFloatType{} ]
+Step Loss:
+10.794631004333496
+[ CPUFloatType{} ]
+Step Loss:
+10.790863037109375
+[ CPUFloatType{} ]
+Step Loss:
+10.784972190856934
+[ CPUFloatType{} ]
+Step Loss:
+10.781791687011719
+[ CPUFloatType{} ]
+Step Loss:
+10.777121543884277
+[ CPUFloatType{} ]
+Step Loss:
+10.768099784851074
+[ CPUFloatType{} ]
+Step Loss:
+10.767289161682129
+[ CPUFloatType{} ]
+Step Loss:
+10.756769180297852
+[ CPUFloatType{} ]
+Step Loss:
+10.750804901123047
+[ CPUFloatType{} ]
+Step Loss:
+10.74200439453125
+[ CPUFloatType{} ]
+Step Loss:
+10.73311710357666
+[ CPUFloatType{} ]
+Step Loss:
+10.731467247009277
+[ CPUFloatType{} ]
+Step Loss:
+10.726058959960938
+[ CPUFloatType{} ]
+Step Loss:
+10.727173805236816
+[ CPUFloatType{} ]
+Step Loss:
+10.703782081604004
+[ CPUFloatType{} ]
+Step Loss:
+10.698081016540527
+[ CPUFloatType{} ]
+Step Loss:
+10.693628311157227
+[ CPUFloatType{} ]

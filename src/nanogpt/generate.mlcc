@@ -1,26 +1,44 @@
 MODULE NanoGPTGenerate
 
-SUBROUTINE GENERATE(weights: STRUCT(NanoGPTWeights), vocab_size: INTEGER, max_steps: INTEGER)
-    PRINT("Generating text...")
-    
-    AUTO :: ctx = LOAD_I16("Data/shakespeare/train.bin", 1)
-    ctx = VIEW2(ctx, 1, 1)
-    
+SUBROUTINE GENERATE(weights: STRUCT(NanoGPTWeights), vocab_size: INTEGER, max_steps: INTEGER, ctx: TENSOR)
     AUTO :: step = 0
+    AUTO :: seq_len = 0
     AUTO :: logits = RANDOM2(1, 1)
     AUTO :: logits_flat = RANDOM2(1, 1)
+    AUTO :: last_logit = RANDOM2(1, 1)
     AUTO :: probs = RANDOM2(1, 1)
     AUTO :: next_tok = RANDOM2(1, 1)
+    AUTO :: MAX_SEQ_LEN = 128
+    
+    AUTO :: old_ctx = RANDOM2(1, 1)
+    AUTO :: old_ctx_2 = RANDOM2(1, 1)
 
     FOR step IN 0..max_steps
-        logits = TRANSFORMER_FORWARD(ctx, weights, 1)
+        old_ctx = ctx
+        ctx = SLICE_CTX(ctx, MAX_SEQ_LEN)
+        FREE(old_ctx)
         
-        logits_flat = VIEW2(logits, 1, vocab_size)
-        probs = SOFTMAX(logits_flat)
+        seq_len = SIZE(ctx, 1)
+        
+        logits = TRANSFORMER_FORWARD(ctx, weights, 1, seq_len)
+        
+        logits_flat = VIEW2(logits, seq_len, vocab_size)
+        last_logit = SLICE(logits_flat, 0, seq_len - 1, seq_len)
+        last_logit = SCALE(last_logit, 1.25)
+        probs = SOFTMAX(last_logit)
         next_tok = MULTINOMIAL(probs, 1)
         
         PRINT_TOKEN(next_tok)
-        ctx = CLONE(next_tok)
+        
+        old_ctx_2 = ctx
+        ctx = CAT(ctx, next_tok, 1)
+        FREE(old_ctx_2)
+        
+        FREE(logits)
+        FREE(logits_flat)
+        FREE(last_logit)
+        FREE(probs)
+        FREE(next_tok)
     END FOR
 END SUBROUTINE
 

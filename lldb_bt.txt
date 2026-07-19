@@ -1,0 +1,5 @@
+(lldb) target create "./compiler/build/my_compiler"
+Current executable set to '/Users/shoryarawal/Generative_Pre-trained_Transformer/compiler/build/my_compiler' (arm64).
+(lldb) settings set -- target.run-args  "src/nanogpt/model.mlcc" "src/nanogpt/generate.mlcc" "src/nanogpt/train.mlcc" "src/nanogpt/main_test.mlcc" "-o" "ngt"
+(lldb) run
+error: process exited with status -1 (attach failed (attached to process, but could not pause execution; attach failed))

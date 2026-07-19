@@ -1,0 +1,36 @@
+Starting NanoGPT (OpenWebText)
+Loading OpenWebText data (using mmap)...
+Step Loss:
+10.825444221496582
+[ CPUFloatType{} ]
+Saving checkpoint...
+Step Loss:
+10.81850528717041
+[ CPUFloatType{} ]
+Step Loss:
+10.8125638961792
+[ CPUFloatType{} ]
+Step Loss:
+10.806855201721191
+[ CPUFloatType{} ]
+Step Loss:
+10.801097869873047
+[ CPUFloatType{} ]
+Step Loss:
+10.79499626159668
+[ CPUFloatType{} ]
+Step Loss:
+10.790936470031738
+[ CPUFloatType{} ]
+Step Loss:
+10.786137580871582
+[ CPUFloatType{} ]
+Step Loss:
+10.782354354858398
+[ CPUFloatType{} ]
+Step Loss:
+10.777202606201172
+[ CPUFloatType{} ]
+Step Loss:
+10.769159317016602
+[ CPUFloatType{} ]
