@@ -1,0 +1,107 @@
+MODULE NanoGPTMain
+
+SUBROUTINE main()
+    PRINT("Starting GPT (OpenWebText)")
+    
+    AUTO :: B = 32
+    AUTO :: T = 128
+    AUTO :: C = 384
+    AUTO :: vocab_size = 50257
+    
+    STRUCT(NanoGPTWeights) :: weights
+    weights.wte = RANDOM2(vocab_size, C)
+    weights.wpe = RANDOM2(1024, C)
+    
+    weights.l0_ln_1_w = ONES2(C, 1)
+    weights.l0_ln_1_b = ZEROS2(C, 1)
+    weights.l0_attn_q_w = RANDOM2(C, C)
+    weights.l0_attn_k_w = RANDOM2(C, C)
+    weights.l0_attn_v_w = RANDOM2(C, C)
+    weights.l0_attn_proj_w = RANDOM2_SCALED(C, C, 0.408248)
+    weights.l0_ln_2_w = ONES2(C, 1)
+    weights.l0_ln_2_b = ZEROS2(C, 1)
+    weights.l0_mlp_fc_w = RANDOM2(C, C * 4)
+    weights.l0_mlp_proj_w = RANDOM2_SCALED(C * 4, C, 0.408248)
+
+    weights.l1_ln_1_w = ONES2(C, 1)
+    weights.l1_ln_1_b = ZEROS2(C, 1)
+    weights.l1_attn_q_w = RANDOM2(C, C)
+    weights.l1_attn_k_w = RANDOM2(C, C)
+    weights.l1_attn_v_w = RANDOM2(C, C)
+    weights.l1_attn_proj_w = RANDOM2_SCALED(C, C, 0.408248)
+    weights.l1_ln_2_w = ONES2(C, 1)
+    weights.l1_ln_2_b = ZEROS2(C, 1)
+    weights.l1_mlp_fc_w = RANDOM2(C, C * 4)
+    weights.l1_mlp_proj_w = RANDOM2_SCALED(C * 4, C, 0.408248)
+
+    weights.l2_ln_1_w = ONES2(C, 1)
+    weights.l2_ln_1_b = ZEROS2(C, 1)
+    weights.l2_attn_q_w = RANDOM2(C, C)
+    weights.l2_attn_k_w = RANDOM2(C, C)
+    weights.l2_attn_v_w = RANDOM2(C, C)
+    weights.l2_attn_proj_w = RANDOM2_SCALED(C, C, 0.408248)
+    weights.l2_ln_2_w = ONES2(C, 1)
+    weights.l2_ln_2_b = ZEROS2(C, 1)
+    weights.l2_mlp_fc_w = RANDOM2(C, C * 4)
+    weights.l2_mlp_proj_w = RANDOM2_SCALED(C * 4, C, 0.408248)
+
+    weights.ln_f_w = ONES2(C, 1)
+    weights.ln_f_b = ZEROS2(C, 1)
+
+    REQUIRES_GRAD(weights.wte, 1)
+    REQUIRES_GRAD(weights.wpe, 1)
+    
+    REQUIRES_GRAD(weights.l0_ln_1_w, 1)
+    REQUIRES_GRAD(weights.l0_ln_1_b, 1)
+    REQUIRES_GRAD(weights.l0_attn_q_w, 1)
+    REQUIRES_GRAD(weights.l0_attn_k_w, 1)
+    REQUIRES_GRAD(weights.l0_attn_v_w, 1)
+    REQUIRES_GRAD(weights.l0_attn_proj_w, 1)
+    REQUIRES_GRAD(weights.l0_ln_2_w, 1)
+    REQUIRES_GRAD(weights.l0_ln_2_b, 1)
+    REQUIRES_GRAD(weights.l0_mlp_fc_w, 1)
+    REQUIRES_GRAD(weights.l0_mlp_proj_w, 1)
+
+    REQUIRES_GRAD(weights.l1_ln_1_w, 1)
+    REQUIRES_GRAD(weights.l1_ln_1_b, 1)
+    REQUIRES_GRAD(weights.l1_attn_q_w, 1)
+    REQUIRES_GRAD(weights.l1_attn_k_w, 1)
+    REQUIRES_GRAD(weights.l1_attn_v_w, 1)
+    REQUIRES_GRAD(weights.l1_attn_proj_w, 1)
+    REQUIRES_GRAD(weights.l1_ln_2_w, 1)
+    REQUIRES_GRAD(weights.l1_ln_2_b, 1)
+    REQUIRES_GRAD(weights.l1_mlp_fc_w, 1)
+    REQUIRES_GRAD(weights.l1_mlp_proj_w, 1)
+
+    REQUIRES_GRAD(weights.l2_ln_1_w, 1)
+    REQUIRES_GRAD(weights.l2_ln_1_b, 1)
+    REQUIRES_GRAD(weights.l2_attn_q_w, 1)
+    REQUIRES_GRAD(weights.l2_attn_k_w, 1)
+    REQUIRES_GRAD(weights.l2_attn_v_w, 1)
+    REQUIRES_GRAD(weights.l2_attn_proj_w, 1)
+    REQUIRES_GRAD(weights.l2_ln_2_w, 1)
+    REQUIRES_GRAD(weights.l2_ln_2_b, 1)
+    REQUIRES_GRAD(weights.l2_mlp_fc_w, 1)
+    REQUIRES_GRAD(weights.l2_mlp_proj_w, 1)
+
+    REQUIRES_GRAD(weights.ln_f_w, 1)
+    REQUIRES_GRAD(weights.ln_f_b, 1)
+    
+    AUTO :: optim = ADAMW(weights.wte, weights.wpe, weights.l0_ln_1_w, weights.l0_ln_1_b, weights.l0_attn_q_w, weights.l0_attn_k_w, weights.l0_attn_v_w, weights.l0_attn_proj_w, weights.l0_ln_2_w, weights.l0_ln_2_b, weights.l0_mlp_fc_w, weights.l0_mlp_proj_w, weights.l1_ln_1_w, weights.l1_ln_1_b, weights.l1_attn_q_w, weights.l1_attn_k_w, weights.l1_attn_v_w, weights.l1_attn_proj_w, weights.l1_ln_2_w, weights.l1_ln_2_b, weights.l1_mlp_fc_w, weights.l1_mlp_proj_w, weights.l2_ln_1_w, weights.l2_ln_1_b, weights.l2_attn_q_w, weights.l2_attn_k_w, weights.l2_attn_v_w, weights.l2_attn_proj_w, weights.l2_ln_2_w, weights.l2_ln_2_b, weights.l2_mlp_fc_w, weights.l2_mlp_proj_w, weights.ln_f_w, weights.ln_f_b, 0.0003)
+
+    AUTO :: epochs = 10000
+    TRAIN(weights, optim, B, T, epochs, vocab_size)
+    
+    AUTO :: max_steps = 20
+    AUTO :: i = 0
+    AUTO :: ctx = RANDOM2(1, 1)
+
+    PRINT("\nStarting interactive prompt loop (Press Ctrl+C to exit)...")
+    FOR i IN 0..100
+        ctx = PROMPT_ENCODE("\nUser: ")
+        PRINT("GPT: ")
+        GENERATE(weights, vocab_size, max_steps, ctx)
+    END FOR
+END SUBROUTINE
+
+END MODULE

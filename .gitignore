@@ -2,3 +2,6 @@
 /.venv/
 /compiler/
 /examples/
+Data/openwebtext/data/
+/checkpoints/
+*.bin
