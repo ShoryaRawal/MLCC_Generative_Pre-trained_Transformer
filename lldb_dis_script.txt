@@ -1,0 +1,3 @@
+target create "./compiler/build/a.out"
+disassemble -n GENERATE
+quit

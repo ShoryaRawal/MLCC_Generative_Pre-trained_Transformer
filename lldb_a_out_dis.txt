@@ -1,0 +1,5 @@
+(lldb) target create "compiler/build/a.out"
+Current executable set to '/Users/shoryarawal/Generative_Pre-trained_Transformer/compiler/build/a.out' (arm64).
+(lldb) command source -s 0 'lldb_a_out.txt'
+Executing commands in '/Users/shoryarawal/Generative_Pre-trained_Transformer/lldb_a_out.txt'.
+(lldb) disassemble -n _main

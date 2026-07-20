@@ -1,0 +1,11 @@
+--- compiler/src/main.cpp
++++ compiler/src/main.cpp
+@@ -124,2 +124,8 @@
+ 
++        std::error_code EC3;
++        llvm::raw_fd_ostream os3("llvm_ir.ll", EC3);
++        if (!EC3) {
++            llvmModule->print(os3, nullptr);
++        }
++
+         // Output object file

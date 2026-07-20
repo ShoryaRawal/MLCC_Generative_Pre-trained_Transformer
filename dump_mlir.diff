@@ -1,0 +1,11 @@
+--- compiler/src/main.cpp
++++ compiler/src/main.cpp
+@@ -101,2 +101,8 @@
+         printf("After MLIRGen\n"); fflush(stdout); mlir::ModuleOp mlirModule = mlirgen::getGeneratedModule();
++
++        std::error_code EC;
++        llvm::raw_fd_ostream os("mlir_dump.mlir", EC);
++        if (!EC) {
++            mlirModule.print(os);
++        }
++

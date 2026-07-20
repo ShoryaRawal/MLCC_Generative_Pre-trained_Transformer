@@ -1,0 +1,3 @@
+disassemble -n _main
+disassemble -n GENERATE
+quit

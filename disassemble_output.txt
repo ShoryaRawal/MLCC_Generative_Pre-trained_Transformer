@@ -1,0 +1,189 @@
+(lldb) command source -s 0 'lldb_dis_script.txt'
+Executing commands in '/Users/shoryarawal/Generative_Pre-trained_Transformer/lldb_dis_script.txt'.
+(lldb) target create "./compiler/build/a.out"
+Current executable set to '/Users/shoryarawal/Generative_Pre-trained_Transformer/compiler/build/a.out' (arm64).
+(lldb) disassemble -n GENERATE
+a.out`GENERATE:
+a.out[0x1000011e0] <+0>:   stp    x24, x23, [sp, #-0x40]!
+a.out[0x1000011e4] <+4>:   stp    x22, x21, [sp, #0x10]
+a.out[0x1000011e8] <+8>:   stp    x20, x19, [sp, #0x20]
+a.out[0x1000011ec] <+12>:  stp    x29, x30, [sp, #0x30]
+a.out[0x1000011f0] <+16>:  add    x29, sp, #0x30
+a.out[0x1000011f4] <+20>:  sub    sp, sp, #0x90
+a.out[0x1000011f8] <+24>:  stp    x2, x1, [x29, #-0x48]
+a.out[0x1000011fc] <+28>:  mov    w1, #0x1                  ; =1 
+a.out[0x100001200] <+32>:  mov    w21, #0x1                 ; =1 
+a.out[0x100001204] <+36>:  stur   x0, [x29, #-0x38]
+a.out[0x100001208] <+40>:  mov    w0, #0x1                  ; =1 
+a.out[0x10000120c] <+44>:  stp    x4, x3, [x29, #-0x58]
+a.out[0x100001210] <+48>:  stp    x6, x5, [x29, #-0x68]
+a.out[0x100001214] <+52>:  stp    xzr, x7, [x29, #-0x78]
+a.out[0x100001218] <+56>:  stur   xzr, [x29, #-0x80]
+a.out[0x10000121c] <+60>:  bl     0x100001ae4               ; symbol stub for: torch_tensor_random2
+a.out[0x100001220] <+64>:  stur   x0, [x29, #-0x88]
+a.out[0x100001224] <+68>:  mov    w0, #0x1                  ; =1 
+a.out[0x100001228] <+72>:  mov    w1, #0x1                  ; =1 
+a.out[0x10000122c] <+76>:  bl     0x100001ae4               ; symbol stub for: torch_tensor_random2
+a.out[0x100001230] <+80>:  stur   x0, [x29, #-0x90]
+a.out[0x100001234] <+84>:  mov    w0, #0x1                  ; =1 
+a.out[0x100001238] <+88>:  mov    w1, #0x1                  ; =1 
+a.out[0x10000123c] <+92>:  bl     0x100001ae4               ; symbol stub for: torch_tensor_random2
+a.out[0x100001240] <+96>:  stur   x0, [x29, #-0x98]
+a.out[0x100001244] <+100>: mov    w0, #0x1                  ; =1 
+a.out[0x100001248] <+104>: mov    w1, #0x1                  ; =1 
+a.out[0x10000124c] <+108>: bl     0x100001ae4               ; symbol stub for: torch_tensor_random2
+a.out[0x100001250] <+112>: stur   x0, [x29, #-0xa0]
+a.out[0x100001254] <+116>: mov    w0, #0x1                  ; =1 
+a.out[0x100001258] <+120>: mov    w1, #0x1                  ; =1 
+a.out[0x10000125c] <+124>: bl     0x100001ae4               ; symbol stub for: torch_tensor_random2
+a.out[0x100001260] <+128>: mov    w8, #0x80                 ; =128 
+a.out[0x100001264] <+132>: mov    w1, #0x1                  ; =1 
+a.out[0x100001268] <+136>: stp    x8, x0, [x29, #-0xb0]
+a.out[0x10000126c] <+140>: mov    w0, #0x1                  ; =1 
+a.out[0x100001270] <+144>: bl     0x100001ae4               ; symbol stub for: torch_tensor_random2
+a.out[0x100001274] <+148>: stur   x0, [x29, #-0xb8]
+a.out[0x100001278] <+152>: mov    w0, #0x1                  ; =1 
+a.out[0x10000127c] <+156>: mov    w1, #0x1                  ; =1 
+a.out[0x100001280] <+160>: bl     0x100001ae4               ; symbol stub for: torch_tensor_random2
+a.out[0x100001284] <+164>: ldr    x23, [x29, #0xe8]
+a.out[0x100001288] <+168>: mov    x22, xzr
+a.out[0x10000128c] <+172>: adrp   x19, 1
+a.out[0x100001290] <+176>: add    x19, x19, #0x2c           ; str_51
+a.out[0x100001294] <+180>: adrp   x20, 1
+a.out[0x100001298] <+184>: add    x20, x20, #0x22           ; str_52
+a.out[0x10000129c] <+188>: stur   x0, [x29, #-0xc0]
+a.out[0x1000012a0] <+192>: cmp    x22, x23
+a.out[0x1000012a4] <+196>: b.ge   0x100001464               ; <+644>
+a.out[0x1000012a8] <+200>: mov    x8, sp
+a.out[0x1000012ac] <+204>: sub    x9, x8, #0x10
+a.out[0x1000012b0] <+208>: mov    sp, x9
+a.out[0x1000012b4] <+212>: ldr    x9, [x29, #0xf0]
+a.out[0x1000012b8] <+216>: mov    x10, sp
+a.out[0x1000012bc] <+220>: stur   x22, [x8, #-0x10]
+a.out[0x1000012c0] <+224>: ldur   x8, [x29, #-0xb0]
+a.out[0x1000012c4] <+228>: sub    x1, x10, #0x10
+a.out[0x1000012c8] <+232>: stur   x9, [x29, #-0xb8]
+a.out[0x1000012cc] <+236>: mov    sp, x1
+a.out[0x1000012d0] <+240>: stur   x9, [x10, #-0x10]
+a.out[0x1000012d4] <+244>: mov    x9, sp
+a.out[0x1000012d8] <+248>: sub    x11, x9, #0x10
+a.out[0x1000012dc] <+252>: mov    sp, x11
+a.out[0x1000012e0] <+256>: mov    x0, x19
+a.out[0x1000012e4] <+260>: mov    w2, #0x2                  ; =2 
+a.out[0x1000012e8] <+264>: stur   x8, [x9, #-0x10]
+a.out[0x1000012ec] <+268>: stur   x11, [x10, #-0x8]
+a.out[0x1000012f0] <+272>: bl     0x1000019e8               ; symbol stub for: torch_dispatch
+a.out[0x1000012f4] <+276>: ldur   x8, [x29, #-0xb8]
+a.out[0x1000012f8] <+280>: str    x0, [x29, #0xf0]
+a.out[0x1000012fc] <+284>: mov    x0, x8
+a.out[0x100001300] <+288>: bl     0x100001a90               ; symbol stub for: torch_tensor_destroy
+a.out[0x100001304] <+292>: ldr    x0, [x29, #0xf0]
+a.out[0x100001308] <+296>: mov    w1, #0x1                  ; =1 
+a.out[0x10000130c] <+300>: bl     0x100001afc               ; symbol stub for: torch_tensor_size
+a.out[0x100001310] <+304>: ldp    x2, x1, [x29, #-0x40]
+a.out[0x100001314] <+308>: ldr    x8, [x29, #0xf0]
+a.out[0x100001318] <+312>: ldp    x4, x3, [x29, #-0x50]
+a.out[0x10000131c] <+316>: stur   x0, [x29, #-0x80]
+a.out[0x100001320] <+320>: ldp    x6, x5, [x29, #-0x60]
+a.out[0x100001324] <+324>: ldp    x9, x7, [x29, #-0x70]
+a.out[0x100001328] <+328>: ldp    q0, q1, [x29, #0x10]
+a.out[0x10000132c] <+332>: ldp    q2, q3, [x29, #0x30]
+a.out[0x100001330] <+336>: ldp    q4, q5, [x29, #0x50]
+a.out[0x100001334] <+340>: ldp    q6, q7, [x29, #0x70]
+a.out[0x100001338] <+344>: ldp    q16, q17, [x29, #0x90]
+a.out[0x10000133c] <+348>: ldp    q18, q19, [x29, #0xb0]
+a.out[0x100001340] <+352>: ldp    x10, x11, [x29, #0xd0]
+a.out[0x100001344] <+356>: sub    sp, sp, #0xf0
+a.out[0x100001348] <+360>: stp    x21, x0, [sp, #0xd8]
+a.out[0x10000134c] <+364>: mov    x0, x8
+a.out[0x100001350] <+368>: stp    x10, x11, [sp, #0xc8]
+a.out[0x100001354] <+372>: stur   q19, [sp, #0xb8]
+a.out[0x100001358] <+376>: stur   q18, [sp, #0xa8]
+a.out[0x10000135c] <+380>: stur   q17, [sp, #0x98]
+a.out[0x100001360] <+384>: stur   q16, [sp, #0x88]
+a.out[0x100001364] <+388>: stur   q7, [sp, #0x78]
+a.out[0x100001368] <+392>: stur   q6, [sp, #0x68]
+a.out[0x10000136c] <+396>: stur   q5, [sp, #0x58]
+a.out[0x100001370] <+400>: stur   q4, [sp, #0x48]
+a.out[0x100001374] <+404>: stur   q3, [sp, #0x38]
+a.out[0x100001378] <+408>: stur   q2, [sp, #0x28]
+a.out[0x10000137c] <+412>: stur   q1, [sp, #0x18]
+a.out[0x100001380] <+416>: stur   q0, [sp, #0x8]
+a.out[0x100001384] <+420>: str    x9, [sp]
+a.out[0x100001388] <+424>: bl     0x10000099c               ; TRANSFORMER_FORWARD
+a.out[0x10000138c] <+428>: add    sp, sp, #0xf0
+a.out[0x100001390] <+432>: ldur   x1, [x29, #-0x80]
+a.out[0x100001394] <+436>: ldr    x2, [x29, #0xe0]
+a.out[0x100001398] <+440>: stur   x0, [x29, #-0x88]
+a.out[0x10000139c] <+444>: bl     0x100001b2c               ; symbol stub for: torch_tensor_view2
+a.out[0x1000013a0] <+448>: ldur   x3, [x29, #-0x80]
+a.out[0x1000013a4] <+452>: mov    w1, wzr
+a.out[0x1000013a8] <+456>: mov    w4, #0x1                  ; =1 
+a.out[0x1000013ac] <+460>: stur   x0, [x29, #-0x90]
+a.out[0x1000013b0] <+464>: sub    x2, x3, #0x1
+a.out[0x1000013b4] <+468>: bl     0x100001b08               ; symbol stub for: torch_tensor_slice
+a.out[0x1000013b8] <+472>: fmov   s0, #1.25000000
+a.out[0x1000013bc] <+476>: stur   x0, [x29, #-0x98]
+a.out[0x1000013c0] <+480>: bl     0x100001af0               ; symbol stub for: torch_tensor_scale
+a.out[0x1000013c4] <+484>: mov    x1, #-0x1                 ; =-1 
+a.out[0x1000013c8] <+488>: stur   x0, [x29, #-0x98]
+a.out[0x1000013cc] <+492>: bl     0x100001b14               ; symbol stub for: torch_tensor_softmax
+a.out[0x1000013d0] <+496>: mov    w1, #0x1                  ; =1 
+a.out[0x1000013d4] <+500>: stur   x0, [x29, #-0xa0]
+a.out[0x1000013d8] <+504>: bl     0x100001acc               ; symbol stub for: torch_tensor_multinomial
+a.out[0x1000013dc] <+508>: stur   x0, [x29, #-0xa8]
+a.out[0x1000013e0] <+512>: bl     0x100001a48               ; symbol stub for: torch_print_token
+a.out[0x1000013e4] <+516>: ldr    x8, [x29, #0xf0]
+a.out[0x1000013e8] <+520>: mov    x10, sp
+a.out[0x1000013ec] <+524>: ldur   x9, [x29, #-0xa8]
+a.out[0x1000013f0] <+528>: sub    x1, x10, #0x20
+a.out[0x1000013f4] <+532>: stur   x8, [x29, #-0xc0]
+a.out[0x1000013f8] <+536>: mov    sp, x1
+a.out[0x1000013fc] <+540>: stp    x8, x9, [x10, #-0x20]
+a.out[0x100001400] <+544>: mov    x8, sp
+a.out[0x100001404] <+548>: sub    x9, x8, #0x10
+a.out[0x100001408] <+552>: mov    sp, x9
+a.out[0x10000140c] <+556>: mov    x0, x20
+a.out[0x100001410] <+560>: mov    w2, #0x3                  ; =3 
+a.out[0x100001414] <+564>: stur   x21, [x8, #-0x10]
+a.out[0x100001418] <+568>: stur   x9, [x10, #-0x10]
+a.out[0x10000141c] <+572>: bl     0x1000019e8               ; symbol stub for: torch_dispatch
+a.out[0x100001420] <+576>: ldur   x8, [x29, #-0xc0]
+a.out[0x100001424] <+580>: str    x0, [x29, #0xf0]
+a.out[0x100001428] <+584>: mov    x0, x8
+a.out[0x10000142c] <+588>: bl     0x100001a90               ; symbol stub for: torch_tensor_destroy
+a.out[0x100001430] <+592>: ldur   x0, [x29, #-0x88]
+a.out[0x100001434] <+596>: bl     0x100001a90               ; symbol stub for: torch_tensor_destroy
+a.out[0x100001438] <+600>: ldur   x0, [x29, #-0x90]
+a.out[0x10000143c] <+604>: bl     0x100001a90               ; symbol stub for: torch_tensor_destroy
+a.out[0x100001440] <+608>: ldur   x0, [x29, #-0x98]
+a.out[0x100001444] <+612>: bl     0x100001a90               ; symbol stub for: torch_tensor_destroy
+a.out[0x100001448] <+616>: ldur   x0, [x29, #-0xa0]
+a.out[0x10000144c] <+620>: bl     0x100001a90               ; symbol stub for: torch_tensor_destroy
+a.out[0x100001450] <+624>: ldur   x0, [x29, #-0xa8]
+a.out[0x100001454] <+628>: bl     0x100001a90               ; symbol stub for: torch_tensor_destroy
+a.out[0x100001458] <+632>: add    x22, x22, #0x1
+a.out[0x10000145c] <+636>: cmp    x22, x23
+a.out[0x100001460] <+640>: b.lt   0x1000012a8               ; <+200>
+a.out[0x100001464] <+644>: ldur   x0, [x29, #-0x88]
+a.out[0x100001468] <+648>: bl     0x100001a90               ; symbol stub for: torch_tensor_destroy
+a.out[0x10000146c] <+652>: ldur   x0, [x29, #-0x90]
+a.out[0x100001470] <+656>: bl     0x100001a90               ; symbol stub for: torch_tensor_destroy
+a.out[0x100001474] <+660>: ldur   x0, [x29, #-0x98]
+a.out[0x100001478] <+664>: bl     0x100001a90               ; symbol stub for: torch_tensor_destroy
+a.out[0x10000147c] <+668>: ldur   x0, [x29, #-0xa0]
+a.out[0x100001480] <+672>: bl     0x100001a90               ; symbol stub for: torch_tensor_destroy
+a.out[0x100001484] <+676>: ldur   x0, [x29, #-0xa8]
+a.out[0x100001488] <+680>: bl     0x100001a90               ; symbol stub for: torch_tensor_destroy
+a.out[0x10000148c] <+684>: ldur   x0, [x29, #-0xb8]
+a.out[0x100001490] <+688>: bl     0x100001a90               ; symbol stub for: torch_tensor_destroy
+a.out[0x100001494] <+692>: ldur   x0, [x29, #-0xc0]
+a.out[0x100001498] <+696>: bl     0x100001a90               ; symbol stub for: torch_tensor_destroy
+a.out[0x10000149c] <+700>: mov    x0, xzr
+a.out[0x1000014a0] <+704>: sub    sp, x29, #0x30
+a.out[0x1000014a4] <+708>: ldp    x29, x30, [sp, #0x30]
+a.out[0x1000014a8] <+712>: ldp    x20, x19, [sp, #0x20]
+a.out[0x1000014ac] <+716>: ldp    x22, x21, [sp, #0x10]
+a.out[0x1000014b0] <+720>: ldp    x24, x23, [sp], #0x40
+a.out[0x1000014b4] <+724>: ret    
+(lldb) quit

@@ -1,29 +1,24 @@
-import sys
+with open("compiler/src/Runtime.cpp", "r") as f:
+    content = f.read()
 
-def patch_file():
-    path = "compiler/src/Runtime.cpp"
-    with open(path, "r") as f:
-        content = f.read()
-    
-    if "void *torch_tensor_ones2" not in content:
-        insert_idx = content.find("void *torch_tensor_random2")
-        new_funcs = """void *torch_tensor_ones2(int64_t d1, int64_t d2) {
-  auto t = torch::ones({d1, d2}, torch::requires_grad(false));
-  return track(new torch::Tensor(t), __func__);
+load_func = """
+void *torch_tensor_load(void *path_str) {
+    if (!path_str) return nullptr;
+    const char *path = static_cast<const char *>(path_str);
+    try {
+        std::vector<torch::Tensor> tensors;
+        torch::load(tensors, path);
+        if (tensors.empty()) return nullptr;
+        return track(new torch::Tensor(tensors[0].to(get_device())), __func__);
+    } catch (const std::exception &e) {
+        std::cerr << "[I/O Exception in LOAD] " << e.what() << "\\n";
+        exit(1);
+    }
 }
-
-void *torch_tensor_zeros2(int64_t d1, int64_t d2) {
-  auto t = torch::zeros({d1, d2}, torch::requires_grad(false));
-  return track(new torch::Tensor(t), __func__);
-}
-
 """
-        content = content[:insert_idx] + new_funcs + content[insert_idx:]
-        with open(path, "w") as f:
-            f.write(content)
-        print("Patched Runtime.cpp successfully.")
-    else:
-        print("Runtime.cpp already patched.")
 
-if __name__ == "__main__":
-    patch_file()
+if "void *torch_tensor_load(void *path_str)" not in content:
+    content = content.replace("void *torch_tensor_load_i16(void *path_str, int64_t count) {", load_func + "\\nvoid *torch_tensor_load_i16(void *path_str, int64_t count) {")
+
+with open("compiler/src/Runtime.cpp", "w") as f:
+    f.write(content)

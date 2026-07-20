@@ -1,0 +1,10 @@
+--- compiler/src/main.cpp
++++ compiler/src/main.cpp
+@@ -109,2 +109,7 @@
+         }
++        std::error_code EC2;
++        llvm::raw_fd_ostream os2("llvm_dump.mlir", EC2);
++        if (!EC2) {
++            mlirModule.print(os2);
++        }
+ 

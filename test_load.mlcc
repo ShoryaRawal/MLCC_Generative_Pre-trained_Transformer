@@ -1,0 +1,5 @@
+MODULE Test
+SUBROUTINE MAIN()
+    AUTO :: x = LOAD("checkpoints/wte.pt")
+END SUBROUTINE
+END MODULE

@@ -1,3 +1,11 @@
-target create "./ngt"
-disassemble -n main
+target create "./compiler/build/a.out"
+b torch_dispatch
+run < input.txt
+print op_name
+c
+print op_name
+c
+print op_name
+c
+print op_name
 quit

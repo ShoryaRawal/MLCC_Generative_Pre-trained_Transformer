@@ -1,0 +1,14 @@
+--- compiler/src/MLIRGen.cpp
++++ compiler/src/MLIRGen.cpp
+@@ -685,2 +685,3 @@
+     case frontend::ASTNodeKind::Stmt_Assignment:
++      llvm::errs() << "mlirgen: emitAssignment\n";
+       return emitAssignment(
+@@ -689,2 +690,3 @@
+       auto &exprStmt = static_cast<const frontend::ExprStmtAST &>(node);
++      llvm::errs() << "mlirgen: Stmt_Expr\n";
+       emitExpr(*exprStmt.getExpr());
+@@ -714,2 +716,3 @@
+   bool emitVarDecl(const frontend::VarDeclAST &var) {
++    llvm::errs() << "mlirgen: emitVarDecl " << var.getName() << "\n";
+     auto location = loc(var);

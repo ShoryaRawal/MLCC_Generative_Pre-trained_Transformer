@@ -1,6 +1,5 @@
 MODULE Test
 SUBROUTINE main()
-    AUTO :: x = RANDOM2(10, 10)
-    FREE(x)
+    PRINT("Hello from MLCC test")
 END SUBROUTINE
 END MODULE

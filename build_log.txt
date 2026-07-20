@@ -1,0 +1,317 @@
+Before MLIRGen
+mlirgen: inserting param 'x' (len=1)mlirgen: inserting param 'B' (len=1)mlirgen: inserting param 'T' (len=1)mlirgen: inserting param 'ln_1_w' (len=6)mlirgen: inserting param 'ln_1_b' (len=6)mlirgen: inserting param 'attn_q_w' (len=8)mlirgen: inserting param 'attn_k_w' (len=8)mlirgen: inserting param 'attn_v_w' (len=8)mlirgen: inserting param 'attn_proj_w' (len=11)mlirgen: inserting param 'ln_2_w' (len=6)mlirgen: inserting param 'ln_2_b' (len=6)mlirgen: inserting param 'mlp_fc_w' (len=8)mlirgen: inserting param 'mlp_proj_w' (len=10)mlirgen: emitVarDecl h_norm
+mlirgen: emitVarDecl q
+mlirgen: emitVarDecl k
+mlirgen: emitVarDecl v
+mlirgen: emitVarDecl q_mh
+mlirgen: emitVarDecl k_mh
+mlirgen: emitVarDecl v_mh
+mlirgen: emitVarDecl q_mh_t
+mlirgen: emitVarDecl k_mh_t
+mlirgen: emitVarDecl v_mh_t
+mlirgen: emitVarDecl attn_out_mh
+mlirgen: emitVarDecl attn_out_mh_t
+mlirgen: emitVarDecl attn_out
+mlirgen: emitVarDecl attn_proj
+mlirgen: emitVarDecl h
+mlirgen: emitVarDecl h_norm2
+mlirgen: emitVarDecl mlp_fc
+mlirgen: emitVarDecl mlp_act
+mlirgen: emitVarDecl mlp_proj
+mlirgen: emitVarDecl out
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: inserting param 'x' (len=1)mlirgen: inserting param 'B' (len=1)mlirgen: inserting param 'T' (len=1)mlirgen: emitVarDecl tok_emb
+mlirgen: emitVarDecl wpe_sliced
+mlirgen: emitVarDecl h
+mlirgen: emitVarDecl h1
+mlirgen: emitVarDecl h2
+mlirgen: emitVarDecl h3
+mlirgen: emitVarDecl h_norm_f
+mlirgen: emitVarDecl lm_head_w_tied
+mlirgen: emitVarDecl logits
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1400
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1400
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1600
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1572
+mlirgen: inserting param 'optim' (len=5)mlirgen: inserting param 'B' (len=1)mlirgen: inserting param 'T' (len=1)mlirgen: inserting param 'epochs' (len=6)mlirgen: inserting param 'vocab_size' (len=10)mlirgen: Stmt_Expr
+mlirgen: return {} at 1290
+mlirgen: emitVarDecl data
+mlirgen: emitVarDecl step
+mlirgen: emitVarDecl offset
+mlirgen: emitVarDecl B_T
+mlirgen: emitVarDecl max_offset
+mlirgen: emitVarDecl offsets
+mlirgen: emitVarDecl y_flat
+mlirgen: emitVarDecl x_batch
+mlirgen: emitVarDecl logits
+mlirgen: emitVarDecl logits_flat
+mlirgen: emitVarDecl loss
+mlirgen: emitVarDecl is_save
+mlirgen: emitVarDecl is_update
+mlirgen: emitVarDecl step_plus_one
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1690
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1290
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1290
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1609
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1672
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1681
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1690
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1290
+mlirgen: Stmt_Expr
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1290
+mlirgen: inserting param 'vocab_size' (len=10)mlirgen: inserting param 'max_steps' (len=9)mlirgen: inserting param 'ctx' (len=3)mlirgen: emitVarDecl step
+mlirgen: emitVarDecl seq_len
+mlirgen: emitVarDecl logits
+mlirgen: emitVarDecl logits_flat
+mlirgen: emitVarDecl last_logit
+mlirgen: emitVarDecl probs
+mlirgen: emitVarDecl next_tok
+mlirgen: emitVarDecl MAX_SEQ_LEN
+mlirgen: emitVarDecl old_ctx
+mlirgen: emitVarDecl old_ctx_2
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: Stmt_Expr
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1410
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1290
+mlirgen: emitVarDecl B
+mlirgen: emitVarDecl T
+mlirgen: emitVarDecl C
+mlirgen: emitVarDecl vocab_size
+mlirgen: emitVarDecl weights
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitAssignment
+mlirgen: emitVarDecl max_steps
+mlirgen: emitVarDecl i
+mlirgen: emitVarDecl ctx
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1290
+mlirgen: emitAssignment
+mlirgen: Stmt_Expr
+mlirgen: return {} at 1290
+mlirgen: Stmt_Expr
+After MLIRGen
+ld: warning: search path '/lib' not found
+[mlcc] Native AOT machine code executable generated successfully: a.out
