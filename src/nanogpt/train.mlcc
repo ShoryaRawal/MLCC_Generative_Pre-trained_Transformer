@@ -60,6 +60,10 @@ SUBROUTINE TRAIN(weights: STRUCT(NanoGPTWeights), optim: OPTIMIZER, B: INTEGER, 
     AUTO :: loss = RANDOM2(1, 1)
     
     AUTO :: is_save = 0
+    AUTO :: is_update = 0
+    AUTO :: step_plus_one = 0
+    
+    ZERO_GRAD(optim)
     
     FOR step IN 0..epochs
         FREE(offsets)
@@ -79,15 +83,22 @@ SUBROUTINE TRAIN(weights: STRUCT(NanoGPTWeights), optim: OPTIMIZER, B: INTEGER, 
         logits_flat = VIEW2(logits, B_T, vocab_size)
         loss = CROSS_ENTROPY(logits_flat, y_flat)
         
+        loss = SCALE(loss, 0.125)
+        
         is_save = step % 500
+        step_plus_one = step + 1
+        is_update = step_plus_one % 8
         
         PRINT("Step Loss:")
         PRINT(loss)
         
-        ZERO_GRAD(optim)
         BACKWARD(loss)
-        CLIP_GRAD(optim, 1.0)
-        STEP(optim)
+        
+        IF is_update == 0 THEN
+            CLIP_GRAD(optim, 1.0)
+            STEP(optim)
+            ZERO_GRAD(optim)
+        END IF
         
         IF is_save == 0 THEN
             PRINT("Saving checkpoint...")

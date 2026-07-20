@@ -41,7 +41,7 @@ SUBROUTINE main()
     
     AUTO :: optim = ADAMW(weights.wte, weights.wpe, weights.ln_1_w, weights.ln_1_b, weights.attn_q_w, weights.attn_k_w, weights.attn_v_w, weights.attn_proj_w, weights.ln_2_w, weights.ln_2_b, weights.mlp_fc_w, weights.mlp_proj_w, weights.ln_f_w, weights.ln_f_b, 0.00003)
 
-    AUTO :: epochs = 3
+    AUTO :: epochs = 10000
     TRAIN(weights, optim, B, T, epochs, vocab_size)
     
     AUTO :: max_steps = 10
